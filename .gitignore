@@ -1,6 +1,8 @@
 # Database files
 *.db
 *.sqlite
+# But track the initial research database
+!data/databases/holreg_research.db
 
 # Backup files
 *.bak
@@ -31,3 +33,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 ~*
+
+# Large data files (if your DB grows)
+*.db.large

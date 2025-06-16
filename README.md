@@ -18,6 +18,6 @@ This repository contains data and analysis tools for researching film adaptation
 - Manual research additions
 
 ## Key Files
-- `data/databases/adaptation_research.db` - Main database
+- `data/databases/holreg_research.db` - Main database
 - `docs/controlled_vocab.md` - Controlled vocabulary documentation
 - `queries/analysis/` - Pre-built analysis queries
