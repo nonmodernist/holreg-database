@@ -1,0 +1,71 @@
+mapping_id,afi_subject,controlled_term_id,confidence_score,mapping_notes
+1,Mothers and daughters,1,1.0,
+2,Mothers and sons,2,1.0,
+3,Fathers and daughters,3,1.0,
+4,Orphans,10,1.0,
+5,Marriage,21,1.0,
+6,Physicians,31,1.0,
+7,Lawyers,32,1.0,
+8,African Americans,40,1.0,
+9,Racism,41,1.0,
+10,Murder,55,1.0,
+11,Family honor,12,0.9,
+12,Mothers-in-law,12,0.9,
+13,Fathers-in-law,12,0.9,
+14,Schoolmasters,33,0.9,
+15,Tutors,33,0.9,
+16,Bigamy,21,0.8,
+17,Desertion (Marital),21,0.8,
+18,Marriage--Arranged,21,0.8,
+19,Marriage--Secret,21,0.8,
+20,Spinsters,46,1.0,
+21,Accidental death,62,0.8,Auto-mapped with confidence 0.8
+22,Artists,37,1.0,Auto-mapped with confidence 1.0
+23,Attempted murder,55,0.9,Auto-mapped with confidence 0.9
+24,Attempted suicide,62,0.7,Auto-mapped with confidence 0.7
+25,Brothers,9,1.0,Auto-mapped with confidence 1.0
+26,Childbirth,50,1.0,Auto-mapped with confidence 1.0
+27,Children,64,1.0,Auto-mapped with confidence 1.0
+28,Class conflict,42,0.8,Auto-mapped with confidence 0.8
+29,Class distinction,42,0.8,Auto-mapped with confidence 0.8
+30,Clergy,35,0.8,Auto-mapped with confidence 0.8
+31,Courtship,30,1.0,Auto-mapped with confidence 1.0
+32,Death and dying,62,1.0,Auto-mapped with confidence 1.0
+33,Death by animals,62,0.8,Auto-mapped with confidence 0.8
+34,Death by shock,62,0.8,Auto-mapped with confidence 0.8
+35,Death in childbirth,62,0.8,Auto-mapped with confidence 0.8
+36,Divorce,24,1.0,Auto-mapped with confidence 1.0
+37,Family life,12,0.8,Auto-mapped with confidence 0.8
+38,Family relationships,12,0.8,Auto-mapped with confidence 0.8
+39,Farmers,38,1.0,Auto-mapped with confidence 1.0
+40,Kidnapping,61,1.0,Auto-mapped with confidence 1.0
+41,Marriage licenses,21,0.8,Auto-mapped with confidence 0.8
+42,Marriage--Common law,21,0.8,Auto-mapped with confidence 0.8
+43,Marriage--Forced by circumstances,21,0.8,Auto-mapped with confidence 0.8
+44,Marriage--Mixed,21,0.8,Auto-mapped with confidence 0.8
+45,Medical ethics,31,0.8,Auto-mapped with confidence 0.8
+46,Ministers,35,1.0,Auto-mapped with confidence 1.0
+47,New York City--Broadway,52,0.9,Auto-mapped with confidence 0.9
+48,New York City--Brooklyn,52,0.9,Auto-mapped with confidence 0.9
+49,New York City--Coney Island,52,0.9,Auto-mapped with confidence 0.9
+50,New York City--East Side,52,0.9,Auto-mapped with confidence 0.9
+51,Nurses,34,1.0,Auto-mapped with confidence 1.0
+52,Nursing back to health,34,0.8,Auto-mapped with confidence 0.8
+53,Poverty,43,0.9,Auto-mapped with confidence 0.9
+54,Proposals (Marital),21,0.8,Auto-mapped with confidence 0.8
+55,Racial impersonation,41,0.9,Auto-mapped with confidence 0.9
+56,Separation (Marital),21,0.8,Auto-mapped with confidence 0.8
+57,Servants,39,1.0,Auto-mapped with confidence 1.0
+58,Sisters,8,1.0,Auto-mapped with confidence 1.0
+59,Slave auctions,44,0.9,Auto-mapped with confidence 0.9
+60,Slave traders,44,0.9,Auto-mapped with confidence 0.9
+61,Slavery,44,0.9,Auto-mapped with confidence 0.9
+62,Slavery--Emancipation,44,0.9,Auto-mapped with confidence 0.9
+63,Slaves,44,0.9,Auto-mapped with confidence 0.9
+64,Slaves--Runaway,44,0.9,Auto-mapped with confidence 0.9
+65,Suicide,62,0.7,Auto-mapped with confidence 0.7
+66,The Little Minister (Novel),35,0.8,Auto-mapped with confidence 0.8
+67,Trials,56,1.0,Auto-mapped with confidence 1.0
+68,Uncle Tom's Cabin (Novel),12,0.8,Auto-mapped with confidence 0.8
+69,Weddings,23,1.0,Auto-mapped with confidence 1.0
+70,Working women,47,0.9,Auto-mapped with confidence 0.9

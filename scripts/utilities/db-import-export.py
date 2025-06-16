@@ -11,7 +11,7 @@ import os
 from pathlib import Path
 
 class DatabaseManager:
-    def __init__(self, db_path='data/databases/adaptation_research.db'):
+    def __init__(self, db_path='data/databases/holreg_research.db'):
         self.db_path = db_path
         self.export_dir = Path('data/csv_exports')
         self.export_dir.mkdir(parents=True, exist_ok=True)

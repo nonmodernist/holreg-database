@@ -1,0 +1,240 @@
+id,film_id,company_name,company_type
+1,1,California Motion Picture Corp.,production
+2,1,World Film Corp.,distribution
+3,2,Universal Film Mfg Co. ,production
+4,2,Universal Film Mfg Co.; Red Feather Photoplays,distribution
+5,3,"Bluebird Photoplays, Inc.",production
+6,3,"Bluebird Photoplays, Inc.",distribution
+7,4,Famous Players-Lasky Corp.,production
+8,4,Famous Players-Lasky Corp.,distribution
+9,4,Paramount Pictures ,distribution
+10,5,Famous Players-Lasky Corp.,production
+11,5,Famous Players-Lasky Corp.; Paramount Pictures,distribution
+12,6,Famous Players-Lasky Corp.,production
+13,6,Famous Players-Lasky Corp.; Paramount Pictures,distribution
+14,7,Metro-Goldwyn-Mayer Corp.,production
+15,7,Metro-Goldwyn-Mayer Distributing Corp.,distribution
+16,8,"Paramount Productions, Inc.",production
+17,8,"Paramount Productions, Inc.",distribution
+18,9,"Paramount Pictures, Inc.",production
+19,9,"Paramount Pictures, Inc.",distribution
+20,10,Signal Film Corp.,production
+21,10,Mutual Film Corp.; A Mutual Star Production ,distribution
+22,11,Goldwyn Pictures Corp.,production
+23,12,Famous Players-Lasky Corp.,production
+24,12,Paramount Pictures Corp.,distribution
+25,13,Mary Pickford Film Corp.,production
+26,13,Famous Players-Lasky Corp.,distribution
+27,14,"Woman Who Was Forgotten, Inc.",production
+28,14,States Cinema Corp.,distribution
+29,15,"Richard A. Rowland Productions, Inc.",production
+30,15,United Artists Corp.,distribution
+31,16,"Universal-International Pictures Co., Inc.",production
+32,16,"Universal Pictures Company, Inc.",distribution
+33,17,Twentieth Century-Fox Film Corp.,production
+34,17,Twentieth Century-Fox Film Corp.,distribution
+35,18,"Stanley Kramer Co., Inc.",production
+36,18,Columbia Pictures Corp.,distribution
+37,19,Twentieth Century-Fox Film Corp.,production
+38,19,Twentieth Century-Fox Film Corp.,distribution
+39,20,"Universal-International Pictures Co., Inc.",production
+40,20,"Universal Pictures Co., inc.",distribution
+41,21,"Baroda Productions, Inc.",production
+42,21,"Warner Bros. Pictures, Inc.",distribution
+43,22,"Warner Bros. Pictures, Inc.",production
+44,22,"Warner Bros. Pictures, Inc.",distribution
+45,23,"First National Pictures, Inc.",production
+46,23,"First National Pictures, Inc.",distribution
+47,24,"RKO Radio Pictures, Inc.",production
+48,24,"RKO Radio Pictures, Inc.",distribution
+49,25,"Warner Bros. Pictures, Inc.",production
+50,25,"Warner Bros. Pictures, Inc.",distribution
+51,25,The Vitaphone Corp.,distribution
+52,26,"Howard Productions, Inc.",production
+53,26,United Artists Corp.,distribution
+54,27,"Warner Bros. Pictures, Inc.",production
+55,27,"Warner Bros. Pictures, Inc.",distribution
+56,28,"Warner Bros. Pictures, Inc.",production
+57,28,"Warner Bros. Pictures, Inc.",distribution
+58,29,Metro-Goldwyn-Mayer Corp.,production
+59,29,Loew's Inc.,distribution
+60,30,"Warner Bros. Pictures, Inc.",production
+61,30,"Warner Bros. Pictures, Inc.",distribution
+62,31,Micheaux Pictures Corp.,production
+63,31,"Sack Amusement Enterprises, Inc.",distribution
+64,32,"J. Stuart Blackton Feature Pictures, Inc.",production
+65,32,"Pathé Exchange, Inc.",distribution
+66,33,Mary Pickford Co.,production
+67,33,United Artists Corp.,distribution
+68,34,"Universal-International Pictures Co., Inc.",production
+69,34,"Universal Pictures Co., inc.",distribution
+70,35,Walt Disney Productions ,production
+71,35,"Buena Vista Film Distribution Co., Inc.",distribution
+72,36,Metro Pictures Corp.,production
+73,36,Metro Pictures Corp.,distribution
+74,37,"Warner Bros. Pictures, Inc.",production
+75,37,"Warner Bros. Pictures, Inc.",distribution
+76,38,Cosmopolitan Productions,production
+77,38,Famous Players-Lasky Corp.,distribution
+78,38,Paramount-Artcraft Pictures,distribution
+79,39,Cosmopolitan Productions,production
+80,39,Paramount Pictures ,distribution
+81,40,Cosmopolitan Productions,production
+82,40,Famous Players-Lasky Corp.,distribution
+83,40,Paramount Pictures ,distribution
+84,41,Universal Pictures Corp.,production
+85,41,Universal Pictures Corp.,distribution
+86,42,Universal Pictures Corp.,production
+87,42,Universal Pictures Corp.,distribution
+88,43,"Universal Pictures Company, Inc.",production
+89,43,"Universal Pictures Company, Inc.",distribution
+90,44,"Warner Bros. Pictures, Inc.",production
+91,44,"Warner Bros. Pictures, Inc.",distribution
+92,45,"Universal-International Pictures Co., Inc.",production
+93,45,"Universal Pictures Co., inc.",distribution
+94,46,"Carrollton, Inc.",production
+95,46,"Ross Hunter Productions, Inc.",production
+96,46,Universal-International,distribution
+97,47,Jesse L. Lasky Feature Play Co. ,production
+98,47,Paramount Pictures Corp.,distribution
+99,48,Gene Stratton-Porter Productions,production
+100,48,W. W. Hodkinson Corp.,distribution
+101,49,Gene Stratton Porter Productions ,production
+102,49,Film Booking Offices of America ,distribution
+103,50,"Gene Stratton Porter Productions, Inc.",production
+104,50,Film Booking Offices of America ,distribution
+105,51,Gene Stratton-Porter Productions,production
+106,51,Film Booking Offices of America ,distribution
+107,52,R-C Pictures Corp.,production
+108,52,Film Booking Offices of America ,distribution
+109,53,"Gene Stratton Porter Productions, Inc.",production
+110,53,Film Booking Offices of America ,distribution
+111,54,"F.B.O. Productions, Inc.",production
+112,54,"F.B.O. Productions, Inc.",distribution
+113,55,Monogram Pictures Corp.,production
+114,55,Monogram Pictures Corp.,distribution
+115,56,"RKO Radio Pictures, Inc.",production
+116,56,"RKO Radio Pictures, Inc.",distribution
+117,57,"RKO Radio Pictures, Inc.",production
+118,57,"RKO Radio Pictures, Inc.",distribution
+119,58,Monogram Pictures Corp.,production
+120,58,Republic Pictures Corp.,distribution
+121,58,Monogram Pictures Corp.,distribution
+122,59,Republic Pictures Corp.,production
+123,59,Republic Pictures Corp.,distribution
+124,60,Republic Pictures Corp.,production
+125,60,Republic Pictures Corp.,distribution
+126,61,Monogram Pictures Corp.,production
+127,61,Monogram Pictures Corp.,distribution
+128,62,Monogram Pictures Corp.,production
+129,62,Monogram Pictures Corp.,distribution
+130,63,"RKO Radio Pictures, Inc.",production
+131,63,"RKO Radio Pictures, Inc.",distribution
+132,64,Columbia Pictures Corp.,production
+133,64,Columbia Pictures Corp.,distribution
+134,65,Columbia Pictures Corp.,production
+135,65,Columbia Pictures Corp.,distribution
+136,66,Windsor Pictures Corp.,production
+137,66,Monogram Distributing Corp.,distribution
+138,67,"Associated Producers, Inc.",production
+139,67,Twentieth Century-Fox Film Corp.,distribution
+140,68,"Monogram Productions, Inc.",production
+141,68,Monogram Pictures Corp.,distribution
+142,69,Petrova Picture Co.,production
+143,69,"First National Exhibitors' Circuit, Inc.",distribution
+144,70,Famous Players Film Co.,production
+145,70,State Rights,distribution
+146,71,Norma Talmadge Film Corp.,production
+147,71,Select Pictures Corp.,distribution
+148,72,Realart Pictures Corp.,production
+149,72,Realart Pictures Corp.,distribution
+150,73,Chaplin-Mayer Pictures Co.,production
+151,73,"First National Exhibitors' Circuit, Inc.",distribution
+152,74,Mary Pickford Co.,production
+153,74,United Artists ,distribution
+154,75,Fox Film Corp.,production
+155,75,Fox Film Corp.,distribution
+156,76,"Associated Producers, Inc.",production
+157,76,Twentieth Century-Fox Film Corp.,distribution
+158,77,Thanhouser Film Corp.,production
+159,77,Thanhouser Film Corp.,distribution
+160,78,World Producing Corp.,production
+161,78,World Film Corp.,distribution
+162,79,Famous Players-Lasky Corp.,production
+163,79,Famous Players-Lasky Corp.,distribution
+164,79,Paramount Pictures ,distribution
+165,80,Paul W. Whitcomb Productions,production
+166,80,Lee-Bradford Corp.,distribution
+167,81,"Feature Productions, Inc.",production
+168,81,United Artists Corp.,distribution
+169,82,Universal Film Mfg Co. ,production
+170,82,Universal Film Mfg Co.; Red Feather Photoplays,distribution
+171,83,Vitagraph Co. of America,production
+172,83,Greater Vitagraph (V-L-S-E),distribution
+173,84,R-C Pictures ,production
+174,85,"First National Pictures, Inc.",production
+175,85,"First National Pictures, Inc.",distribution
+176,86,Biograph Co.,production
+177,86,Biograph Co.,distribution
+178,87,Clune Film Producing Co.,production
+179,87,State Rights,distribution
+180,88,"Inspiration Pictures, Inc.",production
+181,88,United Artists Corp.,distribution
+182,89,Twentieth Century-Fox Film Corp.,production
+183,89,Twentieth Century-Fox Film Corp.,distribution
+184,90,Mary Pickford Film Corp.,production
+185,90,Artcraft Pictures Corp.,distribution
+186,91,Fox Film Corp.,production
+187,91,Fox Film Corp.,distribution
+188,92,Twentieth Century-Fox Film Corp.,production
+189,92,Twentieth Century-Fox Film Corp.,distribution
+190,93,Robertson-Cole Pictures,production
+191,94,"RKO Radio Pictures, Inc.",production
+192,94,"RKO Radio Pictures, Inc.",distribution
+193,95,Metro Pictures Corp.,production
+194,95,Metro Pictures Corp.,distribution
+195,96,Pine-Thomas Productions,production
+196,96,Paramount Pictures Corp.,production
+197,96,Paramount Pictures Corp.,distribution
+198,97,"Rolfe Photoplays, Inc.",production
+199,97,Metro Pictures Corp.,distribution
+200,98,"Popular Plays and Players, Inc.",production
+201,98,Metro Pictures Corp.,distribution
+202,99,"Selznick International Pictures, Inc.",production
+203,99,Loew's Inc.,distribution
+204,100,Mrs. Wallace Reid Productions,production
+205,100,Cliff Broughton Productions,production
+206,100,Willis Kent Productions,production
+207,100,First Division Pictures ,distribution
+208,100,States' rights,distribution
+209,101,The Mandarin Film Company,production
+210,101,State Rights,distribution
+211,102,Metro-Goldwyn-Mayer Corp.,production
+212,102,Loew's Inc.,distribution
+213,103,Metro-Goldwyn-Mayer Corp.,production
+214,103,Loew's Inc.,distribution
+215,104,Metro-Goldwyn-Mayer Corp.,production
+216,104,Loew's Inc.,distribution
+217,105,Twentieth Century-Fox Film Corp.,production
+218,105,Twentieth Century-Fox Film Corp.,distribution
+219,106,Twentieth Century-Fox Film Corp.,production
+220,106,Twentieth Century-Fox Film Corp.,distribution
+221,107,Reliance Motion Picture Co.,production
+222,107,Mutual Film Corp.,distribution
+223,107,Continental Feature Film Corp.,distribution
+224,108,Goldwyn Pictures Corp.,production
+225,108,Goldwyn Distributing Corp.,distribution
+226,109,Vitagraph Co. of America; A Blue Ribbon Feature,production
+227,109,Greater Vitagraph (V-L-S-E),distribution
+228,110,Metro Pictures Corp.,production
+229,110,Metro Pictures Corp.,distribution
+230,111,Fox Film Corp.,production
+231,111,Fox Film Corp.,distribution
+232,112,Metro-Goldwyn-Mayer Corp.,production
+233,112,Loew's Inc.,distribution
+234,113,Jesse L. Lasky Feature Play Co. ,production
+235,113,Paramount Pictures Corp.,distribution
+236,114,The Pickford Corp.,production
+237,114,United Artists Corp.,distribution
+238,115,Famous Players-Lasky Corp.,production
+239,115,Paramount Pictures ,distribution

@@ -1,0 +1,85 @@
+term_id,term,facet,scope_note,historical_note,modern_equivalent,afi_frequency,created_date
+1,Mothers and daughters,Family Relations,Primary plot relationships between mothers and daughters,,,b'\n\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+2,Mothers and sons,Family Relations,Primary plot relationships between mothers and sons,,,b'\n\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+3,Fathers and daughters,Family Relations,Primary plot relationships between fathers and daughters,,,b'\x0c\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+4,Fathers and sons,Family Relations,Primary plot relationships between fathers and sons,,,b'\x07\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+5,Motherhood,Family Relations,"Maternal themes, becoming a mother, maternal identity",,,b'\x06\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+6,Fatherhood,Family Relations,"Paternal themes, becoming a father, paternal identity",,,b'\x01\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+7,Brothers and sisters,Family Relations,Sibling relationships,,,b'\x05\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+8,Sisters,Family Relations,Relationships between sisters,,,b'\x06\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+9,Brothers,Family Relations,Relationships between brothers,,,b'\x03\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+10,Orphans,Family Relations,"Characters without living parents, central to plot",,,b'\x11\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+11,Adoption,Family Relations,Legal or informal adoption as plot element,,,b'\t\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+12,Family relationships,Family Relations,General family dynamics,,,b'\x0f\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+13,Family life,Family Relations,Domestic family situations,,,b'\x0b\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+14,Aunts,Family Relations,Aunt relationships,,,b'\n\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+15,Uncles,Family Relations,Uncle relationships,,,b'\x06\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+16,Cousins,Family Relations,Cousin relationships,,,b'\x08\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+17,Grandmothers,Family Relations,Grandmother relationships,,,b'\x05\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+18,Grandfathers,Family Relations,Grandfather relationships,,,b'\x06\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+19,Stepmothers,Family Relations,Stepmother relationships,,,b'\x04\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+20,Stepfathers,Family Relations,Stepfather relationships,,,b'\x02\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+21,Marriage,Marital Relations,Marriage as institution or event,,,b'\x0e\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+22,Engagements,Marital Relations,"Betrothal, engagement period",,,b'\x0c\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+23,Weddings,Marital Relations,Wedding ceremonies,,,b'\x05\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+24,Divorce,Marital Relations,Marital dissolution,,,b'\x06\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+25,Widows,Marital Relations,Women whose husbands have died,,,b'\x08\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+26,Widowers,Marital Relations,Men whose wives have died,,,b'\x02\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+27,Infidelity,Marital Relations,Marital unfaithfulness,,,b'\r\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+28,Bigamy,Marital Relations,Being married to multiple people,,,b'\x04\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+29,Romance,Marital Relations,Romantic relationships,,,b'\x0f\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+30,Courtship,Marital Relations,Romantic pursuit,,,b'\x05\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+31,Physicians,Professions,Medical doctors as significant characters,,,b'\x19\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+32,Lawyers,Professions,Legal professionals as significant characters,,,b'\x0e\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+33,Schoolteachers,Professions,Teachers as significant characters,,,b'\t\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+34,Nurses,Professions,Medical nurses,,,b'\x06\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+35,Ministers,Professions,Religious clergy,,,b'\x01\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+36,Writers,Professions,"Authors, journalists",,,0,2025-06-16 02:24:10
+37,Artists,Professions,"Painters, sculptors, etc.",,,b'\x05\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+38,Farmers,Professions,Agricultural workers,,,b'\x07\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+39,Servants,Professions,Domestic workers,,,b'\x06\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+40,African Americans,Social Issues,African American characters or themes,,,b'\r\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+41,Racism,Social Issues,Racial prejudice as theme,,,b'\t\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+42,Class distinction,Social Issues,Class differences as plot element,,,b'\t\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+43,Poverty,Social Issues,Economic hardship as theme,,,b'\n\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+44,Slavery,Social Issues,Enslavement of people,,,b'\x04\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+45,Prejudice,Social Issues,Bias and discrimination,,,0,2025-06-16 02:24:10
+46,Spinsters,Women-Specific,Unmarried women (period term),,Single women,b'\x06\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+47,Working women,Women-Specific,Women in workforce,,,b'\x01\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+48,Women in business,Women-Specific,Female entrepreneurs/business owners,,,b'\x02\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+49,Chorus girls,Women-Specific,Female stage performers,,,b'\x01\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+50,Childbirth,Women-Specific,"Giving birth, labor",,,b'\x08\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+51,Small town life,Settings,Rural or small town settings,,,b'\x0b\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+52,New York City,Settings,NYC as setting,,,b'\t\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+53,Plantations,Settings,Southern plantation settings,,,b'\x04\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+54,Farms,Settings,Agricultural settings,,,b'\x05\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+55,Murder,Plot Elements,Homicide as plot element,,,b'\x0c\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+56,Trials,Plot Elements,Legal proceedings,,,b'\x07\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+57,False accusations,Plot Elements,Wrongful blame,,,b'\t\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+58,Rescues,Plot Elements,Rescue scenarios,,,b'\x0b\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+59,Fires,Plot Elements,Fire as plot element,,,b'\x07\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+60,Automobile accidents,Plot Elements,Car crashes,,,b'\x08\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+61,Kidnapping,Plot Elements,Abduction,,,b'\x02\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+62,Death and dying,Plot Elements,Death as theme,,,b'\t\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+63,Self-sacrifice,Plot Elements,Sacrificing for others,,,b'\x10\x00\x00\x00\x00\x00\x00\x00',2025-06-16 02:24:10
+64,Children,Family Relations,Young people as characters or themes,,,0,2025-06-16 02:31:38
+65,Women physicians,Women-Specific,Female doctors,,,0,2025-06-16 02:31:38
+66,Women lawyers,Women-Specific,Female attorneys,,,0,2025-06-16 02:31:38
+67,Actresses,Women-Specific,Female stage/film performers,,,0,2025-06-16 02:31:38
+68,Rural life,Settings,Rural/country settings,,,0,2025-06-16 02:31:38
+69,Urban life,Settings,City settings,,,0,2025-06-16 02:31:38
+70,Boarding houses,Settings,Boarding house settings,,,0,2025-06-16 02:31:38
+71,Deception,Plot Elements,"Lies, tricks, false identities",,,0,2025-06-16 02:31:38
+72,Secrets,Plot Elements,Hidden information driving plot,,,0,2025-06-16 02:31:38
+73,Inheritance,Plot Elements,Inheritance disputes or windfalls,,,0,2025-06-16 02:31:38
+74,Blackmail,Plot Elements,Extortion through threats,,,0,2025-06-16 02:31:38
+75,Escapes,Plot Elements,Escape scenarios,,,0,2025-06-16 02:31:38
+76,Jealousy,Emotions/States,Jealousy as motivation,,,0,2025-06-16 02:31:38
+77,Revenge,Emotions/States,Vengeance as motivation,,,0,2025-06-16 02:31:38
+78,Ambition,Emotions/States,Drive for success/power,,,0,2025-06-16 02:31:38
+79,Mental illness,Health/Disability,Psychiatric conditions,,,0,2025-06-16 02:31:38
+80,Alcoholism,Health/Disability,Alcohol addiction,,,0,2025-06-16 02:31:38
+81,World War I,Historical Periods,1914-1918 and aftermath,,,0,2025-06-16 02:31:38
+82,Roaring Twenties,Historical Periods,1920s era,,,0,2025-06-16 02:31:38
+83,Great Depression,Historical Periods,1929-1939 economic crisis,,,0,2025-06-16 02:31:38
+84,World War II,Historical Periods,1939-1945 and home front,,,0,2025-06-16 02:31:38
