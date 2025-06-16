@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hollywood Adaptations of American Women Writers (1910-1960)</title>
+    <style>
+        :root {
+            --primary-color: #1a1a1a;
+            --secondary-color: #666;
+            --accent-color: #d4a574;
+            --bg-color: #fafafa;
+            --card-bg: #fff;
+            --border-color: #e0e0e0;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--primary-color);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        header {
+            background: var(--primary-color);
+            color: white;
+            padding: 2rem 0;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            font-size: 2rem;
+            font-weight: 300;
+            margin-bottom: 0.5rem;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.8;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .stat-card {
+            background: var(--card-bg);
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: var(--accent-color);
+        }
+
+        .stat-label {
+            color: var(--secondary-color);
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .nav-tabs {
+            display: flex;
+            border-bottom: 2px solid var(--border-color);
+            margin-bottom: 2rem;
+            overflow-x: auto;
+        }
+
+        .nav-tab {
+            padding: 1rem 2rem;
+            cursor: pointer;
+            border: none;
+            background: none;
+            font-size: 1rem;
+            color: var(--secondary-color);
+            white-space: nowrap;
+            transition: all 0.3s ease;
+        }
+
+        .nav-tab:hover {
+            color: var(--primary-color);
+        }
+
+        .nav-tab.active {
+            color: var(--accent-color);
+            border-bottom: 3px solid var(--accent-color);
+            margin-bottom: -2px;
+        }
+
+        .search-box {
+            position: relative;
+            margin-bottom: 2rem;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 1rem 3rem 1rem 1rem;
+            font-size: 1rem;
+            border: 2px solid var(--border-color);
+            border-radius: 8px;
+            transition: border-color 0.3s ease;
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: var(--accent-color);
+        }
+
+        .search-clear {
+            position: absolute;
+            right: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            background: none;
+            border: none;
+            color: var(--secondary-color);
+            cursor: pointer;
+            font-size: 1.2rem;
+            display: none;
+        }
+
+        .content-section {
+            display: none;
+        }
+
+        .content-section.active {
+            display: block;
+        }
+
+        .film-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .film-card {
+            background: var(--card-bg);
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .film-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        .film-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: var(--primary-color);
+        }
+
+        .film-year {
+            display: inline-block;
+            background: var(--accent-color);
+            color: white;
+            padding: 0.2rem 0.6rem;
+            border-radius: 4px;
+            font-size: 0.85rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .film-author {
+            color: var(--secondary-color);
+            margin-bottom: 0.5rem;
+        }
+
+        .film-subjects {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 1rem;
+        }
+
+        .subject-tag {
+            background: var(--bg-color);
+            padding: 0.3rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            color: var(--secondary-color);
+        }
+
+        .author-list {
+            display: grid;
+            gap: 1rem;
+        }
+
+        .author-card {
+            background: var(--card-bg);
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+
+        .author-name {
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        .author-stats {
+            color: var(--secondary-color);
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+        }
+
+        .theme-chart {
+            background: var(--card-bg);
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            margin-bottom: 2rem;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            color: var(--secondary-color);
+        }
+
+        .error {
+            background: #fee;
+            color: #c00;
+            padding: 1rem;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+        }
+
+        .view-all-link {
+            color: var(--accent-color);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .view-all-link:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.5rem;
+            }
+            
+            .nav-tab {
+                padding: 0.8rem 1.2rem;
+                font-size: 0.9rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Hollywood Adaptations of American Women Writers</h1>
+            <p class="subtitle">Film Adaptations Database (1910-1960)</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="stats" id="stats">
+            <div class="stat-card">
+                <div class="stat-number" id="totalFilms">-</div>
+                <div class="stat-label">Films</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="totalAuthors">-</div>
+                <div class="stat-label">Authors</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="yearRange">-</div>
+                <div class="stat-label">Year Range</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="totalThemes">-</div>
+                <div class="stat-label">Themes</div>
+            </div>
+        </div>
+
+        <nav class="nav-tabs">
+            <button class="nav-tab active" data-tab="films">Films</button>
+            <button class="nav-tab" data-tab="authors">Authors</button>
+            <button class="nav-tab" data-tab="themes">Themes</button>
+            <button class="nav-tab" data-tab="timeline">Timeline</button>
+            <button class="nav-tab" data-tab="about">About</button>
+        </nav>
+
+        <div class="search-box">
+            <input type="text" class="search-input" id="searchInput" placeholder="Search films, authors, themes...">
+            <button class="search-clear" id="searchClear">×</button>
+        </div>
+
+        <div id="contentArea">
+            <div class="content-section active" id="films">
+                <div class="loading">Loading films...</div>
+            </div>
+
+            <div class="content-section" id="authors">
+                <div class="loading">Loading authors...</div>
+            </div>
+
+            <div class="content-section" id="themes">
+                <div class="loading">Loading themes...</div>
+            </div>
+
+            <div class="content-section" id="timeline">
+                <div class="loading">Loading timeline...</div>
+            </div>
+
+            <div class="content-section" id="about">
+                <div style="background: var(--card-bg); padding: 2rem; border-radius: 8px;">
+                    <h2>About This Database</h2>
+                    <p>This database contains information about Hollywood film adaptations of works by American women writers from 1910 to 1960. The data includes detailed information about films, their source authors, and thematic content analyzed using a controlled vocabulary system.</p>
+                    
+                    <h3 style="margin-top: 2rem;">Data Sources</h3>
+                    <p>Primary data collected from the AFI Catalog and supplemented with additional research.</p>
+                    
+                    <h3 style="margin-top: 2rem;">Controlled Vocabulary</h3>
+                    <p>Films are categorized using a faceted classification system covering family relations, social issues, character types, and other thematic elements relevant to the period.</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        // Application state
+        let appData = {
+            films: [],
+            authors: [],
+            themes: [],
+            metadata: {},
+            searchIndex: []
+        };
+
+        // Initialize the application
+        async function init() {
+            try {
+                // Load metadata first
+                appData.metadata = await loadJSON('data/metadata.json');
+                updateStats();
+
+                // Load other data
+                await Promise.all([
+                    loadFilms(),
+                    loadAuthors(),
+                    loadThemes(),
+                    loadSearchIndex()
+                ]);
+
+                // Set up event listeners
+                setupEventListeners();
+
+                // Show initial content
+                showFilms();
+
+            } catch (error) {
+                console.error('Initialization error:', error);
+                showError('Failed to load data. Please refresh the page.');
+            }
+        }
+
+        // Load JSON data
+        async function loadJSON(url) {
+            const response = await fetch(url);
+            if (!response.ok) throw new Error(`Failed to load ${url}`);
+            return response.json();
+        }
+
+        // Load films data
+        async function loadFilms() {
+            appData.films = await loadJSON('data/films.json');
+        }
+
+        // Load authors data
+        async function loadAuthors() {
+            appData.authors = await loadJSON('data/authors.json');
+        }
+
+        // Load themes data
+        async function loadThemes() {
+            appData.themes = await loadJSON('data/themes_analysis.json');
+        }
+
+        // Load search index
+        async function loadSearchIndex() {
+            appData.searchIndex = await loadJSON('data/search_index.json');
+        }
+
+        // Update statistics
+        function updateStats() {
+            const stats = appData.metadata.statistics;
+            document.getElementById('totalFilms').textContent = stats.total_films;
+            document.getElementById('totalAuthors').textContent = stats.total_authors;
+            document.getElementById('yearRange').textContent = `${stats.year_range.start}-${stats.year_range.end}`;
+            document.getElementById('totalThemes').textContent = stats.total_controlled_terms;
+        }
+
+        // Setup event listeners
+        function setupEventListeners() {
+            // Tab navigation
+            document.querySelectorAll('.nav-tab').forEach(tab => {
+                tab.addEventListener('click', () => {
+                    const tabName = tab.dataset.tab;
+                    switchTab(tabName);
+                });
+            });
+
+            // Search functionality
+            const searchInput = document.getElementById('searchInput');
+            const searchClear = document.getElementById('searchClear');
+
+            searchInput.addEventListener('input', (e) => {
+                const query = e.target.value;
+                searchClear.style.display = query ? 'block' : 'none';
+                performSearch(query);
+            });
+
+            searchClear.addEventListener('click', () => {
+                searchInput.value = '';
+                searchClear.style.display = 'none';
+                performSearch('');
+            });
+        }
+
+        // Switch tabs
+        function switchTab(tabName) {
+            // Update tab states
+            document.querySelectorAll('.nav-tab').forEach(tab => {
+                tab.classList.toggle('active', tab.dataset.tab === tabName);
+            });
+
+            // Update content sections
+            document.querySelectorAll('.content-section').forEach(section => {
+                section.classList.toggle('active', section.id === tabName);
+            });
+
+            // Load content for the tab
+            switch(tabName) {
+                case 'films':
+                    showFilms();
+                    break;
+                case 'authors':
+                    showAuthors();
+                    break;
+                case 'themes':
+                    showThemes();
+                    break;
+                case 'timeline':
+                    showTimeline();
+                    break;
+            }
+        }
+
+        // Helper function to create URL-friendly slugs
+        function slugify(text) {
+            return text.toLowerCase()
+                .replace(/[^\w\s-]/g, '')
+                .replace(/[\s-]+/g, '-')
+                .replace(/^-+|-+$/g, '');
+        }
+
+        // Show films
+        function showFilms(films = appData.films) {
+            const container = document.getElementById('films');
+            
+            if (films.length === 0) {
+                container.innerHTML = '<p style="text-align: center; color: var(--secondary-color);">No films found.</p>';
+                return;
+            }
+
+            const html = `
+                <div style="text-align: right; margin-bottom: 1rem;">
+                    <a href="/films/" class="view-all-link">View All Films →</a>
+                </div>
+                <div class="film-grid">
+                    ${films.map(film => {
+                        const filmSlug = `${slugify(film.title)}-${film.release_year}`;
+                        return `
+                        <div class="film-card" onclick="window.location.href='/films/${filmSlug}.html'" style="cursor: pointer;">
+                            <h3 class="film-title">${film.title}</h3>
+                            <span class="film-year">${film.release_year}</span>
+                            ${film.literary_credits ? `<p class="film-author">by ${film.literary_credits}</p>` : ''}
+                            ${film.director ? `<p style="color: var(--secondary-color); font-size: 0.9rem;">Directed by ${film.director}</p>` : ''}
+                            ${film.controlled_subjects && film.controlled_subjects.length > 0 ? `
+                                <div class="film-subjects">
+                                    ${film.controlled_subjects
+                                        .filter(s => s.weight >= 2)
+                                        .slice(0, 5)
+                                        .map(s => `<span class="subject-tag">${s.term}</span>`)
+                                        .join('')}
+                                </div>
+                            ` : ''}
+                        </div>
+                    `}).join('')}
+                </div>
+            `;
+            
+            container.innerHTML = html;
+        }
+
+        // Show authors
+        function showAuthors() {
+            const container = document.getElementById('authors');
+            
+            const html = `
+                <div style="text-align: right; margin-bottom: 1rem;">
+                    <a href="/authors/" class="view-all-link">View All Authors →</a>
+                </div>
+                <div class="author-list">
+                    ${appData.authors.map(author => {
+                        const authorSlug = slugify(author.name);
+                        return `
+                        <div class="author-card" onclick="window.location.href='/authors/${authorSlug}.html'" style="cursor: pointer;">
+                            <h3 class="author-name">${author.name}</h3>
+                            <p class="author-stats">
+                                ${author.adaptation_count} adaptation${author.adaptation_count > 1 ? 's' : ''} 
+                                (${author.first_adaptation}-${author.last_adaptation})
+                            </p>
+                            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                                ${author.films.map(film => {
+                                    const filmSlug = `${slugify(film.title)}-${film.year}`;
+                                    return `
+                                    <span class="film-year" style="cursor: pointer;" onclick="event.stopPropagation(); window.location.href='/films/${filmSlug}.html'">
+                                        ${film.year}: ${film.title}
+                                    </span>
+                                `}).join('')}
+                            </div>
+                        </div>
+                    `}).join('')}
+                </div>
+            `;
+            
+            container.innerHTML = html;
+        }
+
+        // Show themes
+        function showThemes() {
+            const container = document.getElementById('themes');
+            
+            const themesByDecade = appData.themes.themes_by_decade || [];
+            const coOccurring = appData.themes.co_occurring_themes || [];
+            
+            const html = `
+                <div class="theme-chart">
+                    <h3>Most Common Themes</h3>
+                    <canvas id="themeChart" width="400" height="200"></canvas>
+                </div>
+                
+                <div class="theme-chart">
+                    <h3>Frequently Co-occurring Themes</h3>
+                    <div style="display: grid; gap: 1rem;">
+                        ${coOccurring.slice(0, 10).map(pair => `
+                            <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.5rem; background: var(--bg-color); border-radius: 4px;">
+                                <span>${pair.theme1} + ${pair.theme2}</span>
+                                <span style="color: var(--accent-color); font-weight: bold;">${pair.count}</span>
+                            </div>
+                        `).join('')}
+                    </div>
+                </div>
+            `;
+            
+            container.innerHTML = html;
+            
+            // Would add Chart.js visualization here
+        }
+
+        // Show timeline
+        function showTimeline() {
+            const container = document.getElementById('timeline');
+            
+            // Group films by decade
+            const filmsByDecade = {};
+            appData.films.forEach(film => {
+                const decade = Math.floor(film.release_year / 10) * 10;
+                if (!filmsByDecade[decade]) filmsByDecade[decade] = [];
+                filmsByDecade[decade].push(film);
+            });
+            
+            const html = `
+                <div style="display: grid; gap: 2rem;">
+                    ${Object.entries(filmsByDecade)
+                        .sort(([a], [b]) => a - b)
+                        .map(([decade, films]) => `
+                            <div class="theme-chart">
+                                <h3>${decade}s (${films.length} films)</h3>
+                                <div style="display: grid; gap: 0.5rem; margin-top: 1rem;">
+                                    ${films.slice(0, 10).map(film => `
+                                        <div style="display: flex; justify-content: space-between;">
+                                            <span>${film.title}</span>
+                                            <span style="color: var(--secondary-color);">${film.release_year}</span>
+                                        </div>
+                                    `).join('')}
+                                    ${films.length > 10 ? `<p style="color: var(--secondary-color); font-style: italic;">...and ${films.length - 10} more</p>` : ''}
+                                </div>
+                            </div>
+                        `).join('')}
+                </div>
+            `;
+            
+            container.innerHTML = html;
+        }
+
+        // Search functionality
+        function performSearch(query) {
+            if (!query) {
+                showFilms();
+                return;
+            }
+            
+            const lowerQuery = query.toLowerCase();
+            const results = appData.searchIndex
+                .filter(item => item.searchable.includes(lowerQuery))
+                .map(item => appData.films.find(f => f.id === item.id))
+                .filter(Boolean);
+            
+            showFilms(results);
+        }
+
+        // Error handling
+        function showError(message) {
+            const contentArea = document.getElementById('contentArea');
+            contentArea.innerHTML = `<div class="error">${message}</div>`;
+        }
+
+        // Initialize on load
+        document.addEventListener('DOMContentLoaded', init);
+    </script>
+</body>
+</html>

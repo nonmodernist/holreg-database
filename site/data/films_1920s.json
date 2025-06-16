@@ -1,0 +1,858 @@
+[
+  {
+    "id": 38,
+    "afi_movie_id": "2080",
+    "title": "Humoresque",
+    "release_year": 1920,
+    "release_date": "19 September 1920",
+    "director": "Frank Borzage|53124",
+    "director_id": "53124",
+    "writer": "Frances Marion|52360",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Cures|Children|Jews|France|Mothers and sons|Handicapped|Soldiers|New York City|World War I|Violinists|War injuries",
+    "literary_credits": "Fannie Hurst ",
+    "source_citations": "ETR 15 May 1920||Moving Picture News 15 May 1920||Moving Picture News 18 Sep 1920||Moving Picture World 15 May 1920||New York Morning Telegraph 9 May 1920||New York Times 3 May 1920||Variety 4 Jun 1920||Wid's 9 May 1920",
+    "created_at": "2025-06-16 00:25:18",
+    "survival_status": "extant",
+    "survival_notes": "",
+    "viewing_format": "online",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Children",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Mothers and sons",
+        "facet": "Family Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "afi_movie_id": "17625",
+    "title": "Judy of Rogue's Harbor",
+    "release_year": 1920,
+    "release_date": "February 1920",
+    "director": "William D. Taylor |156887",
+    "director_id": "156887",
+    "writer": "Clara S. Beranger|32331",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Assassination|Cads|Battered children|Conspiracy|Grandfathers|Neighbors|Sisters|Parentage|Waifs|Governors|Vigilantes",
+    "literary_credits": "Grace Miller White ",
+    "source_citations": "Exhibitors Trade Review 14 Feb 1920||Motion Picture News 14 Feb 1920||Moving Picture World 24 Jan 1920||Moving Picture World 9 May 1920||Moving Picture World 14 Feb 1920||New York Morning Telegraph 14 Feb 1920||New York Times 1 Mar 1920||Variety 13 Feb 1920||Wid's Daily 8 Feb 1920||Wid's Daily 17 Dec 1918||Motion Picture News 25 Jan 1919||Camera 27 Sep 1919||Camera 11 Oct 1919||Camera 25 Oct 1919||Camera  1 Nov 1919||Variety 14 Nov 1919||Variety 28 Nov 1919||Camera  20 Dec 1919||Camera 6 Mar 1920",
+    "filming_location": "Los Angeles California United States|Pasadena California United States",
+    "created_at": "2025-06-16 00:26:24",
+    "survival_status": "lost",
+    "controlled_subjects": [
+      {
+        "term": "Sisters",
+        "facet": "Family Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "afi_movie_id": "16086",
+    "title": "Polly of the Storm Country",
+    "release_year": 1920,
+    "release_date": "4 April 1920",
+    "director": "Arthur H. Rosson |16186",
+    "director_id": "16186",
+    "writer": "Frank M. Dazey |54408||Grace Miller White|63189",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Blackmail|Class conflict|Family life|Grandmothers|Squatters|Imprisonment|Upper classes|Kidnapping|Orphanages|Reputation|Revenge",
+    "source_citations": "ETR 17 Jul 1920||MPN 14 Feb 1920||MPN 10 Apr 1920||MPW 21 Aug 1920||MPW 14 Feb 1920||MPW 5 Jun 1920||MPW 25 Sep 1920||New York Morning Telegraph 19 Sep 1920",
+    "created_at": "2025-06-16 00:26:26",
+    "survival_status": "lost",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Kidnapping",
+        "facet": "Plot Elements",
+        "weight": 2
+      },
+      {
+        "term": "Class distinction",
+        "facet": "Social Issues",
+        "weight": 1
+      },
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "afi_movie_id": "18280",
+    "title": "Pollyanna",
+    "release_year": 1920,
+    "release_date": "18 January 1920",
+    "director": "Paul Powell|122247",
+    "director_id": "122247",
+    "writer": "Frances Marion|52360",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Disillusionment|Aunts|Automobile accidents|Physicians|Cures|Good Samaritans|Orphans|Paralysis|Paraplegics|Small town life",
+    "literary_credits": "Eleanor H. Porter ",
+    "source_citations": "ETR 24 Jan 1920||MPN 24 Jan 1920||MPN 14 Feb 1920||MPN 4 Sep 1920||MPN 30 Oct 1920||MPW 24 Jan 1920||MPW 14 Feb 1920||New York Morning Telegraph 25 Jan 1920||New York Times 19 Jan 1920||Variety 24 Jan 1920||Wid's 25 Jan 1920",
+    "created_at": "2025-06-16 00:25:10",
+    "survival_status": "extant",
+    "survival_notes": "Pickford film",
+    "archive_holdings": "Various archives",
+    "viewing_format": "online",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Orphans",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Physicians",
+        "facet": "Professions",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "afi_movie_id": "10040",
+    "title": "Just Around the Corner",
+    "release_year": 1921,
+    "release_date": "11 December 1921",
+    "director": "Frances Marion|52360",
+    "director_id": "52360",
+    "writer": "Frances Marion|52360",
+    "genre": "Melodrama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Family life|Family relationships|Messengers|New York City--East Side|Ushers",
+    "literary_credits": "Fannie Hurst ",
+    "source_citations": "Camera 16 Apr 1921||Exhibitors Herald 19 Jun 1920||Motion Picture Aug 1920||Moving Picture World 17 Dec 1921||Motion Picture News 12 Jun 1920||Motion Picture News 2 Apr 1921||Motion Picture News 9 Apr 1921||Motion Picture News 31 Dec 1921||Moving Picture World 31 Dec 1921||Wid's Daily 25 Mar 1921||Wid's Daily 25 Apr 1921||Camera 14 May 1921||Camera 11 Jun 1921||Camera 22 Oct 1921||Photoplay Oct 1921||Exhibitors Herald 17 Dec 1921||Motion Picture News 17 Dec 1921||Moving Picture World 24 Dec 1921||Camera 7 Jan 1922||Motion Picture News 21 Jan 1922||Motion Picture News 18 Feb 1922||Exhibitors Herald 24 Dec 1921||Motion Picture News 14 Jan 1922||Variety 6 Jan 1922||Moving Picture Age Jul 1922||Moving Picture Age Sep 1922||Variety 24 Jan 1919||Motion Picture News 7 Jan 1922",
+    "filming_location": "New York City New York United States",
+    "created_at": "2025-06-16 00:25:20",
+    "survival_status": "unknown",
+    "survival_notes": "Survives",
+    "archive_holdings": "UCLA Film and Television Archive",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "New York City",
+        "facet": "Settings",
+        "weight": 2
+      },
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "afi_movie_id": "11009",
+    "title": "Nobody's Kid",
+    "release_year": 1921,
+    "release_date": "17 April 1921",
+    "director": "Howard Hickman|71305",
+    "director_id": "71305",
+    "writer": "Howard Hickman|71305||Catherine Carr|28385",
+    "genre": "Comedy-drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Adolescence|Grandfathers|Judges|Orphanages|Orphans|Parentage",
+    "literary_credits": "Kate Langley Bosher ",
+    "source_citations": "Camera 10 Apr 1920||Motion Picture News 16 Apr 1921||Exhibitors Herald  16 Apr 1921||Motion Picture News 30 Apr 1921||Exhibitors Herald  30 Apr 1921",
+    "filming_location": "Hollywood California United States",
+    "created_at": "2025-06-16 00:27:08",
+    "survival_status": "unknown",
+    "survival_notes": "Survives",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Orphans",
+        "facet": "Family Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "afi_movie_id": "12115",
+    "title": "Silent Years",
+    "release_year": 1921,
+    "release_date": "27 November 1921",
+    "director": "Louis J. Gasnier |101030",
+    "director_id": "101030",
+    "writer": "Winifred Dunn|157763||Eve Unsell|50025",
+    "genre": "Melodrama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Dogs|French Canadians|Invalids|Mortgages|Motherhood|Parentage|St. Lawrence River|Sisters",
+    "literary_credits": "Harriet Theresa Comstock ",
+    "source_citations": "Motion Picture News 13 Aug 1921||Motion Picture News 27 Aug 1921",
+    "filming_location": "Truckee California United States",
+    "created_at": "2025-06-16 00:26:51",
+    "survival_status": "lost",
+    "survival_notes": "lost per LOC",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Sisters",
+        "facet": "Family Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "afi_movie_id": "1518",
+    "title": "Hungry Hearts",
+    "release_year": 1922,
+    "release_date": "10 September 1922",
+    "director": "E. Mason Hopper|42274",
+    "director_id": "42274",
+    "writer": "Julien Josephson|91145",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Finance--Personal|Immigrants|Jews|Landlords|Lawyers|Russians",
+    "literary_credits": "Anzia Yezierska ",
+    "source_citations": "Exhibitors Trade Review 9 Dec 1922||Film Daily 29 Nov 1922||Moving Picture World 3 Jun 1922||New York Times 27 Nov 1922||Variety 1 Dec 1922||Film Daily 30 Aug 1922||Motion Picture News 5 Nov 1921||Motion Picture News 3 Dec 1921||Motion Picture Magazine Mar 1923||Motion Picture News 29 Oct 1921||Motion Picture News 12 Feb 1921",
+    "filming_location": "New York City New York United States",
+    "created_at": "2025-06-16 00:24:29",
+    "survival_status": "extant",
+    "survival_notes": "",
+    "viewing_format": "DVD",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Lawyers",
+        "facet": "Professions",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "afi_movie_id": "1558",
+    "title": "Little Miss Smiles",
+    "release_year": 1922,
+    "release_date": "15 January 1922",
+    "director": "Jack Ford |85693",
+    "director_id": "85693",
+    "writer": "Jack Strumwasser|76285||Dorothy Yost|41198",
+    "genre": "Melodrama",
+    "sub_genre": "Domestic",
+    "film_type": "Feature",
+    "subjects": "Blindness|Boxers|Brothers and sisters|Family life|Gangsters|Jews|New York City|Physicians|Tenement-houses",
+    "literary_credits": "Myra Kelly ",
+    "source_citations": "Exhibitors Trade Review 18 Feb 1922||Film Daily 22 Jan 1922||Moving Picture World 28 Jan 1922||Moving Picture World 11 Feb 1922 ||Variety 10 Feb 1922||Motion Picture News 8 Oct 1921||Camera 24 Sep 1921||Camera 15 Oct 1921||Camera 29 Oct 1921||Camera 26 Nov 1921||Motion Picture News 15 Oct 1921||Exhibitors Herald 15 Oct 1921||Motion Picture News 24 Dec 1921||Exhibitors Herald 4 Feb 1922||Motion Picture News 7 Jan 1922||Motion Picture News 4 Feb 1922||Tri-County Banner [Knightstown, IN] 13 Jan 1922||Casper Star-Tribune [Casper, WY] 19 Jan 1922||Jacksonville Daily Journal [Jacksonville, IL] 18 Jan 1922",
+    "filming_location": "Hollywood California United States|Los Angeles California United States",
+    "created_at": "2025-06-16 00:27:42",
+    "survival_status": "lost",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Physicians",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "afi_movie_id": "10803",
+    "title": "Miss Lulu Bett",
+    "release_year": 1922,
+    "release_date": "1 January 1922",
+    "director": "William C. de Mille|156814",
+    "director_id": "156814",
+    "writer": "Clara Beranger |32331",
+    "genre": "Melodrama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Bigamy|Brothers|Dentists|Drudges|Justices of the peace|Reputation|Schoolteachers|Small town life|Spinsters",
+    "literary_credits": "Zona Gale ",
+    "source_citations": "Film Daily 25 Dec 1921||Motion Picture News 27 Aug 1921||Moving Picture World 10 Sep 1921||Moving Picture World 13 Aug 1921||Motion Picture News 10 Sep 1921||Motion Picture News 22 Oct 1921||Picture-Play Magazine Dec 1921||Moving Picture World 22 Oct 1921||Moving Picture World 31 Dec 1921||Motion Picture News 31 Dec 1921||Moving Picture World 3 Dec 1921",
+    "filming_location": "Hollywood California United States",
+    "created_at": "2025-06-16 00:27:50",
+    "survival_status": "unknown",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Brothers",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Spinsters",
+        "facet": "Women-Specific",
+        "weight": 2
+      },
+      {
+        "term": "Marriage",
+        "facet": "Marital Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "afi_movie_id": "12586",
+    "title": "Tess of the Storm Country",
+    "release_year": 1922,
+    "release_date": "12 November 1922",
+    "director": "John S. Robertson |76140",
+    "director_id": "76140",
+    "writer": "Elmer Harris|46967",
+    "genre": "Melodrama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Brothers and sisters|Family relationships|Injustice|Murder|Poverty|Squatters",
+    "literary_credits": "Grace Miller White |Rupert Hughes ",
+    "source_citations": "Film Daily 19 Nov 1922||New York Times 13 Nov 1922||Variety 17 Nov 1922||Exhibitors Herald 26 Nov 1921||Film Daily 26 Jan 1922||Exhibitors Trade Review 11 Feb 1922||Film Daily 21 Mar 1922||Film Daily 9 May 1922||Exhibitors Trade Review 20 May 1922||Exhibitors Trade Review 17 Jun 1922||Film Daily 24 Jun 1922||Film Daily 17 Aug 1922||Exhibitors Trade Review 26 Aug 1922||Exhibitors Trade Review 11 Nov 1922||Film Daily 14 Nov 1922||Exhibitors Trade Review 25 Nov 1922||Exhibitors Herald 2 Dec 1922",
+    "filming_location": "Chatsworth California United States",
+    "created_at": "2025-06-16 00:26:28",
+    "survival_status": "extant",
+    "survival_notes": "Mary Pickford version",
+    "viewing_format": "online",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Murder",
+        "facet": "Plot Elements",
+        "weight": 2
+      },
+      {
+        "term": "Poverty",
+        "facet": "Social Issues",
+        "weight": 2
+      },
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "afi_movie_id": "1484",
+    "title": "The Good Provider",
+    "release_year": 1922,
+    "release_date": "22 April 1922",
+    "director": "Frank Borzage|53124",
+    "director_id": "53124",
+    "writer": "John Lynch|86290",
+    "genre": "Melodrama",
+    "sub_genre": "Society",
+    "film_type": "Feature",
+    "subjects": "Bankruptcy|Immigrants|Jews|New York City|Small town life",
+    "literary_credits": "Fannie Hurst ",
+    "source_citations": "Exhibitors Trade Review 22 Apr 1922||Film Daily 16 Apr 1922||Moving Picture World 22 Apr 1922||Moving Picture World 29 Apr 1922||Variety 14 Apr 1922||Film Daily 1 May 1922||Camera 4 Feb 1922||Camera 4 Mar 1922||Jewish Exponent 28 Apr 1922||Moving Picture Age May 1922||Exhibitors Trade Review 22 Apr 1922||Camera 20 May 1922||Camera 22 May 1922||Exhibitors Herald 10 Jun 1922||Moving Picture World 13 May 1922||Moving Picture World 13 May 1922||Film Daily 28 Mar 1922||Film Daily 11 Apr 1922||New York Times 13 Apr 1922",
+    "created_at": "2025-06-16 00:25:22",
+    "survival_status": "unknown",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": []
+  },
+  {
+    "id": 48,
+    "afi_movie_id": "10741",
+    "title": "Michael O'Halloran",
+    "release_year": 1923,
+    "release_date": "10 June 1923",
+    "director": "James Leo Meehan|78659",
+    "director_id": "78659",
+    "writer": "James Leo Meehan|78659",
+    "genre": "Melodrama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Birds|Handicapped|Lawyers|Orphans|Poverty|Rural life|Wealth",
+    "literary_credits": "Gene Stratton-Porter ",
+    "source_citations": "Exhibitors Trade Review 28 Oct 1922",
+    "filming_location": "Culver City California United States",
+    "created_at": "2025-06-16 00:25:40",
+    "survival_status": "lost",
+    "survival_notes": "",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Lawyers",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Orphans",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Poverty",
+        "facet": "Social Issues",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "afi_movie_id": "9367",
+    "title": "A Girl of the Limberlost",
+    "release_year": 1924,
+    "release_date": "28 April 1924",
+    "director": "James Leo Meehan|78659",
+    "director_id": "78659",
+    "writer": "Gene Stratton Porter |57770",
+    "genre": "Melodrama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Adolescence|Dogs|High school students|Infidelity|Marshes|Motherhood|Quicksand",
+    "literary_credits": "Gene Stratton-Porter ",
+    "created_at": "2025-06-16 00:25:42",
+    "survival_status": "lost",
+    "survival_notes": "",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": []
+  },
+  {
+    "id": 23,
+    "afi_movie_id": "1690",
+    "title": "So Big",
+    "release_year": 1924,
+    "release_date": "28 December 1924",
+    "director": "Charles Brabin|29072",
+    "director_id": "29072",
+    "writer": "Adelaide Heilbron|7388||Earl Hudson|42471",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Architects|Chicago (IL)|Dutch|Farmers|Illinois|Motherhood|Schoolteachers|Truck farmers",
+    "literary_credits": "Edna Ferber ",
+    "source_citations": "Film Daily 11 Jan 1925||New York Times 5 Jan 1925||Variety 7 Jan 1925||Exhibitors Trade Review 21 Jan 1925||Exhibitors Trade Review 8 Nov 1924||Motion Picture Classic Oct 1924||Photoplay Magazine Nov 1924||Exhibitors Herald 16 Aug 1924||Exhibitors Herald 23 Aug 1924||Exhibitors Herald 23 Aug 1924||Film Daily 21 Aug 1924||Exhibitors Herald 6 Dec 1924||Exhibitors Herald 20 Dec 1924||Moving Picture World 18 Oct 1924||Moving Picture World 29 Nov 1924||Exhibitors Herald 10 Jan 1925||Variety 7 Jan 1925||Sioux City Journal [Sioux City, IA] 17 Aug 1924||Houston Post [Houston, TX] 17 Aug 1924||Indianapolis Times [Indianapolis, IN] 8 Nov 1924||Moving Picture World 9 Aug 1924||Los Angeles Times 28 Dec 1924||Los Angeles Times 20 Dec 1924||Los Angeles Times 2 Nov 1924||Los Angeles Times 17 Sep 1924||Los Angeles Times 17 Aug 1924||Los Angeles Times 16 May 1924",
+    "created_at": "2025-06-16 00:24:52",
+    "survival_status": "lost",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Farmers",
+        "facet": "Professions",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "afi_movie_id": "1657",
+    "title": "Salome of the Tenements",
+    "release_year": 1925,
+    "release_date": "23 February 1925",
+    "director": "Sidney Olcott|140654",
+    "director_id": "140654",
+    "writer": "Sonya Levien|141460",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Blackmail|Couturiers|Jews|New York City|Newspapers|Philanthropists|Reporters|Secretaries|Usury",
+    "literary_credits": "Anzia Yezierska ",
+    "source_citations": "Film Daily 8 Mar 1925||New York Times 24 Feb 1925||Variety 25 Feb 1925||Photoplay Dec 1924||Moving Picture World 4 Oct 1924||Moving Picture World 11 Oct 1924||Exhibitors Trade Review 15 Nov 1924||Moving Picture World 22 Nov 1924||Photoplay Feb 1925||American Cinematographer Dec 1924||Film Daily 23 Nov 1924||Exhibitors Trade Review 6 Dec 1924||Motion Picture Mar 1925||Moving Picture World 27 Dec 1924||Moving Picture World 20 Dec 1924||Exhibitors Trade Review 18 Apr 1925||Exhibitors Trade Review 28 Feb 1925||Film Daily 9 Mar 1925||Moving Picture World 7 Mar 1925||Motion Picture Jun 1925||Photoplay May 1925||Exhibitors Trade Review 28 Mar 1925||Film Daily 8 Mar 1925",
+    "filming_location": "Astoria New York United States|New York City New York United States",
+    "created_at": "2025-06-16 00:24:31",
+    "survival_status": "lost",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": []
+  },
+  {
+    "id": 50,
+    "afi_movie_id": "10055",
+    "title": "The Keeper of the Bees",
+    "release_year": 1925,
+    "release_date": "18 October 1925",
+    "director": "James Leo Meehan|78659",
+    "director_id": "78659",
+    "genre": "Melodrama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Bees and wasps|Marriage|Reputation|Self-sacrifice|Tomboys|Veterans",
+    "literary_credits": "Gene Stratton-Porter ",
+    "source_citations": "Film Daily 8 Nov 1925||New York Times 28 Oct 1925||Variety 28 Oct 1925||Exhibitors Trade Review 24 Oct 1925||Motion Picture News 17 Oct 1925||American Cinematographer Jun 1925",
+    "filming_location": "Santa Barbara California United States",
+    "created_at": "2025-06-16 00:25:44",
+    "survival_status": "lost",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Marriage",
+        "facet": "Marital Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "afi_movie_id": "11310",
+    "title": "The Pearl of Love",
+    "release_year": 1925,
+    "release_date": "December 1925",
+    "director": "Leon E. Dadmun|97600",
+    "director_id": "97600",
+    "genre": "Melodrama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Adoption|Maine|Shipwrecks|Smuggling",
+    "literary_credits": "Harriet Beecher Stowe ",
+    "source_citations": "MPN Booking Gudie Apr 1925||Variety 27 Aug 1924||Film Daily 15 Jun 1924||Exhibitors Trade Review 13 Jun 1925||Brooklyn Standard Union 21 Jun 1925",
+    "created_at": "2025-06-16 00:26:39",
+    "survival_status": "lost",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": []
+  },
+  {
+    "id": 51,
+    "afi_movie_id": "1546",
+    "title": "Laddie",
+    "release_year": 1926,
+    "release_date": "26 September 1926",
+    "director": "James Leo Meehan|78659",
+    "director_id": "78659",
+    "writer": "Jeanette Porter Meehan|81065",
+    "genre": "Romance",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Children|Courtship|English|Exile|Family life|Ohio|Pioneers",
+    "literary_credits": "Gene Stratton-Porter ",
+    "source_citations": "Film Daily 22 Aug 1926||MPW 4 Sep 1926||Variety 3 Nov 1926",
+    "created_at": "2025-06-16 00:25:46",
+    "survival_status": "lost",
+    "survival_notes": "",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Children",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Courtship",
+        "facet": "Marital Relations",
+        "weight": 2
+      },
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "afi_movie_id": "10460",
+    "title": "Lovey Mary",
+    "release_year": 1926,
+    "release_date": "31 May 1926",
+    "director": "King Baggot|94156",
+    "director_id": "94156",
+    "writer": "Agnes Christine Johnston|7852||Charles Maigne|29688",
+    "genre": "Comedy-drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Canneries|Children|Courtship|Exterminators|Orphanages|Orphans",
+    "literary_credits": "Alice Hegan Rice ",
+    "source_citations": "Film Daily 4 Jul 1926||New York Times 21 Jun 1927||Variety 23 Jun 1926",
+    "created_at": "2025-06-16 00:24:22",
+    "survival_status": "partially lost",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Children",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Courtship",
+        "facet": "Marital Relations",
+        "weight": 2
+      },
+      {
+        "term": "Orphans",
+        "facet": "Family Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "afi_movie_id": "12324",
+    "title": "Sparrows",
+    "release_year": 1926,
+    "release_date": "19 September 1926",
+    "director": "William Beaudine|155156",
+    "director_id": "155156",
+    "writer": "C. Gardner Sullivan|25538||Winifred Dunn|157763",
+    "genre": "Melodrama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Battered children|Child labor|Children|Kidnapping|Orphans|Religion|Swamps|United States--South",
+    "source_citations": "Film Daily 26 Sep 1926||Moving Picture World 9 Oct 1926||New York Times 7 Sep 1926||Variety 22 Sep 1926||Photoplay Aug 1926||Exhibitors Trade Review 13 Jun 1925||Motion Picture News 20 Jun 1925||Variety 12 Aug 1925||Variety 14 Oct 1925||Moving Picture World 19 Dec 1925||Film Daily 22 Jan 1926||Moving Picture World 13 Feb 1926||Film Daily 28 Feb 1926||Moving Picture World 6 Mar 1926||Moving Picture World 29 May 1926||Film Daily 11 Oct 1925||Photoplay Dec 1925",
+    "filming_location": "Hollywood California United States",
+    "created_at": "2025-06-16 00:27:48",
+    "survival_status": "extant",
+    "viewing_format": "DVD",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Children",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Kidnapping",
+        "facet": "Plot Elements",
+        "weight": 2
+      },
+      {
+        "term": "Orphans",
+        "facet": "Family Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "afi_movie_id": "9579",
+    "title": "The Harvester",
+    "release_year": 1927,
+    "release_date": "23 November 1927",
+    "director": "Leo Meehan |78659",
+    "director_id": "78659",
+    "writer": "Dorothy Yost|41198",
+    "genre": "Melodrama",
+    "sub_genre": "Domestic",
+    "film_type": "Feature",
+    "subjects": "Detectives|Herbs|Marriage|Nurses|Parentage|Physicians|Rural life",
+    "literary_credits": "Gene Stratton-Porter ",
+    "source_citations": "Film Daily 20 Nov 1927||Variety 9 Nov 1927||New York Times 20 Nov 1927",
+    "created_at": "2025-06-16 00:25:47",
+    "survival_status": "lost",
+    "survival_notes": "",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Marriage",
+        "facet": "Marital Relations",
+        "weight": 2
+      },
+      {
+        "term": "Nurses",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Physicians",
+        "facet": "Professions",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "afi_movie_id": "10517",
+    "title": "The Magic Garden",
+    "release_year": 1927,
+    "release_date": "30 January 1927",
+    "director": "J. Leo Meehan |78659",
+    "director_id": "78659",
+    "writer": "J. Leo Meehan |78659",
+    "genre": "Romance",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Gardens|Suicide|Venice (Italy)|Violinists|Yachts and yachting",
+    "literary_credits": "Gene Stratton-Porter ",
+    "source_citations": "Film Daily 20 Feb 1927||Variety 16 Feb 1927",
+    "created_at": "2025-06-16 00:25:49",
+    "survival_status": "lost",
+    "survival_notes": "",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Death and dying",
+        "facet": "Plot Elements",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "afi_movie_id": "1734",
+    "title": "Topsy and Eva",
+    "release_year": 1927,
+    "release_date": "August 1927",
+    "director": "Del Lord|37450",
+    "director_id": "37450",
+    "writer": "Lois Weber|100130",
+    "producer": "Myron Selznick|115534",
+    "genre": "Melodrama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "African Americans|Uncle Tom's Cabin (Novel)|Children|Miracles|Slavery",
+    "literary_credits": "Catherine Chisholm Cushing ",
+    "source_citations": "Film Daily 21 Aug 1927||New York Times 8 Aug 1927||Variety 22 Jun 1927||Los Angeles Times 18 Jun 1927||American Cinematographer Apr 1927",
+    "filming_location": "",
+    "created_at": "2025-06-16 00:26:40",
+    "survival_status": "unknown",
+    "survival_notes": "Survives",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "African Americans",
+        "facet": "Social Issues",
+        "weight": 2
+      },
+      {
+        "term": "Children",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Slavery",
+        "facet": "Social Issues",
+        "weight": 2
+      },
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Fieldwork Footage",
+    "release_year": 1928,
+    "director": "Zora Neale Hurston",
+    "genre": "Documentary",
+    "created_at": "2025-06-16 15:23:18",
+    "survival_status": "extant",
+    "viewing_format": "DVD",
+    "controlled_subjects": []
+  },
+  {
+    "id": 54,
+    "afi_movie_id": "9236",
+    "title": "Freckles",
+    "release_year": 1928,
+    "release_date": "21 March 1928",
+    "director": "Leo Meehan |78659",
+    "director_id": "78659",
+    "writer": "Dorothy Yost|41198",
+    "genre": "Melodrama",
+    "sub_genre": "Northwest",
+    "film_type": "Feature",
+    "subjects": "Amputees|Forests|Lumber camps|Lumber industry|Orphans|Thieves|Lumber",
+    "literary_credits": "Gene Stratton-Porter ",
+    "source_citations": "Film Daily 22 Jan 1928||Variety 25 Jan 1928||Exhibitors Herald 7 May 1927||Film Daily 1 Sep 1927||Exhibitors Herald 24 Sep 1927||Hollywood Vagabond 6 Oct 1927||Exhibitors Herald 5 Nov 1927||Exhibitors Herald 8 Oct 1927||New York Daily News 26 Oct 1927||Motion Picture News 28 Jan 1928||Motion Picture News 4 Feb 1928||Salt Lake Tribune [Salt Lake City, UT] 26 Feb 1928||American Fork Citizen [American Fork, UT] 24 Mar 1928",
+    "filming_location": "Hollywood California United States",
+    "created_at": "2025-06-16 00:25:51",
+    "survival_status": "lost",
+    "survival_notes": "",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Orphans",
+        "facet": "Family Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "afi_movie_id": "1638",
+    "title": "Ramona",
+    "release_year": 1928,
+    "release_date": "April 1928",
+    "director": "Edwin Carewe|45387",
+    "director_id": "45387",
+    "writer": "Finis Fox|51364",
+    "genre": "Drama",
+    "sub_genre": "Historical",
+    "film_type": "Feature",
+    "subjects": "Amnesia|Dogs|Indians of North America|Indians of North America--Mixed blood|Murder|Spaniards",
+    "literary_credits": "Helen Hunt Jackson",
+    "source_citations": "Film Daily 20 May 1928||New York Times 15 May 1928||Variety 16 May 1928||Motion Picture News 8 Apr 1927||Motion Picture News 6 May 1927||Motion Picture News 17 Jun 1927||Motion Picture News 1 Jul 1927||Cine-Mundial Jul 1927||Motion Picture News 19 Aug 1927||Motion Picture News 7 Oct 1927||Motion Picture News 14 Oct 1927||Motion Picture News 25 Nov 1927||Motion Picture News 23 Dec 1927||Photoplay Dec 1927||Photoplay Mar 1928||Los Angeles Times 12 Apr 1928||Oakland Tribune 12 Apr 1928||Los Angeles Evening Express 13 Apr 1928||Los Angeles Evening Express 16 Apr 1928||New York Times 13 May 1928",
+    "filming_location": "Hollywood California United States",
+    "created_at": "2025-06-16 00:26:59",
+    "survival_status": "extant",
+    "last_verified": "2025-06-16",
+    "music_credits": "L. Wolfe Gilbert | Mabel Wayne",
+    "controlled_subjects": [
+      {
+        "term": "Murder",
+        "facet": "Plot Elements",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Ethnographic Films",
+    "release_year": 1929,
+    "director": "Zora Neale Hurston",
+    "genre": "Documentary",
+    "created_at": "2025-06-16 15:23:18",
+    "survival_status": "extant",
+    "viewing_format": "DVD",
+    "controlled_subjects": []
+  },
+  {
+    "id": 100,
+    "afi_movie_id": "10290",
+    "title": "Linda",
+    "release_year": 1929,
+    "release_date": "1929",
+    "director": "Mrs. Wallace Reid |40862",
+    "director_id": "40862",
+    "writer": "Wilfred Noy|154759||Maxine Alton|110349||Frank O'Connor|53858",
+    "genre": "Melodrama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Bigamy|Lumberjacks|Marriage|Physicians|Schoolteachers",
+    "literary_credits": "Margaret Prescott Montague",
+    "source_citations": "Film Daily 31 Mar 1929||Variety 3 Apr 1929||Exhibitors Daily Review 28 Aug 1928||Variety 5 Sep 1928||Variety 19 Sep 1928||Screenland Jan 1929||Exhibitors Herald and Moving Picture World 10 Nov 1928||Film Daily 8 Feb 1929||Film Daily 11 Jan 1929||Exhibitors Herald-World 4 May 1929||Exhibitors Daily Review 28 Sep 1928||Hollywood Filmograph 8 Jun 1929||National Board of Review Magazine Jan 1929||Photoplay Feb 1929||Variety 19 Jun 1929||Motion Picture News 5 Oct 1929||Exhibitors Herald and Moving Picture World 3 Nov 1928",
+    "filming_location": "Fort Lee New Jersey United States",
+    "created_at": "2025-06-16 00:27:20",
+    "survival_status": "extant",
+    "survival_notes": "On Archive.org",
+    "viewing_format": "online",
+    "last_verified": "2025-06-16",
+    "music_credits": "Harry Tobias | Charles Tobias | Al Sherman",
+    "controlled_subjects": [
+      {
+        "term": "Marriage",
+        "facet": "Marital Relations",
+        "weight": 2
+      },
+      {
+        "term": "Physicians",
+        "facet": "Professions",
+        "weight": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,1053 @@
+[
+  {
+    "id": 86,
+    "afi_movie_id": "40029",
+    "title": "Ramona",
+    "release_year": 1910,
+    "release_date": "23 May 1910",
+    "director": "D. W. Griffith|34832",
+    "director_id": "34832",
+    "genre": "Drama",
+    "sub_genre": "Historical",
+    "film_type": "Short",
+    "subjects": "Adoption|California--History--To 1846|Chapels|Exploitation|Indians of North America|Indians of North America--Mixed blood|Orphans|Romance|Spanish Americans",
+    "literary_credits": "Helen Hunt Jackson ",
+    "source_citations": "LCMP ||LCPP ||EMP ||BIOB2 ||BPL ||The Daily Worker ||Moving Picture News 4 Jun 1910||Moving Picture News 24 Dec 1910||Moving Picture News 21 Oct 1916||Moving Picture World 14 May 1910||Moving Picture World 28 May 1910||Moving Picture World 4 Jun 1910||Moving Picture World 29 Jan 1910||Moving Picture World 10 Jul 1915",
+    "filming_location": "|Los Angeles California United States|Piru California United States",
+    "created_at": "2025-06-16 00:26:55",
+    "survival_status": "extant",
+    "survival_notes": "Available on YouTube",
+    "viewing_format": "online",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Orphans",
+        "facet": "Family Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "afi_movie_id": "40640",
+    "title": "Uncle Tom's Cabin",
+    "release_year": 1910,
+    "release_date": "26 July 1910",
+    "director": "Barry O'Neil|18189",
+    "director_id": "18189",
+    "genre": "Adventure|Melodrama",
+    "sub_genre": "African American|Historical",
+    "film_type": "Short",
+    "subjects": "African Americans|Fathers and daughters|Mississippi River|Mothers and sons|Ohio River|Plantations|Slave auctions|Slavery|Slaves--Runaway|United States--South",
+    "literary_credits": "Harriet Beecher Stowe ",
+    "source_citations": "Moving Picture News 23 Jul 1910||Moving Picture News 30 Jul 1910||Moving Picture World 30 Jul 1910||Moving Picture World 6 Aug 1910",
+    "filming_location": "New Rochelle New York United States",
+    "created_at": "2025-06-16 00:26:33",
+    "survival_status": "lost",
+    "survival_notes": "Lost per AFI Catalog",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "African Americans",
+        "facet": "Social Issues",
+        "weight": 2
+      },
+      {
+        "term": "Fathers and daughters",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Mothers and sons",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Slavery",
+        "facet": "Social Issues",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Janet of the Dunes",
+    "release_year": 1913,
+    "director": "Richard Ridgely",
+    "director_id": "130336",
+    "created_at": "2025-06-16 15:23:18",
+    "survival_status": "unknown",
+    "controlled_subjects": []
+  },
+  {
+    "id": 121,
+    "title": "Joyce of the North Woods",
+    "release_year": 1913,
+    "director": "Ashley Miller",
+    "director_id": "16612",
+    "created_at": "2025-06-16 15:23:18",
+    "survival_status": "unknown",
+    "controlled_subjects": []
+  },
+  {
+    "id": 1,
+    "afi_movie_id": "18181",
+    "title": "Mrs. Wiggs of the Cabbage Patch",
+    "release_year": 1914,
+    "release_date": "31 December 1914",
+    "director": "Harold Entwhistle |65893",
+    "director_id": "65893",
+    "producer": "George E. Middleton|59833",
+    "genre": "Comedy|Melodrama",
+    "sub_genre": "Carnival/Circus",
+    "film_type": "Feature",
+    "subjects": "Adoption|Circus performers|Circuses|Bigamy|Desertion (Marital)|Murder|Inheritance|Nephews|Lawyers|Photographs|Rescues|Lockets|Marriage licenses|Stepchildren|Servants|Strikes",
+    "literary_credits": "Alice Hegan Rice |Anne Crawford Flexner ",
+    "source_citations": "Motion Picture News 16 Jan 1915||Motography 29 Aug 1914||Motography 17 Oct 1914||Motography 12 Dec 1914||Motography 24 Jul 1915||Moving Picture World 29 Aug 1914||Moving Picture World 12 Sep 1914||Moving Picture World 5 Dec 1914||Moving Picture World 9 Jan 1915||NYDM 22 Jul 1914||NYDM 2 Dec 1914||Variety 1 Jan 1915||Motion Picture News 6 Feb 1915||Motion Picture News 24 Oct 1914||Motography 19 Dec 1914||Moving Picture World 12 Dec 1914||Moving Picture World 19 Dec 1914||Motography 23 Jan 1915||Moving Picture World 2 Jan 1915||Moving Picture World 16 Jan 1915||Motography 1 Aug 1914||Motography 28 Nov 1914||Motion Picture News 28 Nov 1914||Motion Picture News 5 Dec 1914||Motion Picture News 21 Nov 1914||Moving Picture World 24 Oct 1914||Motion Picture News 12 Dec 1914||Moving Picture World 21 Nov 1914",
+    "filming_location": "",
+    "created_at": "2025-06-16 00:24:11",
+    "survival_status": "lost",
+    "survival_notes": "Lost per LOC",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Lawyers",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Murder",
+        "facet": "Plot Elements",
+        "weight": 2
+      },
+      {
+        "term": "Servants",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Marriage",
+        "facet": "Marital Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "afi_movie_id": "16453",
+    "title": "Tess of the Storm Country",
+    "release_year": 1914,
+    "release_date": "20 March 1914",
+    "director": "Edwin S. Porter",
+    "director_id": "45575",
+    "writer": "B. P. Schulberg|17302",
+    "producer": "Daniel Frohman|35374",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Baptism|Class distinction|Family honor|Brothers and sisters|Clergy|Fathers and daughters|Fires|Fishermen|Illegitimacy|Friendship|Reputation|Infants|Self-sacrifice|Murder|Rabbits and hares",
+    "literary_credits": "Grace Miller White |Rupert Hughes ",
+    "source_citations": "Motography 4 Apr 1914||Moving Picture World 4 Apr 1914||NYDM 25 Mar 1914||Variety 23 Sep 1914||Moving Picture World 14 Mar 1914||Motion Picture News 14 Mar 1914||Moving Picture World 28 Mar 1914||Motion Picture Magazine Jan 1915||Motion Picture News 4 Apr 1914||Variety 6 Mar 1914",
+    "filming_location": "Santa Monica California United States",
+    "created_at": "2025-06-16 00:26:20",
+    "survival_status": "extant",
+    "survival_notes": "High quality version available",
+    "archive_holdings": "UCLA Film and Television Archive",
+    "viewing_format": "online",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Fathers and daughters",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Murder",
+        "facet": "Plot Elements",
+        "weight": 2
+      },
+      {
+        "term": "Class distinction",
+        "facet": "Social Issues",
+        "weight": 1
+      },
+      {
+        "term": "Ministers",
+        "facet": "Professions",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "afi_movie_id": "13779",
+    "title": "The Mountain Rat",
+    "release_year": 1914,
+    "release_date": "May 1914",
+    "director": "James Kirkwood|77863",
+    "director_id": "77863",
+    "writer": "Frank E. Woods|54320||Mary Rider Mechtold|109120",
+    "genre": "Western",
+    "sub_genre": "",
+    "film_type": "",
+    "subjects": "Dance hall girls|Drunkenness|Fights|Marriage|Firearms|Miners|Mothers and sons|Marriage--Secret|Romantic rivalry|Mine claims|Snobs and snobbishness",
+    "source_citations": "Moving Picture World 23 May 1914||Reel Life 28 Feb 1914||Reel Life 4 Apr 1914||Variety 22 May 1914||Reel Life 3 Oct 1914||Delaware County Daily Times (Chester, PA) 3 Jun 1914||Seattle Star (Seattle, WA) 18 May 1914",
+    "filming_location": "|Hollywood California United States",
+    "created_at": "2025-06-16 00:27:35",
+    "survival_status": "lost",
+    "survival_notes": "lost per LOC: https://en.wikisource.org/wiki/7,200_Lost_U.S._Silent_Feature_Films_(1912-29)_(2021-02-04)",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Marriage",
+        "facet": "Marital Relations",
+        "weight": 2
+      },
+      {
+        "term": "Mothers and sons",
+        "facet": "Family Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "afi_movie_id": "2113",
+    "title": "Uncle Tom's Cabin",
+    "release_year": 1914,
+    "release_date": "10 August 1914",
+    "director": "William Robert Daly|157367",
+    "director_id": "157367",
+    "producer": "J. V. Ritchey|74911",
+    "genre": "Melodrama",
+    "sub_genre": "African American",
+    "film_type": "Feature",
+    "subjects": "Chases|African Americans|Escapes|Dogs|Plantations|Infants|Pledges|Rescues|Slavery|United States--South",
+    "literary_credits": "George L. Aiken |Harriet Beecher Stowe ",
+    "source_citations": "Motography 22 Aug 1914||Motography 29 Aug 1914||Moving Picture World 22 Aug 1914||NYDM 12 Aug 1914||Variety 4 Sep 1914||Motion Picture News 29 Aug 1914||Moving Picture World 25 Jul 1915",
+    "created_at": "2025-06-16 00:26:35",
+    "survival_status": "unknown",
+    "survival_notes": "Survives",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "African Americans",
+        "facet": "Social Issues",
+        "weight": 2
+      },
+      {
+        "term": "Slavery",
+        "facet": "Social Issues",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Gene of the Northland",
+    "release_year": 1915,
+    "director": "J.J. Clark",
+    "director_id": "74569",
+    "writer": "Gene Gauntier",
+    "film_type": "Short",
+    "created_at": "2025-06-16 15:23:18",
+    "survival_status": "unknown",
+    "controlled_subjects": []
+  },
+  {
+    "id": 2,
+    "afi_movie_id": "16806",
+    "title": "A Romance of Billy Goat Hill",
+    "release_year": 1916,
+    "release_date": "9 October 1916",
+    "director": "Lynn Reynolds|102921",
+    "director_id": "102921",
+    "writer": "Lynn Reynolds|102921",
+    "genre": "Melodrama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Betrayal|False accusations|False arrests|Cures|Friendship|Gunfights|Gunshot wounds|Mutes|Trials|Professors|Sharks|Surgery|United States--South",
+    "literary_credits": "Alice Hegan Rice ",
+    "source_citations": "Motion Picture News 7 Oct 1916||Moving Picture World 7 Oct 1916||Moving Picture World 14 Oct 1916||Variety 3 Jun 1916||Wid's 28 Sep 1916||Motion Picture News 14 Oct 1916||Motography 14 Oct 1916||Moving Picture World 19 Aug 1916||New York Clipper 18 Oct 1916||Variety 14 Nov 1913||Billboard 30 Sep 1916",
+    "filming_location": "Universal City California United States",
+    "created_at": "2025-06-16 00:24:13",
+    "survival_status": "unknown",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Trials",
+        "facet": "Plot Elements",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "afi_movie_id": "16746",
+    "title": "Judith of the Cumberlands",
+    "release_year": 1916,
+    "release_date": "31 July 1916",
+    "director": "J. P. McGowan|74760",
+    "director_id": "74760",
+    "genre": "Drama",
+    "sub_genre": "Rural",
+    "film_type": "Feature",
+    "subjects": "Feuds|Cousins|Frame-ups|Falls from heights|Mountain life|Justices of the peace|Rivalry|Lynching|Marriage|Mobs|Moonshiners|Mountaineering",
+    "literary_credits": "Alice MacGowan ",
+    "source_citations": "Motion Picture News 17 Jun 1916||Motion Picture News 12 Aug 1916||Motion Picture News 23 Dec 1916||Moving Picture World 1 Apr 1916||Moving Picture World 12 Aug 1916||NYDM 5 Aug 1916||Variety 4 Aug 1916||Wid's 10 Aug 1916||Motography 12 Aug 1916||Moving Picture World 29 Jul 1916||Motion Picture News 20 May 1916||Moving Picture World 10 Jun 1916||Motion Picture News 22 Jul 1916||Motion Picture News 8 Jul 1916||Motography 6 May 1916||Motography 15 Jul 1916||Motion Picture News 10 Jun 1916||Moving Picture World 5 Aug 1916||Motion Picture News 1 Jul 1916||Motography 12 Aug 1916",
+    "filming_location": "|Los Angeles California United States",
+    "created_at": "2025-06-16 00:24:27",
+    "survival_status": "unknown",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Marriage",
+        "facet": "Marital Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "afi_movie_id": "1879",
+    "title": "Ramona",
+    "release_year": 1916,
+    "release_date": "February 1916",
+    "director": "Donald Crisp|40050",
+    "director_id": "40050",
+    "producer": "W. H. Clune|152628",
+    "genre": "Drama",
+    "sub_genre": "Historical",
+    "film_type": "Feature",
+    "subjects": "California--History|Murder|Frontier and pioneer life|Scots|Indians of North America--Mixed blood|Indians of North America|Racism",
+    "literary_credits": "Helen Hunt Jackson ",
+    "source_citations": "Motography 22 Apr 1916||Motion Picture News 9 Oct 1915||Motion Picture News 1 Apr 1916||Motion Picture News 30 Dec 1916||Moving Picture World 11 Sep 1915||Moving Picture World 22 Apr 1916||NYDM 19 Feb 1916||NYDM 15 Apr 1916||New York Times 6 Apr 1916||Variety 25 Feb 1916||Variety 7 Apr 1916||Wid's 13 Apr 1916||Motion Picture News 20 Nov 1915||Motion Picture News 25 Dec 1915||Motography 11 Sep 1915",
+    "filming_location": "San Diego California United States|Hollywood California United States||Santa Paula California United States||Santa Barbara California United States|San Francisco California United States",
+    "created_at": "2025-06-16 00:26:57",
+    "survival_status": "incomplete",
+    "survival_notes": "Only reel 5 survives",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Murder",
+        "facet": "Plot Elements",
+        "weight": 2
+      },
+      {
+        "term": "Racism",
+        "facet": "Social Issues",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "afi_movie_id": "16826",
+    "title": "The Awakening of Helena Richie",
+    "release_year": 1916,
+    "release_date": "18 December 1916",
+    "director": "John W. Noble|88014",
+    "director_id": "88014",
+    "writer": "John W. Noble|88014",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Adoption|Alcoholics|Mothers and sons|Clergy|Ostracism|Infanticide|Infidelity|Philanderers|Self-sacrifice|Village life",
+    "literary_credits": "Margaret Deland ",
+    "source_citations": "Motography 13 Jan 1917||Motion Picture News 30 Dec 1916||Moving Picture World 16 Dec 1916||Moving Picture World 20 May 1916||Moving Picture World 30 Dec 1916||NYDM 23 Dec 1916||Wid's Daily 18 Jan 1917||Chicago Daily Tribune 23 Dec 1916||Motion Picture News 2 Dec 1916||Motion Picture News 9 Dec 1916||Motion Picture News 16 Dec 1916||Motography 2 Dec 1916||Motography 23 Dec 1916||Motography 30 Dec 1916||New York Times 24 Dec 1916||San Francisco Chronicle 28 Dec 1916||Moving Picture World 11 Nov 1916||Moving Picture World 16 Dec 1916||Variety 24 Nov 1916",
+    "created_at": "2025-06-16 00:27:15",
+    "survival_status": "incomplete",
+    "survival_notes": "Incomplete print at LOC",
+    "archive_holdings": "Library of Congress",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Mothers and sons",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Ministers",
+        "facet": "Professions",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "afi_movie_id": "16741",
+    "title": "The Iron Woman",
+    "release_year": 1916,
+    "release_date": "2 October 1916",
+    "director": "Carl Harbaugh|26720",
+    "director_id": "26720",
+    "writer": "Wallace C. Clifton |152981",
+    "producer": "Alice Guy Blaché|11047||Herbert Blaché|69924",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Friendship|Divorce|Industrial accidents|Gratitude|Mill owners|Marriage|Motherhood|Seduction|Physicians",
+    "literary_credits": "Margaret Deland ",
+    "source_citations": "Motography 21 Oct 1916||Motion Picture News 16 Sep 1916||Moving Picture World 10 Jun 1916||Moving Picture World 14 Oct 1916||Variety 13 Oct 1916||Wid's Daily 12 Oct 1916||Motion Picture News 2 Sep 1916||Motion Picture News 25 Nov 1916||Motion Picture News 9 Sep 1916||Motion Picture News 30 Sep 1916||Motion Picture News 14 Oct 1916||Billboard 19 Aug 1916||Moving Picture World 21 Oct 1916||Moving Picture World 26 Aug 1916||Variety 18 Aug 1916||Billboard 2 Sep 1916||Moving Picture World 7 Oct 1916||Washington Times [Washington, D.C.] 1 Oct 1916",
+    "filming_location": "Fort Lee New Jersey United States|Bethlehem Pennsylvania United States",
+    "created_at": "2025-06-16 00:27:17",
+    "survival_status": "lost",
+    "survival_notes": "lost per LOC",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Divorce",
+        "facet": "Marital Relations",
+        "weight": 2
+      },
+      {
+        "term": "Marriage",
+        "facet": "Marital Relations",
+        "weight": 2
+      },
+      {
+        "term": "Physicians",
+        "facet": "Professions",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "afi_movie_id": "16785",
+    "title": "The Place Beyond the Winds",
+    "release_year": 1916,
+    "release_date": "6 November 1916",
+    "director": "Joseph De Grasse|89306",
+    "director_id": "89306",
+    "writer": "Ida May Park|72397",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Disease|Canada|Mountains|Fathers and daughters|Murder|Fugitives|Tenement-houses|Nurses|Puritanism",
+    "literary_credits": "Harriet Theresa Comstock ",
+    "source_citations": "Motion Picture News 11 Nov 1916||Moving Picture World 11 Nov 1916||Wid's Daily 2 Nov 1916|| 23 Dec 1916||Motion Picture News 24 Jun 1916||Hollywood Citizen 28 Jul 1916||Motion Picture News 19 Aug 1916||Motion Picture News 26 Aug 1916||Hollywood Citizen 1 Sep 1916||Motion Picture News 9 Sep 1916||Motography 16 Sep 1916||Motography 23 Sep 1916||Motography 11 Nov 1916",
+    "filming_location": "|Universal City California United States",
+    "created_at": "2025-06-16 00:26:48",
+    "survival_status": "incomplete",
+    "survival_notes": "4 of 5 reels survive, found in Dawson City",
+    "viewing_format": "DVD",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Fathers and daughters",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Murder",
+        "facet": "Plot Elements",
+        "weight": 2
+      },
+      {
+        "term": "Nurses",
+        "facet": "Professions",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "afi_movie_id": "17753",
+    "title": "A Son of the Hills",
+    "release_year": 1917,
+    "release_date": "25 June 1917",
+    "director": "Harry Davenport|66613",
+    "director_id": "66613",
+    "writer": "Joseph F. Poland |89614",
+    "genre": "Drama",
+    "sub_genre": "Rural",
+    "film_type": "Feature",
+    "subjects": "Divorce|Factories|Education|Industrialists|North Carolina|Jealousy|Mountains|Runaways|Stepmothers",
+    "literary_credits": "Harriet Theresa Comstock ",
+    "source_citations": "ETR 30 Jun 1917||Motog 14 Jul 1917||MPN 7 Jul 1917||MPW 27 Oct 1917||NYDM 23 Jun 1917||NYDM 30 Jun 1917||Wid's 28 Jun 1917",
+    "filming_location": "Canton Pennsylvania United States",
+    "created_at": "2025-06-16 00:26:50",
+    "survival_status": "lost",
+    "survival_notes": "lost per LOC",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Divorce",
+        "facet": "Marital Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "afi_movie_id": "16823",
+    "title": "An Alabaster Box",
+    "release_year": 1917,
+    "release_date": "10 September 1917",
+    "director": "Chester Withey |31201",
+    "director_id": "31201",
+    "writer": " A. Van Buren   Powell|211061",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Businessmen|Ex-convicts|Embezzlement|Mobs|Employer-employee relations|New England|Fathers and daughters|Impersonation and imposture",
+    "literary_credits": "Florence Morse Kingsley |Mary E. Wilkins Freeman ",
+    "source_citations": "Motion Picture News 21 Jul 1917||Motion Picture News 22 Sep 1917||Moving Picture World 22 Sep 1917||NYDM 21 Oct 1916||Motography 6 Oct 1917||Motography 21 Jul 1917||Motion Picture News 25 Aug 1917||Motion Picture News Studio Directory 1918||Moving Picture World 15 Sep 1917||Exhibitors Herald 27 Oct 1917||Motion Picture News 15 Sep 1917||Motion Picture News 17 Nov 1917",
+    "filming_location": "Brooklyn New York United States",
+    "created_at": "2025-06-16 00:27:39",
+    "survival_status": "lost",
+    "survival_notes": "lost per LOC",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Fathers and daughters",
+        "facet": "Family Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "afi_movie_id": "16906",
+    "title": "Freckles",
+    "release_year": 1917,
+    "release_date": "28 May 1917",
+    "director": "Marshall Neilan|107701",
+    "director_id": "107701",
+    "writer": "Marion Fairfax|106947",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Handicapped|Children|Inheritance|Grandfathers|Self-sacrifice|Lumber camps|Missing persons|Waifs|Naturalists|Runaways",
+    "literary_credits": "Gene Stratton-Porter ",
+    "source_citations": "Exhibitors Trade Review 26 May 1917||Motog 9 Jun 1917||Motion Picture News 2 Jun 1917||Moving Picture World 20 Oct 1917||NYDM 26 May 1917||NYDM 9 Jun 1917||Variety 8 Jun 1917||Wid's 24 May 1917",
+    "created_at": "2025-06-16 00:25:38",
+    "survival_status": "lost",
+    "survival_notes": "Lost per AFI Catalog",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Children",
+        "facet": "Family Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "afi_movie_id": "17649",
+    "title": "Mr. Opp",
+    "release_year": 1917,
+    "release_date": "20 August 1917",
+    "director": "Lynn F. Reynolds|102950",
+    "director_id": "102950",
+    "writer": "Lynn F. Reynolds|102950",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Brothers|Inheritance|Businessmen|Rewards|Coal mines|Self-sacrifice|Half sisters|Mayors|Reporters|Salesmen|Secretaries",
+    "literary_credits": "Alice Hegan Rice ",
+    "source_citations": "ETR 25 Aug 1917||Motog 8 Sep 1917||MPW 1 Sep 1917||MPW 5 Mar 1920||NYDM 25 Aug 1917||Variety 24 Aug 1917||Wid's 23 Aug 1917",
+    "created_at": "2025-06-16 00:24:15",
+    "survival_status": "lost",
+    "survival_notes": "Lost per LOC",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Brothers",
+        "facet": "Family Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "afi_movie_id": "18216",
+    "title": "Rebecca of Sunnybrook Farm",
+    "release_year": 1917,
+    "release_date": "22 September 1917",
+    "director": "Marshall Neilan|107701",
+    "director_id": "107701",
+    "writer": "Frances Marion|52360",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Boarding schools|Aunts|Farms|Nieces|Spinsters|Mortgages|Practical jokes|Youth",
+    "literary_credits": "Kate Douglas Wiggin ",
+    "source_citations": "Motog 4 Aug 1917||Motog 11 Aug 1917||Motion Picture News 22 Sep 1917||Motion Picture News 20 Oct 1917||NYDM 27 Jan 1917||NYDM 15 Sep 1917||Variety 7 Sep 1917||Camera Jul 1923",
+    "filming_location": "Pleasanton California United States",
+    "created_at": "2025-06-16 00:27:02",
+    "survival_status": "extant",
+    "survival_notes": "Pickford film",
+    "archive_holdings": "Mary Pickford Institute",
+    "viewing_format": "online",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Spinsters",
+        "facet": "Women-Specific",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "afi_movie_id": "16060",
+    "title": "Sunshine Alley",
+    "release_year": 1917,
+    "release_date": "3 November 1917",
+    "director": "John W. Noble|88014",
+    "director_id": "88014",
+    "writer": "Mary Rider |109120",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Brothers and sisters|Automobile accidents|Criminals--Rehabilitation|Birds|Grandfathers|Invalids|Pet shops|Innocents|Poverty|Millionaires|Robbery",
+    "source_citations": "Motog 24 Nov 1917||Motion Picture News 1 Dec 1917||Moving Picture World 3 Nov 1917||Moving Picture World 13 Mar 1920||NYDM 17 Nov 1917||Variety 9 Nov 1917||Wid's 15 Nov 1917",
+    "created_at": "2025-06-16 00:27:37",
+    "survival_status": "lost",
+    "survival_notes": "lost per LOC",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Poverty",
+        "facet": "Social Issues",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "afi_movie_id": "54896",
+    "title": "The Curse of Quon Gwon",
+    "release_year": 1917,
+    "release_date": "July 1917",
+    "director": "Marion Wong|228267",
+    "director_id": "228267",
+    "writer": "Marion Wong|228267",
+    "genre": "Melodrama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Chinese|Chinese Americans|Eviction|Family relationships|Idols and images|Immigrants",
+    "source_citations": "Moving Picture World 7 Jul 1917||Moving Picture World 9 Jun 1917||New York Clipper 13 Dec 1916||KQED (PBS-TV) 16 Apr 2008",
+    "filming_location": "Oakland California United States|",
+    "created_at": "2025-06-16 00:27:22",
+    "survival_status": "extant",
+    "survival_notes": "survives incomplete",
+    "viewing_format": "online",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "afi_movie_id": "17716",
+    "title": "The Primrose Ring",
+    "release_year": 1917,
+    "release_date": "7 May 1917",
+    "director": "Robert Leonard|132129",
+    "director_id": "132129",
+    "writer": "Marion Fairfax|106947||Catharine Carr|28385",
+    "genre": "Drama|Fantasy",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Charity|Automobile accidents|Convalescence|Children|Detectives|Handicapped|Hospitals|Physicians|Nurses|Surgeons",
+    "literary_credits": "Ruth Sawyer ",
+    "source_citations": "Exhibitors Trade Review 12 May 1917||Motion Picture News 26 May 1917||Motography 26 May 1917||Moving Picture World 10 Mar 1917||NYDM 12 May 1917||Variety 11 May 1917||Wid's 17 May 1917||Motion Picture News 5 May 1917||Moving Picture World 5 May 1917||Moving Picture World 19 May 1917||Billboard 19 May 1917||Moving Picture World 21 Apr 1917||Moving Picture World 26 May 1917",
+    "filming_location": "Hollywood California United States|New York City New York United States",
+    "created_at": "2025-06-16 00:27:46",
+    "survival_status": "lost",
+    "survival_notes": "lost per LOC",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Children",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Nurses",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Physicians",
+        "facet": "Professions",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "afi_movie_id": "17749",
+    "title": "The Secret of the Storm Country",
+    "release_year": 1917,
+    "release_date": "5 November 1917",
+    "director": "Charles Miller|29762",
+    "director_id": "29762",
+    "writer": "Mary Murillo|108738",
+    "producer": "Joseph M. Schenck|89938",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Bigamy|Heart disease|Marriage--Secret|Heiresses|Mothers and sons|Ostracism|Squatters",
+    "literary_credits": "Grace Miller White ",
+    "source_citations": "Exhibitors Trade Review 8 Dec 1917||Motion Picture News 24 Nov 1917||Motion Picture News 29 Dec 1917||Motography 1 Sep 1917||Variety 9 Nov 1917||Wid's Weekly 22 Nov 1917||Motography  8 Dec 1917||Variety 15 Jun 1917||New York Times 9 Sep 1917||Moving Picture World 22 Sep 1917||Variety 26 Oct 1917||Exhibitors Herald 8 Dec 1917||Photoplay Feb 1918||Exhibitors Herald 29 Dec 1917",
+    "filming_location": "Ithaca New York United States|New York City New York United States",
+    "created_at": "2025-06-16 00:26:22",
+    "survival_status": "lost",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Mothers and sons",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Marriage",
+        "facet": "Marital Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "afi_movie_id": "1924",
+    "title": "Amarilly of Clothes-Line Alley",
+    "release_year": 1918,
+    "release_date": "11 March 1918",
+    "director": "Marshall A. Neilan |107701",
+    "director_id": "107701",
+    "writer": "Frances Marion|52360",
+    "genre": "Comedy",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Aunts|Bartenders|Cigarette girls|Butlers|Class distinction|Dancing|Experiments|Irish Americans|Laundresses|Sculptors|Nursing back to health|Tenement-houses",
+    "literary_credits": "Belle K. Maniates ",
+    "source_citations": "Exhibitors Trade Review 2 Feb 1918||Exhibitors Trade Review 16 Mar 1918||Motion Picture News 23 Mar 1918||Moving Picture World 9 Mar 1918||Moving Picture World 23 Mar 1918||NYDM 16 Mar 1918||Variety 8 Mar 1918||Wid's 21 Mar 1918||Motion Picture News 2 Mar 1918",
+    "filming_location": "Hollywood California United States",
+    "created_at": "2025-06-16 00:24:33",
+    "survival_status": "extant",
+    "survival_notes": "Available online",
+    "viewing_format": "online",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Class distinction",
+        "facet": "Social Issues",
+        "weight": 1
+      },
+      {
+        "term": "Nurses",
+        "facet": "Professions",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "afi_movie_id": "17147",
+    "title": "Kildare of Storm",
+    "release_year": 1918,
+    "release_date": "16 September 1918",
+    "director": "Harry L. Franklin|67519",
+    "director_id": "67519",
+    "writer": "Jere Looney|81569||June Mathis|91464",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Alcoholics|Child custody|Confession (Law)|False arrests|Imprisonment|Fights|Illegitimacy|Marriage--Arranged|Infidelity|Physicians|Mothers and daughters|Plantations|Planters|Pardons|Servants|Southerners|United States--South",
+    "literary_credits": "Eleanor Mercein Kelly ",
+    "source_citations": "Exhibitors Trade Review 28 Sep 1918||Motion Picture News 5 Oct 1918||Moving Picture World 3 Aug 1918||Moving Picture World 6 Jul 1918||Moving Picture World 5 Oct 1918||NYDM 5 Oct 1918||Variety 27 Sep 1918||Wid's Daily 29 Sep 1918||Motography 15 Jun 1918||Motography 22 Jun 1918||Motography 29 Jun 1918||Motion Picture News 29 Jun 1918||Variety 5 Jul 1918||Motion Picture News 13 Jul 1918||Motion Picture News 20 Jul 1918||Motion Picture News 10 Aug 1918||Motion Picture News 17 Aug 1918||Motion Picture News 7 Sep 1918||Wid's Daily 24 Sep 1918||Exhibitors Herald and Motography 26 Oct 1918",
+    "filming_location": "Rye New York United States|New York City New York United States",
+    "created_at": "2025-06-16 00:25:15",
+    "survival_status": "lost",
+    "survival_notes": "lost per LOC",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Mothers and daughters",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Physicians",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Servants",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Marriage",
+        "facet": "Marital Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "afi_movie_id": "1996",
+    "title": "Sandy",
+    "release_year": 1918,
+    "release_date": "1 July 1918",
+    "director": "George H. Melford |59050",
+    "director_id": "59050",
+    "writer": "Edith M. Kennedy |43892",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Adoption|Attempted murder|Bribery|Alcoholics|Immigrants|Aunts|Confession (Law)|Jockeys|Kentucky Derby|Elopement|False accusations|Fixed horse races|Judges|Kentucky|New York City|Ships|Stowaways",
+    "literary_credits": "Alice Hegan Rice ",
+    "source_citations": "ETR 6 Jul 1918||MPN 6 Jul 1918||MPW 13 Jul 1918||NYDM 6 Jul 1918||New York Times 15 Jul 1918||Variety 19 Jul 1918||Wid's 30 Jun 1918",
+    "created_at": "2025-06-16 00:24:16",
+    "survival_status": "lost",
+    "survival_notes": "Lost per LOC",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Murder",
+        "facet": "Plot Elements",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "afi_movie_id": "17262",
+    "title": "Sunshine Nan",
+    "release_year": 1918,
+    "release_date": "11 March 1918",
+    "director": "Charles Giblyn|29387",
+    "director_id": "29387",
+    "writer": "Eve Unsell|50025",
+    "genre": "Comedy-drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Cathedrals|Chemical formulas|Chemists|Choirs (Music)|Confession (Law)|Fraud|Theft|Factories|Fights|Tomboys|Fires|Hospitals|Laboratories|Reformatories|Rescues|Stenographers",
+    "literary_credits": "Alice Hegan Rice ",
+    "source_citations": "Exhibitors Trade Review 16 Mar 1918||Motion Picture News 23 Mar 1918||Moving Picture World 16 Mar 1918||Moving Picture World 23 Mar 1918||Variety 19 Apr 1918||Wid's Daily 11 Apr 1918||Moving Picture World 19 Jan 1918||Motion Picture News 26 Jan 1918||Motion Picture News 20 Sep 1919||Motion Picture News 9 Feb 1918||Motion Picture News 16 Feb 1918||Motography 9 Feb 1918||Moving Picture World 16 Feb 1918||Motography 23 Mar 1918||Photoplay Jun 1918||Motography 27 Apr 1918||Motography 4 May 1918||Photoplay Jul 1918",
+    "filming_location": "New York City New York United States",
+    "created_at": "2025-06-16 00:24:18",
+    "survival_status": "extant",
+    "survival_notes": "In French archive",
+    "archive_holdings": "Centre National du Cinéma",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": []
+  },
+  {
+    "id": 69,
+    "afi_movie_id": "17225",
+    "title": "The Panther Woman",
+    "release_year": 1918,
+    "release_date": "25 November 1918",
+    "director": "Ralph Ince|127078",
+    "director_id": "127078",
+    "writer": "Mary Murillo|108738",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "False arrests|Dance hall girls|Electric chair|Lawyers|Fathers and daughters|Mining towns|Murder|Mining towns|Poisoning|Stepmothers",
+    "literary_credits": "Gertrude Atherton ",
+    "source_citations": "ETR 20 Apr 1918||ETR 26 Oct 1918||ETR 7 Dec 1918||Motion Picture News 21 Sep 1918||Des Moines Register [Des Moines, IA] 17 Mar 1918||Exhibitors Herald  20 Apr 1918||Exhibitors Herald  27 Apr 1918||Exhibitors Herald  27 Apr 1918||Motography 20 Apr 1918||Exhibitors Herald  11 May 1918||Motography 18 May 1918||Motion Picture News 18 May 1918||Variety 23 Aug 1918||Moving Picture World 31 Aug 1918||Motion Picture News 7 Sep 1918||Exhibitors Herald and Motography 7 Sep 1918||Moving Picture World 14 Sep 1918||Moving Picture World 21 Sep 1918||Wid's Daily 26 Sep 1918||Wid's Daily 10 Oct 1918||Motion Picture News 26 Oct 1918||Boston Post [Boston, MA] 14 Nov 1918||Exhibitors Herald and Motography 30 Nov 1918||Motion Picture News 7 Dec 1918||Chicago Defender 7 Dec 1918||Moving Picture World 18 Jan 1919",
+    "filming_location": "|Asheville North Carolina United States|New York City New York United States",
+    "created_at": "2025-06-16 00:26:18",
+    "survival_status": "lost",
+    "survival_notes": "lost per LOC",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Fathers and daughters",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Lawyers",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Murder",
+        "facet": "Plot Elements",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "afi_movie_id": "15171",
+    "title": "The Silent Woman",
+    "release_year": 1918,
+    "release_date": "2 September 1918",
+    "director": "Herbert Blaché|69924",
+    "director_id": "69924",
+    "writer": "June Mathis|91464||Katharine Kavanaugh|92361||Lois Zellner|100139",
+    "genre": "Drama",
+    "sub_genre": "Northwest",
+    "film_type": "Feature",
+    "subjects": "Infidelity|Clerks|Falls from heights|Lumber tycoons|Flirtation|Marriage--Forced by circumstances|Gossip|Neglected children|Self-sacrifice|Grief|Lumber camps|Widowers",
+    "source_citations": "Exhibitors Trade Review 7 Sep 1918||Motion Picture News 17 Aug 1918||Motion Picture News 7 Sep 1918||Motion Picture News 28 Sep 1918||Moving Picture World 17 Aug 1918||Moving Picture World 7 Sep 1918||Moving Picture World 14 Sep 1918||Variety 13 Sep 1918||Wid's 8 Sep 1918||New-York Tribune 14 Jul 1918||Moving Picture World 3 Aug 1918||Lansing State Journal [Lansing, MI] 8 Aug 1918||Motion Picture News 31 Aug 1918||Motion Picture News 2 Mar 1918||Bee [Omaha, NE] 22 Nov 1918",
+    "filming_location": "|New York City New York United States|Tarrytown New York United States|Bedford New York United States",
+    "created_at": "2025-06-16 00:27:11",
+    "survival_status": "lost",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Marriage",
+        "facet": "Marital Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "afi_movie_id": "2112",
+    "title": "Uncle Tom's Cabin",
+    "release_year": 1918,
+    "release_date": "15 July 1918",
+    "director": "J. Searle Dawley|74878",
+    "director_id": "74878",
+    "writer": "J. Searle Dawley|74878",
+    "genre": "Drama",
+    "sub_genre": "Social",
+    "film_type": "Feature",
+    "subjects": "Disease|Children|Escapes|Mississippi River|Heaven|New Orleans (LA)|Kentucky|Sadism|Slavery--Emancipation|Ohio River|Slaves|Plantation owners|Southerners|Pledges|Rescues|Slave traders|Visions",
+    "literary_credits": "George L. Aiken |Harriet Beecher Stowe ",
+    "source_citations": "ETR 29 Jun 1918||ETR 13 Jul 1918||MPN 13 Jul 1918||MPW 25 May 1918||MPW 20 Jul 1918||Variety 9 Aug 1918||Wid's 7 Jul 1918",
+    "filming_location": "New York City New York United States||",
+    "created_at": "2025-06-16 00:26:37",
+    "controlled_subjects": [
+      {
+        "term": "Children",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Slavery",
+        "facet": "Social Issues",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "afi_movie_id": "17335",
+    "title": "Dawn",
+    "release_year": 1919,
+    "release_date": "30 November 1919",
+    "director": "J. Stuart Blackton|74886",
+    "director_id": "74886",
+    "writer": "Stanley Olmstead|142020",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Artists|Blindness|Gossip|Attempted suicide|Nurses|Eye surgery|Schools for the blind|Gossip|Heiresses|Housekeepers|Stepfathers|War injuries",
+    "literary_credits": "Eleanor H. Porter ",
+    "source_citations": "ETR 29 Nov 1919||MPN 6 Dec 1919||MPW 29 Nov 1919||Variety 19 Apr 1919||Wid's 7 Dec 1919",
+    "filming_location": "",
+    "created_at": "2025-06-16 00:25:08",
+    "survival_status": "unknown",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Artists",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Nurses",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Death and dying",
+        "facet": "Plot Elements",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "afi_movie_id": "2011",
+    "title": "False Evidence",
+    "release_year": 1919,
+    "release_date": "21 April 1919",
+    "director": "Edwin Carew |45387",
+    "director_id": "45387",
+    "writer": "Finis Fox|51364",
+    "genre": "Drama",
+    "sub_genre": "Northwest",
+    "film_type": "Feature",
+    "subjects": "California|Cousins|Dances|Lynching|Fathers and daughters|Marriage--Arranged|Scottish Americans|Flirts|Social customs|Kisses|Knife wounds|Village life|Self-sacrifice|Trees",
+    "literary_credits": "Mary E. Wilkins Freeman ",
+    "source_citations": "Exhibitors Trade Review 26 Apr 1919||Motion Picture News 3 May 1919||Moving Picture World 3 May 1919||Variety 25 Apr 1919||Moving Picture World 22 Mar 1919||New York Clipper 19 Mar 1919||Motion Picture News 5 Apr 1919||Moving Picture World 26 Apr 1919||Motion Picture News 10 May 1919||Moving Picture World 10 May 1919||Exhibitors Herald and Motography 10 May 1919||Photo-Play World Jun 1919||Picture-Play Oct 1919",
+    "filming_location": "Santa Cruz California United States||Hollywood California United States",
+    "created_at": "2025-06-16 00:27:41",
+    "survival_status": "unknown",
+    "survival_notes": "",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Fathers and daughters",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Marriage",
+        "facet": "Marital Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "afi_movie_id": "18124",
+    "title": "Mrs. Wiggs of the Cabbage Patch",
+    "release_year": 1919,
+    "release_date": "9 February 1919",
+    "director": "Hugh Ford|71684",
+    "director_id": "71684",
+    "writer": "Eve Unsell|50025",
+    "genre": "Comedy",
+    "sub_genre": "Social",
+    "film_type": "Feature",
+    "subjects": "Disinheritance|Adolescents|Family life|Illegitimacy|Orphanages|Nursing back to health|Sheriffs|Poverty|Runaways",
+    "literary_credits": "Alice Hegan Rice ",
+    "source_citations": "Exhibitors Trade Review 1 Mar 1919||Moving Picture World 1 Mar 1919||Moving Picture World 1 Mar 1919||Variety 21 Feb 1919||Wid's 23 Feb 1919",
+    "created_at": "2025-06-16 00:24:20",
+    "survival_status": "extant",
+    "survival_notes": "Available on YouTube",
+    "viewing_format": "online",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Poverty",
+        "facet": "Social Issues",
+        "weight": 2
+      },
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 1
+      },
+      {
+        "term": "Nurses",
+        "facet": "Professions",
+        "weight": 1
+      }
+    ]
+  }
+]

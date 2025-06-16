@@ -1,0 +1,1145 @@
+[
+  {
+    "name": "Gene Stratton-Porter ",
+    "adaptation_count": 19,
+    "first_adaptation": 1917,
+    "last_adaptation": 1948,
+    "year_span": 31,
+    "films": [
+      {
+        "id": 47,
+        "title": "Freckles",
+        "year": 1917,
+        "survival_status": "lost"
+      },
+      {
+        "id": 48,
+        "title": "Michael O'Halloran",
+        "year": 1923,
+        "survival_status": "lost"
+      },
+      {
+        "id": 49,
+        "title": "A Girl of the Limberlost",
+        "year": 1924,
+        "survival_status": "lost"
+      },
+      {
+        "id": 50,
+        "title": "The Keeper of the Bees",
+        "year": 1925,
+        "survival_status": "lost"
+      },
+      {
+        "id": 51,
+        "title": "Laddie",
+        "year": 1926,
+        "survival_status": "lost"
+      },
+      {
+        "id": 52,
+        "title": "The Harvester",
+        "year": 1927,
+        "survival_status": "lost"
+      },
+      {
+        "id": 53,
+        "title": "The Magic Garden",
+        "year": 1927,
+        "survival_status": "lost"
+      },
+      {
+        "id": 54,
+        "title": "Freckles",
+        "year": 1928,
+        "survival_status": "lost"
+      },
+      {
+        "id": 55,
+        "title": "A Girl of the Limberlost",
+        "year": 1934,
+        "survival_status": "extant"
+      },
+      {
+        "id": 56,
+        "title": "Freckles",
+        "year": 1935,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 57,
+        "title": "Laddie",
+        "year": 1935,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 58,
+        "title": "The Keeper of the Bees",
+        "year": 1935,
+        "survival_status": "extant"
+      },
+      {
+        "id": 59,
+        "title": "The Harvester",
+        "year": 1936,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 60,
+        "title": "Michael O'Halloran",
+        "year": 1937,
+        "survival_status": "partially lost"
+      },
+      {
+        "id": 61,
+        "title": "Romance of the Limberlost",
+        "year": 1938,
+        "survival_status": "extant"
+      },
+      {
+        "id": 63,
+        "title": "Laddie",
+        "year": 1940,
+        "survival_status": "extant"
+      },
+      {
+        "id": 64,
+        "title": "The Girl of the Limberlost",
+        "year": 1945,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 65,
+        "title": "Keeper of the Bees",
+        "year": 1947,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 66,
+        "title": "Michael O'Halloran",
+        "year": 1948,
+        "survival_status": "unknown"
+      }
+    ]
+  },
+  {
+    "name": "Alice Hegan Rice ",
+    "adaptation_count": 6,
+    "first_adaptation": 1916,
+    "last_adaptation": 1926,
+    "year_span": 10,
+    "films": [
+      {
+        "id": 2,
+        "title": "A Romance of Billy Goat Hill",
+        "year": 1916,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 3,
+        "title": "Mr. Opp",
+        "year": 1917,
+        "survival_status": "lost"
+      },
+      {
+        "id": 4,
+        "title": "Sandy",
+        "year": 1918,
+        "survival_status": "lost"
+      },
+      {
+        "id": 5,
+        "title": "Sunshine Nan",
+        "year": 1918,
+        "survival_status": "extant"
+      },
+      {
+        "id": 6,
+        "title": "Mrs. Wiggs of the Cabbage Patch",
+        "year": 1919,
+        "survival_status": "extant"
+      },
+      {
+        "id": 7,
+        "title": "Lovey Mary",
+        "year": 1926,
+        "survival_status": "partially lost"
+      }
+    ]
+  },
+  {
+    "name": "Fannie Hurst ",
+    "adaptation_count": 6,
+    "first_adaptation": 1920,
+    "last_adaptation": 1941,
+    "year_span": 21,
+    "films": [
+      {
+        "id": 38,
+        "title": "Humoresque",
+        "year": 1920,
+        "survival_status": "extant"
+      },
+      {
+        "id": 39,
+        "title": "Just Around the Corner",
+        "year": 1921,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 40,
+        "title": "The Good Provider",
+        "year": 1922,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 41,
+        "title": "Back Street",
+        "year": 1932,
+        "survival_status": "extant"
+      },
+      {
+        "id": 42,
+        "title": "Imitation of Life",
+        "year": 1934,
+        "survival_status": "extant"
+      },
+      {
+        "id": 43,
+        "title": "Back Street",
+        "year": 1941,
+        "survival_status": "lost"
+      }
+    ]
+  },
+  {
+    "name": "Edna Ferber ",
+    "adaptation_count": 5,
+    "first_adaptation": 1924,
+    "last_adaptation": 1960,
+    "year_span": 36,
+    "films": [
+      {
+        "id": 23,
+        "title": "So Big",
+        "year": 1924,
+        "survival_status": "lost"
+      },
+      {
+        "id": 24,
+        "title": "Cimarron",
+        "year": 1931,
+        "survival_status": "extant"
+      },
+      {
+        "id": 25,
+        "title": "So Big",
+        "year": 1932,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 27,
+        "title": "So Big",
+        "year": 1953,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 30,
+        "title": "Ice Palace",
+        "year": 1960,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Alice Hegan Rice |Anne Crawford Flexner ",
+    "adaptation_count": 3,
+    "first_adaptation": 1914,
+    "last_adaptation": 1942,
+    "year_span": 28,
+    "films": [
+      {
+        "id": 1,
+        "title": "Mrs. Wiggs of the Cabbage Patch",
+        "year": 1914,
+        "survival_status": "lost"
+      },
+      {
+        "id": 8,
+        "title": "Mrs. Wiggs of the Cabbage Patch",
+        "year": 1934,
+        "survival_status": "extant"
+      },
+      {
+        "id": 9,
+        "title": "Mrs. Wiggs of the Cabbage Patch",
+        "year": 1942,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Edna Ferber",
+    "adaptation_count": 3,
+    "first_adaptation": 1936,
+    "last_adaptation": 1960,
+    "year_span": 24,
+    "films": [
+      {
+        "id": 26,
+        "title": "Come and Get It",
+        "year": 1936,
+        "survival_status": "extant"
+      },
+      {
+        "id": 28,
+        "title": "Giant",
+        "year": 1956,
+        "survival_status": "extant"
+      },
+      {
+        "id": 29,
+        "title": "Cimarron",
+        "year": 1960,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Fannie Hurst",
+    "adaptation_count": 3,
+    "first_adaptation": 1947,
+    "last_adaptation": 1961,
+    "year_span": 14,
+    "films": [
+      {
+        "id": 44,
+        "title": "Humoresque",
+        "year": 1947,
+        "survival_status": "extant"
+      },
+      {
+        "id": 45,
+        "title": "Imitation of Life",
+        "year": 1959,
+        "survival_status": "extant"
+      },
+      {
+        "id": 46,
+        "title": "Back Street",
+        "year": 1961,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Grace Miller White |Rupert Hughes ",
+    "adaptation_count": 3,
+    "first_adaptation": 1914,
+    "last_adaptation": 1960,
+    "year_span": 46,
+    "films": [
+      {
+        "id": 70,
+        "title": "Tess of the Storm Country",
+        "year": 1914,
+        "survival_status": "extant"
+      },
+      {
+        "id": 74,
+        "title": "Tess of the Storm Country",
+        "year": 1922,
+        "survival_status": "extant"
+      },
+      {
+        "id": 76,
+        "title": "Tess of the Storm Country",
+        "year": 1960,
+        "survival_status": "unknown"
+      }
+    ]
+  },
+  {
+    "name": "Harriet Theresa Comstock ",
+    "adaptation_count": 3,
+    "first_adaptation": 1916,
+    "last_adaptation": 1921,
+    "year_span": 5,
+    "films": [
+      {
+        "id": 82,
+        "title": "The Place Beyond the Winds",
+        "year": 1916,
+        "survival_status": "incomplete"
+      },
+      {
+        "id": 83,
+        "title": "A Son of the Hills",
+        "year": 1917,
+        "survival_status": "lost"
+      },
+      {
+        "id": 84,
+        "title": "Silent Years",
+        "year": 1921,
+        "survival_status": "lost"
+      }
+    ]
+  },
+  {
+    "name": "Anzia Yezierska ",
+    "adaptation_count": 2,
+    "first_adaptation": 1922,
+    "last_adaptation": 1925,
+    "year_span": 3,
+    "films": [
+      {
+        "id": 11,
+        "title": "Hungry Hearts",
+        "year": 1922,
+        "survival_status": "extant"
+      },
+      {
+        "id": 12,
+        "title": "Salome of the Tenements",
+        "year": 1925,
+        "survival_status": "lost"
+      }
+    ]
+  },
+  {
+    "name": "Bess Streeter Aldrich ",
+    "adaptation_count": 2,
+    "first_adaptation": 1930,
+    "last_adaptation": 1941,
+    "year_span": 11,
+    "films": [
+      {
+        "id": 14,
+        "title": "The Woman Who Was Forgotten",
+        "year": 1930,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 15,
+        "title": "Cheers for Miss Bishop",
+        "year": 1941,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Eleanor H. Porter ",
+    "adaptation_count": 2,
+    "first_adaptation": 1919,
+    "last_adaptation": 1920,
+    "year_span": 1,
+    "films": [
+      {
+        "id": 32,
+        "title": "Dawn",
+        "year": 1919,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 33,
+        "title": "Pollyanna",
+        "year": 1920,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Gene Stratton-Porter",
+    "adaptation_count": 2,
+    "first_adaptation": 1940,
+    "last_adaptation": 1942,
+    "year_span": 2,
+    "films": [
+      {
+        "id": 62,
+        "title": "Her First Romance",
+        "year": 1940,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 68,
+        "title": "Freckles Comes Home",
+        "year": 1942,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "George L. Aiken |Harriet Beecher Stowe ",
+    "adaptation_count": 2,
+    "first_adaptation": 1914,
+    "last_adaptation": 1918,
+    "year_span": 4,
+    "films": [
+      {
+        "id": 78,
+        "title": "Uncle Tom's Cabin",
+        "year": 1914,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 79,
+        "title": "Uncle Tom's Cabin",
+        "year": 1918,
+        "survival_status": null
+      }
+    ]
+  },
+  {
+    "name": "Grace Miller White ",
+    "adaptation_count": 2,
+    "first_adaptation": 1917,
+    "last_adaptation": 1920,
+    "year_span": 3,
+    "films": [
+      {
+        "id": 71,
+        "title": "The Secret of the Storm Country",
+        "year": 1917,
+        "survival_status": "lost"
+      },
+      {
+        "id": 72,
+        "title": "Judy of Rogue's Harbor",
+        "year": 1920,
+        "survival_status": "lost"
+      }
+    ]
+  },
+  {
+    "name": "Harriet Beecher Stowe ",
+    "adaptation_count": 2,
+    "first_adaptation": 1910,
+    "last_adaptation": 1925,
+    "year_span": 15,
+    "films": [
+      {
+        "id": 77,
+        "title": "Uncle Tom's Cabin",
+        "year": 1910,
+        "survival_status": "lost"
+      },
+      {
+        "id": 80,
+        "title": "The Pearl of Love",
+        "year": 1925,
+        "survival_status": "lost"
+      }
+    ]
+  },
+  {
+    "name": "Helen Hunt Jackson",
+    "adaptation_count": 2,
+    "first_adaptation": 1928,
+    "last_adaptation": 1936,
+    "year_span": 8,
+    "films": [
+      {
+        "id": 88,
+        "title": "Ramona",
+        "year": 1928,
+        "survival_status": "extant"
+      },
+      {
+        "id": 89,
+        "title": "Ramona",
+        "year": 1936,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Helen Hunt Jackson ",
+    "adaptation_count": 2,
+    "first_adaptation": 1910,
+    "last_adaptation": 1916,
+    "year_span": 6,
+    "films": [
+      {
+        "id": 86,
+        "title": "Ramona",
+        "year": 1910,
+        "survival_status": "extant"
+      },
+      {
+        "id": 87,
+        "title": "Ramona",
+        "year": 1916,
+        "survival_status": "incomplete"
+      }
+    ]
+  },
+  {
+    "name": "Kate Douglas Wiggin",
+    "adaptation_count": 2,
+    "first_adaptation": 1932,
+    "last_adaptation": 1938,
+    "year_span": 6,
+    "films": [
+      {
+        "id": 91,
+        "title": "Rebecca of Sunnybrook Farm",
+        "year": 1932,
+        "survival_status": "extant"
+      },
+      {
+        "id": 92,
+        "title": "Rebecca of Sunnybrook Farm",
+        "year": 1938,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Margaret Deland ",
+    "adaptation_count": 2,
+    "first_adaptation": 1916,
+    "last_adaptation": 1916,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 97,
+        "title": "The Awakening of Helena Richie",
+        "year": 1916,
+        "survival_status": "incomplete"
+      },
+      {
+        "id": 98,
+        "title": "The Iron Woman",
+        "year": 1916,
+        "survival_status": "lost"
+      }
+    ]
+  },
+  {
+    "name": "Alice MacGowan ",
+    "adaptation_count": 1,
+    "first_adaptation": 1916,
+    "last_adaptation": 1916,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 10,
+        "title": "Judith of the Cumberlands",
+        "year": 1916,
+        "survival_status": "unknown"
+      }
+    ]
+  },
+  {
+    "name": "Belle K. Maniates ",
+    "adaptation_count": 1,
+    "first_adaptation": 1918,
+    "last_adaptation": 1918,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 13,
+        "title": "Amarilly of Clothes-Line Alley",
+        "year": 1918,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Betty MacDonald ",
+    "adaptation_count": 1,
+    "first_adaptation": 1947,
+    "last_adaptation": 1947,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 16,
+        "title": "The Egg and I",
+        "year": 1947,
+        "survival_status": "unknown"
+      }
+    ]
+  },
+  {
+    "name": "Betty Smith",
+    "adaptation_count": 1,
+    "first_adaptation": 1945,
+    "last_adaptation": 1945,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 17,
+        "title": "A Tree Grows in Brooklyn",
+        "year": 1945,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Carson McCullers",
+    "adaptation_count": 1,
+    "first_adaptation": 1953,
+    "last_adaptation": 1953,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 18,
+        "title": "The Member of the Wedding",
+        "year": 1953,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Catherine Chisholm Cushing ",
+    "adaptation_count": 1,
+    "first_adaptation": 1927,
+    "last_adaptation": 1927,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 81,
+        "title": "Topsy and Eva",
+        "year": 1927,
+        "survival_status": "unknown"
+      }
+    ]
+  },
+  {
+    "name": "Cid Ricketts Sumner",
+    "adaptation_count": 1,
+    "first_adaptation": 1957,
+    "last_adaptation": 1957,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 20,
+        "title": "Tammy and the Bachelor",
+        "year": 1957,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Cid Ricketts Sumner ",
+    "adaptation_count": 1,
+    "first_adaptation": 1949,
+    "last_adaptation": 1949,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 19,
+        "title": "Pinky",
+        "year": 1949,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Dorothy M. Johnson",
+    "adaptation_count": 1,
+    "first_adaptation": 1959,
+    "last_adaptation": 1959,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 21,
+        "title": "The Hanging Tree",
+        "year": 1959,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Edith Roberts ",
+    "adaptation_count": 1,
+    "first_adaptation": 1947,
+    "last_adaptation": 1947,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 22,
+        "title": "That Hagen Girl",
+        "year": 1947,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Edna Mae Baker",
+    "adaptation_count": 1,
+    "first_adaptation": 1937,
+    "last_adaptation": 1937,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 31,
+        "title": "Underworld",
+        "year": 1937,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Eleanor H. Porter | David Swift",
+    "adaptation_count": 1,
+    "first_adaptation": 1960,
+    "last_adaptation": 1960,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 35,
+        "title": "Pollyanna",
+        "year": 1960,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Eleanor Mercein Kelly ",
+    "adaptation_count": 1,
+    "first_adaptation": 1918,
+    "last_adaptation": 1918,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 36,
+        "title": "Kildare of Storm",
+        "year": 1918,
+        "survival_status": "lost"
+      }
+    ]
+  },
+  {
+    "name": "Ellen Glasgow ",
+    "adaptation_count": 1,
+    "first_adaptation": 1942,
+    "last_adaptation": 1942,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 37,
+        "title": "In This Our Life",
+        "year": 1942,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Florence Morse Kingsley |Mary E. Wilkins Freeman ",
+    "adaptation_count": 1,
+    "first_adaptation": 1917,
+    "last_adaptation": 1917,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 109,
+        "title": "An Alabaster Box",
+        "year": 1917,
+        "survival_status": "lost"
+      }
+    ]
+  },
+  {
+    "name": "Gene Stratton-Porter | Jack Lambert",
+    "adaptation_count": 1,
+    "first_adaptation": 1960,
+    "last_adaptation": 1960,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 67,
+        "title": "Freckles",
+        "year": 1960,
+        "survival_status": "unknown"
+      }
+    ]
+  },
+  {
+    "name": "Gertrude Atherton ",
+    "adaptation_count": 1,
+    "first_adaptation": 1918,
+    "last_adaptation": 1918,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 69,
+        "title": "The Panther Woman",
+        "year": 1918,
+        "survival_status": "lost"
+      }
+    ]
+  },
+  {
+    "name": "Grace Miller White | Rupert Hughes",
+    "adaptation_count": 1,
+    "first_adaptation": 1932,
+    "last_adaptation": 1932,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 75,
+        "title": "Tess of the Storm Country",
+        "year": 1932,
+        "survival_status": "unknown"
+      }
+    ]
+  },
+  {
+    "name": "Helen Grace Carlisle ",
+    "adaptation_count": 1,
+    "first_adaptation": 1930,
+    "last_adaptation": 1930,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 85,
+        "title": "Mother's Cry",
+        "year": 1930,
+        "survival_status": "unknown"
+      }
+    ]
+  },
+  {
+    "name": "John Van Druten |Kathryn Anderson McLean ",
+    "adaptation_count": 1,
+    "first_adaptation": 1948,
+    "last_adaptation": 1948,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 94,
+        "title": "I Remember Mama",
+        "year": 1948,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Kate Douglas Wiggin ",
+    "adaptation_count": 1,
+    "first_adaptation": 1917,
+    "last_adaptation": 1917,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 90,
+        "title": "Rebecca of Sunnybrook Farm",
+        "year": 1917,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Kate Langley Bosher ",
+    "adaptation_count": 1,
+    "first_adaptation": 1921,
+    "last_adaptation": 1921,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 93,
+        "title": "Nobody's Kid",
+        "year": 1921,
+        "survival_status": "unknown"
+      }
+    ]
+  },
+  {
+    "name": "Margaret Cousins",
+    "adaptation_count": 1,
+    "first_adaptation": 1955,
+    "last_adaptation": 1955,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 96,
+        "title": "Lucy Gallant",
+        "year": 1955,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Margaret Mitchell ",
+    "adaptation_count": 1,
+    "first_adaptation": 1939,
+    "last_adaptation": 1939,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 99,
+        "title": "Gone with the Wind",
+        "year": 1939,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Margaret Prescott Montague",
+    "adaptation_count": 1,
+    "first_adaptation": 1929,
+    "last_adaptation": 1929,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 100,
+        "title": "Linda",
+        "year": 1929,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Marjorie Kinnan Rawlings",
+    "adaptation_count": 1,
+    "first_adaptation": 1949,
+    "last_adaptation": 1949,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 103,
+        "title": "The Sun Comes Up",
+        "year": 1949,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Marjorie Kinnan Rawlings ",
+    "adaptation_count": 1,
+    "first_adaptation": 1947,
+    "last_adaptation": 1947,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 102,
+        "title": "The Yearling",
+        "year": 1947,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Mary E. Wilkins Freeman ",
+    "adaptation_count": 1,
+    "first_adaptation": 1919,
+    "last_adaptation": 1919,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 110,
+        "title": "False Evidence",
+        "year": 1919,
+        "survival_status": "unknown"
+      }
+    ]
+  },
+  {
+    "name": "Mary Elizabeth Vroman",
+    "adaptation_count": 1,
+    "first_adaptation": 1953,
+    "last_adaptation": 1953,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 104,
+        "title": "Bright Road",
+        "year": 1953,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Mary O'Hara",
+    "adaptation_count": 1,
+    "first_adaptation": 1948,
+    "last_adaptation": 1948,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 106,
+        "title": "Green Grass of Wyoming",
+        "year": 1948,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Mary O'Hara ",
+    "adaptation_count": 1,
+    "first_adaptation": 1943,
+    "last_adaptation": 1943,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 105,
+        "title": "My Friend Flicka",
+        "year": 1943,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Myra Kelly ",
+    "adaptation_count": 1,
+    "first_adaptation": 1922,
+    "last_adaptation": 1922,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 111,
+        "title": "Little Miss Smiles",
+        "year": 1922,
+        "survival_status": "lost"
+      }
+    ]
+  },
+  {
+    "name": "Rebecca Yancey Williams",
+    "adaptation_count": 1,
+    "first_adaptation": 1942,
+    "last_adaptation": 1942,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 112,
+        "title": "The Vanishing Virginian",
+        "year": 1942,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Ruth Sawyer ",
+    "adaptation_count": 1,
+    "first_adaptation": 1917,
+    "last_adaptation": 1917,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 113,
+        "title": "The Primrose Ring",
+        "year": 1917,
+        "survival_status": "lost"
+      }
+    ]
+  },
+  {
+    "name": "Zona Gale ",
+    "adaptation_count": 1,
+    "first_adaptation": 1922,
+    "last_adaptation": 1922,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 115,
+        "title": "Miss Lulu Bett",
+        "year": 1922,
+        "survival_status": "unknown"
+      }
+    ]
+  }
+]

@@ -1,0 +1,365 @@
+{
+  "themes_by_decade": [
+    {
+      "facet": "Family Relations",
+      "term": "Children",
+      "decades": {
+        "1910s": 3,
+        "1920s": 5,
+        "1930s": 6,
+        "1940s": 3,
+        "1950s": 5
+      },
+      "total": 23
+    },
+    {
+      "facet": "Family Relations",
+      "term": "Orphans",
+      "decades": {
+        "1910s": 1,
+        "1920s": 6,
+        "1930s": 3,
+        "1940s": 3,
+        "1950s": 2
+      },
+      "total": 16
+    },
+    {
+      "facet": "Family Relations",
+      "term": "Fathers and daughters",
+      "decades": {
+        "1910s": 6,
+        "1920s": 0,
+        "1930s": 2,
+        "1940s": 2,
+        "1950s": 2
+      },
+      "total": 12
+    },
+    {
+      "facet": "Family Relations",
+      "term": "Mothers and sons",
+      "decades": {
+        "1910s": 4,
+        "1920s": 1,
+        "1930s": 1,
+        "1940s": 3,
+        "1950s": 1
+      },
+      "total": 10
+    },
+    {
+      "facet": "Family Relations",
+      "term": "Mothers and daughters",
+      "decades": {
+        "1910s": 1,
+        "1920s": 0,
+        "1930s": 4,
+        "1940s": 4,
+        "1950s": 1
+      },
+      "total": 10
+    },
+    {
+      "facet": "Family Relations",
+      "term": "Sisters",
+      "decades": {
+        "1910s": 0,
+        "1920s": 2,
+        "1930s": 0,
+        "1940s": 3,
+        "1950s": 1
+      },
+      "total": 6
+    },
+    {
+      "facet": "Family Relations",
+      "term": "Brothers",
+      "decades": {
+        "1910s": 1,
+        "1920s": 1,
+        "1930s": 0,
+        "1940s": 1,
+        "1950s": 0
+      },
+      "total": 3
+    },
+    {
+      "facet": "Marital Relations",
+      "term": "Marriage",
+      "decades": {
+        "1910s": 3,
+        "1920s": 3,
+        "1930s": 4,
+        "1940s": 3,
+        "1950s": 1
+      },
+      "total": 14
+    },
+    {
+      "facet": "Marital Relations",
+      "term": "Divorce",
+      "decades": {
+        "1910s": 2,
+        "1920s": 0,
+        "1930s": 1,
+        "1940s": 2,
+        "1950s": 0
+      },
+      "total": 6
+    },
+    {
+      "facet": "Marital Relations",
+      "term": "Weddings",
+      "decades": {
+        "1910s": 0,
+        "1920s": 0,
+        "1930s": 2,
+        "1940s": 1,
+        "1950s": 2
+      },
+      "total": 5
+    },
+    {
+      "facet": "Marital Relations",
+      "term": "Courtship",
+      "decades": {
+        "1910s": 0,
+        "1920s": 2,
+        "1930s": 0,
+        "1940s": 3,
+        "1950s": 0
+      },
+      "total": 5
+    },
+    {
+      "facet": "Plot Elements",
+      "term": "Murder",
+      "decades": {
+        "1910s": 6,
+        "1920s": 2,
+        "1930s": 5,
+        "1940s": 0,
+        "1950s": 0
+      },
+      "total": 13
+    },
+    {
+      "facet": "Plot Elements",
+      "term": "Death and dying",
+      "decades": {
+        "1910s": 0,
+        "1920s": 0,
+        "1930s": 3,
+        "1940s": 4,
+        "1950s": 2
+      },
+      "total": 9
+    },
+    {
+      "facet": "Plot Elements",
+      "term": "Trials",
+      "decades": {
+        "1910s": 1,
+        "1920s": 0,
+        "1930s": 3,
+        "1940s": 3,
+        "1950s": 0
+      },
+      "total": 7
+    },
+    {
+      "facet": "Professions",
+      "term": "Physicians",
+      "decades": {
+        "1910s": 3,
+        "1920s": 4,
+        "1930s": 9,
+        "1940s": 6,
+        "1950s": 3
+      },
+      "total": 25
+    },
+    {
+      "facet": "Professions",
+      "term": "Lawyers",
+      "decades": {
+        "1910s": 2,
+        "1920s": 2,
+        "1930s": 3,
+        "1940s": 3,
+        "1950s": 3
+      },
+      "total": 13
+    },
+    {
+      "facet": "Professions",
+      "term": "Farmers",
+      "decades": {
+        "1910s": 0,
+        "1920s": 1,
+        "1930s": 3,
+        "1940s": 1,
+        "1950s": 2
+      },
+      "total": 7
+    },
+    {
+      "facet": "Professions",
+      "term": "Servants",
+      "decades": {
+        "1910s": 2,
+        "1920s": 0,
+        "1930s": 3,
+        "1940s": 1,
+        "1950s": 0
+      },
+      "total": 6
+    },
+    {
+      "facet": "Professions",
+      "term": "Nurses",
+      "decades": {
+        "1910s": 3,
+        "1920s": 1,
+        "1930s": 1,
+        "1940s": 1,
+        "1950s": 0
+      },
+      "total": 6
+    },
+    {
+      "facet": "Professions",
+      "term": "Artists",
+      "decades": {
+        "1910s": 1,
+        "1920s": 0,
+        "1930s": 1,
+        "1940s": 1,
+        "1950s": 2
+      },
+      "total": 5
+    },
+    {
+      "facet": "Settings",
+      "term": "New York City",
+      "decades": {
+        "1910s": 0,
+        "1920s": 1,
+        "1930s": 0,
+        "1940s": 1,
+        "1950s": 1
+      },
+      "total": 3
+    },
+    {
+      "facet": "Social Issues",
+      "term": "African Americans",
+      "decades": {
+        "1910s": 2,
+        "1920s": 1,
+        "1930s": 3,
+        "1940s": 3,
+        "1950s": 4
+      },
+      "total": 13
+    },
+    {
+      "facet": "Social Issues",
+      "term": "Racism",
+      "decades": {
+        "1910s": 1,
+        "1920s": 0,
+        "1930s": 2,
+        "1940s": 2,
+        "1950s": 5
+      },
+      "total": 10
+    },
+    {
+      "facet": "Social Issues",
+      "term": "Poverty",
+      "decades": {
+        "1910s": 2,
+        "1920s": 2,
+        "1930s": 2,
+        "1940s": 2,
+        "1950s": 2
+      },
+      "total": 10
+    },
+    {
+      "facet": "Social Issues",
+      "term": "Slavery",
+      "decades": {
+        "1910s": 3,
+        "1920s": 1,
+        "1930s": 1,
+        "1940s": 0,
+        "1950s": 0
+      },
+      "total": 5
+    },
+    {
+      "facet": "Women-Specific",
+      "term": "Childbirth",
+      "decades": {
+        "1910s": 0,
+        "1920s": 0,
+        "1930s": 3,
+        "1940s": 2,
+        "1950s": 3
+      },
+      "total": 8
+    },
+    {
+      "facet": "Women-Specific",
+      "term": "Spinsters",
+      "decades": {
+        "1910s": 1,
+        "1920s": 1,
+        "1930s": 1,
+        "1940s": 3,
+        "1950s": 0
+      },
+      "total": 6
+    }
+  ],
+  "co_occurring_themes": [
+    {
+      "theme1": "Physicians",
+      "theme2": "Children",
+      "count": 7
+    },
+    {
+      "theme1": "Marriage",
+      "theme2": "Physicians",
+      "count": 5
+    },
+    {
+      "theme1": "Poverty",
+      "theme2": "Death and dying",
+      "count": 5
+    },
+    {
+      "theme1": "Death and dying",
+      "theme2": "Children",
+      "count": 4
+    },
+    {
+      "theme1": "Lawyers",
+      "theme2": "Murder",
+      "count": 4
+    },
+    {
+      "theme1": "Orphans",
+      "theme2": "Physicians",
+      "count": 4
+    },
+    {
+      "theme1": "Physicians",
+      "theme2": "Childbirth",
+      "count": 4
+    }
+  ]
+}

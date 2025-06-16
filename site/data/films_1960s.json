@@ -1,0 +1,264 @@
+[
+  {
+    "id": 29,
+    "afi_movie_id": "53484",
+    "title": "Cimarron",
+    "release_year": 1960,
+    "release_date": "December 1960",
+    "director": "Anthony Mann|14336",
+    "director_id": "14336",
+    "writer": "Arnold Schulman|15487",
+    "producer": "Edmund Grainger|44075",
+    "genre": "Western",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Family relationships|Adventurers|Bank robberies|Homesteaders|Brothels|Idealists|Land rushes|Childbirth|Marriage|Desertion (Marital)|Oklahoma|Editors|French Americans|Friendship|Indians of North America|Jealousy|Jews|Loans|Lynching|Marriage--Mixed|Merchants|Newspapers|Oil tycoons|Outlaws|Political corruption|Racism|Reconciliation|Rescues|Shootings|Small town life|Social climbers|Swindlers and swindling",
+    "literary_credits": "Edna Ferber",
+    "source_citations": "Variety 7 Dec 1960||New York Times 5 Mar 1961||New York Times 17 Feb 1961||New York Times 10 Jan 1960||LAMirror-News 15 Feb 1960||Motion Picture Herald Product Digest 10 Dec 1960||Hollywood Reporter 6 Dec 1960||Hollywood Reporter 15 Apr 1960||Hollywood Reporter 19 Feb 1960||Hollywood Reporter 6 Jan 1960||Hollywood Reporter 27 Nov 1959||Hollywood Reporter 3 Jul 1941||Hollywood Reporter 26 Oct 1959||Hollywood Reporter 25 Sep 1940||Harrison's Reports 28 Apr 1960||Film Daily 6 Dec 1960||The Exhibitor 7 Dec 60||Daily Variety 7 Mar 1958||Daily Variety 6 Dec 1960||Box Office 19 Dec 1960||Box Office 12 Dec 1960||Hollywood Reporter 17 Sep 1959||Hollywood Reporter 21 Sep 1959||Hollywood Reporter 27 Oct 1959||Hollywood Reporter 5 Nov 1959||Hollywood Reporter 19 Nov 1959||Hollywood Reporter 25 Nov 1959||Hollywood Reporter 10 Nov 1959",
+    "filming_location": "|Tucson Arizona United States|Mescal Arizona United States",
+    "created_at": "2025-06-16 00:25:02",
+    "survival_status": "extant",
+    "last_verified": "2025-06-16",
+    "music_credits": "Paul Webster | Franz Waxman",
+    "controlled_subjects": [
+      {
+        "term": "Childbirth",
+        "facet": "Women-Specific",
+        "weight": 2
+      },
+      {
+        "term": "Marriage",
+        "facet": "Marital Relations",
+        "weight": 2
+      },
+      {
+        "term": "Racism",
+        "facet": "Social Issues",
+        "weight": 2
+      },
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "afi_movie_id": "53149",
+    "title": "Freckles",
+    "release_year": 1960,
+    "release_date": "October 1960",
+    "director": "Andrew V. McLaglen|188991",
+    "director_id": "188991",
+    "writer": "Harry Spalding|67233",
+    "producer": "Harry Spalding|67233",
+    "genre": "Adventure",
+    "sub_genre": "Rural|Youth",
+    "film_type": "Feature",
+    "subjects": "Aunts|Forests|Handicapped|Business rivals|Cabins|Lumber camps|Lumberjacks|Editors|Fathers and daughters|Orphans|Romance|Fistfights|Scots|Guards|Thieves|Gunfights|Gunshot wounds|Indiana|Lumber camp foremen",
+    "literary_credits": "Gene Stratton-Porter | Jack Lambert",
+    "source_citations": "Motion Picture Herald Product Digest 24 Sep 1960||Hollywood Reporter 26 Sep 1960||Variety 28 Sep 1960||Film Daily 23 Sep 1960||Daily Variety 26 Sep 1960||Box Office 26 Sep 1960||Hollywood Reporter 17 Jun 1960",
+    "filming_location": "",
+    "created_at": "2025-06-16 00:26:15",
+    "survival_status": "unknown",
+    "survival_notes": "Survives",
+    "last_verified": "2025-06-16",
+    "music_credits": "Henry Vars | By Dunham",
+    "controlled_subjects": [
+      {
+        "term": "Fathers and daughters",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Orphans",
+        "facet": "Family Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "afi_movie_id": "53582",
+    "title": "Ice Palace",
+    "release_year": 1960,
+    "release_date": "2 July 1960",
+    "director": "Vincent Sherman|151411",
+    "director_id": "151411",
+    "writer": "Harry Kleiner|66884",
+    "producer": "Henry Blanke|69124",
+    "genre": "Drama",
+    "sub_genre": "Historical",
+    "film_type": "Feature",
+    "subjects": "Airplane accidents|Alaska|Bears|Entrepreneurs|Family relationships|Canneries|Childbirth|Feuds|Greed|Chinese Americans|Death by animals|Indians of North America--Mixed blood|Romantic rivalry|Death in childbirth|Dogsledding|Statehood (American politics)|Elopement|Fishermen|Fishing villages|Granddaughters|Heart disease|Hotelkeepers|Houseboys|Irish Americans|Lawyers|Loneliness|Marriage--Arranged|Native Alaskans|Neglected children|Neglected wives|Political candidates|Racism|Rescues|Salmon|Scottish Americans|Seattle (WA)|Snow storms",
+    "literary_credits": "Edna Ferber ",
+    "source_citations": "New York Times 30 Jun 1960||Variety 15 Jun 1960||New York Times 27 Sep 1959||Motion Picture Herald Product Digest 18 Jun 1960||Motion Picture Daily 15 Jun 1960||LAMirror-News 4 Nov 1959||LAMirror-News 21 Jul 1958||Hollywood Reporter 15 Jun 1960||Hollywood Reporter 4 Dec 1959||Hollywood Reporter 28 Aug 1959||Hollywood Reporter 31 Jul 1959||Harrison's Reports 18 Jun 1960||Film Daily 15 Jun 1960||Daily Variety 15 Jun 1960||The Exhibitor 22 Jun 1960||Daily Variety 24 Jul 1959||Daily Variety 12 Dec 1957||Box Office 27 Jun 1960||Hollywood Reporter 12 Aug 1959||Hollywood Reporter 4 Sep 1959||Hollywood Reporter 24 Jun 1959||Filmfacts 1960||Hollywood Reporter 30 Sep 1959",
+    "filming_location": "Juneau Alaska United States|Petersburg Alaska United States|Fairbanks Alaska United States",
+    "created_at": "2025-06-16 00:25:04",
+    "survival_status": "extant",
+    "survival_notes": "at ucla; dvd may be out of print",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Childbirth",
+        "facet": "Women-Specific",
+        "weight": 2
+      },
+      {
+        "term": "Lawyers",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Racism",
+        "facet": "Social Issues",
+        "weight": 2
+      },
+      {
+        "term": "Death and dying",
+        "facet": "Plot Elements",
+        "weight": 1
+      },
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 1
+      },
+      {
+        "term": "Marriage",
+        "facet": "Marital Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "afi_movie_id": "53251",
+    "title": "Pollyanna",
+    "release_year": 1960,
+    "release_date": "July 1960",
+    "director": "David Swift|36870",
+    "director_id": "36870",
+    "writer": "David Swift|36870",
+    "genre": "Drama",
+    "sub_genre": "Domestic|with songs|Youth",
+    "film_type": "Feature",
+    "subjects": "Accidents|Aunts|Bazaars|Children|Optimism|Charity|Clothes|Orphans|Romance|Dolls|Friendship|Transformation|Invalids|Mayors|Orphanages|Paralysis|Physicians|Reverends|Sermons|Small town life|Trees",
+    "literary_credits": "Eleanor H. Porter | David Swift",
+    "source_citations": "Variety 13 Apr 1960||New York Times 20 May 1960||Motion Picture Herald Product Digest 9 Apr 1960||Film Daily 6 Apr 1960||Hollywood Reporter 6 Apr 1960||Daily Variety 6 Apr 1960||Box Office 18 Apr 1960||Box Office 11 Apr 1960||Hollywood Reporter 31 Jul 1959||Hollywood Reporter 2 Oct 1959||Daily Variety 23 Feb 1959||Publishers Weekly 16 Feb 1959||Filmfacts 3 Jun 1960||Hollywood Reporter 24 Aug 1959||Hollywood Reporter 22 Mar 1960||Hollywood Reporter 17 May 1960||New York Times 30 Aug 1959||Saturday Review 7 May 1960||Time 9 May 1960",
+    "filming_location": "Santa Rosa California United States|Napa California United States",
+    "created_at": "2025-06-16 00:25:13",
+    "survival_status": "extant",
+    "survival_notes": "streaming on disney+",
+    "viewing_format": "DVD",
+    "last_verified": "2025-06-16",
+    "music_credits": "Samuel Augustus Ward | Katherine Lee Bates | Gil George | Paul Smith",
+    "controlled_subjects": [
+      {
+        "term": "Children",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Orphans",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Physicians",
+        "facet": "Professions",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "afi_movie_id": "53310",
+    "title": "Tess of the Storm Country",
+    "release_year": 1960,
+    "release_date": "December 1960",
+    "director": "Paul Guilfoyle|121897",
+    "director_id": "121897",
+    "writer": "Charles Lang |29619",
+    "producer": "Everett Chambers|50227",
+    "genre": "Drama",
+    "sub_genre": "Rural",
+    "film_type": "Feature",
+    "subjects": "Cattle|Factories|Drunkenness|Factory owners|Family life|Elopement|Explosions|Farmers|Feuds|False accusations|Mennonites|Nieces|Pacifism and pacifists|Pollution|Revenge|Scots|Small town life|Uncles|Veterinarians|Weddings",
+    "literary_credits": "Grace Miller White |Rupert Hughes ",
+    "source_citations": "Hollywood Reporter 31 Jan 1961||Variety 1 Feb 1961||Motion Picture Herald Product Digest 21 Jan 1961||Hollywood Reporter 23 Sep 1960||Hollywood Reporter 1 Sep 1960||Hollywood Reporter 16 Sep 1960||Daily Variety 31 Jan 1961||Box Office 16 Jan 1961",
+    "filming_location": "Sonora California United States",
+    "created_at": "2025-06-16 00:26:31",
+    "survival_status": "unknown",
+    "survival_notes": "Survives",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Farmers",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Weddings",
+        "facet": "Marital Relations",
+        "weight": 2
+      },
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "afi_movie_id": "22474",
+    "title": "Back Street",
+    "release_year": 1961,
+    "release_date": "11 October 1961",
+    "director": "David Miller|36651",
+    "director_id": "36651",
+    "writer": "Eleanore Griffin|46127||William Ludwig|155986",
+    "producer": "Ross Hunter|135474",
+    "genre": "Romance",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Alcoholism|Automobile accidents|Children|Couturiers|Divorce|Fashion shows|Family relationships|Heirs|Infidelity|Lincoln (NE)|London (England)|Mistresses|New York City|Orphans|Paris (France)|Rome (Italy)|Suicide|Veterans",
+    "literary_credits": "Fannie Hurst",
+    "source_citations": "Los Angeles Times 19 Sep 1956||Los Angeles Times 17 Nov 1959||Daily Variety 28 Sep 1956||Daily Variety 24 Oct 1956||Daily Variety 1 Jul 1959||Variety 23 Dec 1959||Daily Variety 10 Feb 1960||Los Angeles Times 3 Feb 1960||Los Angeles Times 9 Mar 1960||Daily Variety 11 Mar 1960||Daily Variety 21 Mar 1960||Variety 23 Mar 1960||Daily Variety 4 Aug 1960||Los Angeles Times 15 Jul 1960||Los Angeles Times 31 Aug 1960||Daily Variety 11 Aug 1960||Daily Variety 13 Sep 1960||Los Angeles Times 2 Sep 1960||Los Angeles Times 15 Oct 1960||Variety 14 Sep 1960||Daily Variety 21 Sep 1960||Los Angeles Times 15 Sep 1961||Los Angeles Times 14 Oct 1961||Daily Variety 22 Sep 1960||Daily Variety 30 Sep 1960||Daily Variety 25 Oct 1960||Daily Variety 3 Nov 1960||Daily Variety 16 Nov 1960||Daily Variety 21 Nov 1960||Daily Variety 6 Dec 1960||Variety 28 Dec 1960||Daily Variety 15 Feb 1961||Daily Variety 5 Sep 1961||Variety 13 Sep 1961||Daily Variety 10 Oct 1961||Daily Variety 13 Oct 1961||New York Times 13 Oct 1961||Los Angeles Times 27 Oct 1961",
+    "filming_location": "Studio City California United States|New York City New York United States|Monterey California United States",
+    "created_at": "2025-06-16 00:25:35",
+    "survival_status": "extant",
+    "viewing_format": "DVD",
+    "last_verified": "2025-06-16",
+    "music_credits": "Ken Darby | Frank Skinner",
+    "controlled_subjects": [
+      {
+        "term": "Children",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Divorce",
+        "facet": "Marital Relations",
+        "weight": 2
+      },
+      {
+        "term": "Orphans",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Death and dying",
+        "facet": "Plot Elements",
+        "weight": 1
+      },
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 1
+      }
+    ]
+  }
+]

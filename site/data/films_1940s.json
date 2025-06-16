@@ -1,0 +1,919 @@
+[
+  {
+    "id": 118,
+    "title": "Commandment Keeper Church, Beaufort South Carolina, May 1940",
+    "release_year": 1940,
+    "director": "Zora Neale Hurston",
+    "genre": "Documentary",
+    "created_at": "2025-06-16 15:23:18",
+    "survival_status": "extant",
+    "controlled_subjects": []
+  },
+  {
+    "id": 62,
+    "afi_movie_id": "6083",
+    "title": "Her First Romance",
+    "release_year": 1940,
+    "release_date": "25 December 1940",
+    "director": "Edward Dmytryk|44567",
+    "director_id": "44567",
+    "writer": "Adele Comandini|7423",
+    "producer": "I. E. Chadwick|72160",
+    "genre": "Drama",
+    "sub_genre": "College",
+    "film_type": "Feature",
+    "subjects": "College students|Cousins|Courtship|Dances|Engagements|Jealousy|Flirts|Romantic rivalry|School life|Fraternities|Wards and guardians|Stepsisters|Picnicking",
+    "literary_credits": "Gene Stratton-Porter",
+    "source_citations": "Daily Variety 19 Dec 1940||Film Daily 27 Dec 1940||Hollywood Reporter 19 Dec 1940||Hollywood Reporter 27 Dec 1940||Motion Picture Daily 23 Dec 1940||Motion Picture Herald 28 Dec 1940",
+    "created_at": "2025-06-16 00:26:05",
+    "survival_status": "unknown",
+    "last_verified": "2025-06-16",
+    "music_credits": "Peter Ilyich Tchaikowsky | Stephen Foster | Gregory Stone | Edvard Grieg | Lorenzo da Ponte | Wolfgang Amadeus Mozart | S. Charles Caine",
+    "controlled_subjects": [
+      {
+        "term": "Courtship",
+        "facet": "Marital Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "afi_movie_id": "6148",
+    "title": "Laddie",
+    "release_year": 1940,
+    "release_date": "18 October 1940",
+    "director": "Jack Hively|75635",
+    "director_id": "75635",
+    "writer": "Bert Granet|19767||Jerry Cady|81786",
+    "producer": "Cliff Reid|33168||Lee Marcus|96646",
+    "genre": "Drama",
+    "sub_genre": "Domestic",
+    "film_type": "Feature",
+    "subjects": "Courtship|English|Nursing back to health|Farmers|Family life|Soldiers|Fathers and daughters|Fathers and sons|Snobs and snobbishness",
+    "literary_credits": "Gene Stratton-Porter ",
+    "source_citations": "Daily Variety 13 Sep 1940||Film Daily 3 Oct 1940||Hollywood Reporter 13 May 1940||Hollywood Reporter 8 Jun 1940||Hollywood Reporter 3 Jul 1940||Hollywood Reporter 13 Sep 1940||Motion Picture Daily 17 Sep 1940||Motion Picture Herald 21 Sep 1940||Variety 18 Sep 1940",
+    "created_at": "2025-06-16 00:26:07",
+    "survival_status": "extant",
+    "viewing_format": "online",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Courtship",
+        "facet": "Marital Relations",
+        "weight": 2
+      },
+      {
+        "term": "Farmers",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Fathers and daughters",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 1
+      },
+      {
+        "term": "Nurses",
+        "facet": "Professions",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "afi_movie_id": "26603",
+    "title": "Back Street",
+    "release_year": 1941,
+    "release_date": "7 February 1941",
+    "director": "Robert Stevenson|132685",
+    "director_id": "132685",
+    "writer": "Bruce Manning|24356||Felix Jackson|51002",
+    "producer": "Bruce Manning|24356",
+    "genre": "Melodrama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Apartments|Automobile manufacturers|Bankers|Automobile racing|Boats|Love|Clothing industry|Marriage|Cincinnati (OH)|Mistresses|Salesclerks|Docks|Salesmen|Engagements|Europe|Unrequited love|Fathers and sons|Hotels|Landladies|New York City|Nightclubs|Ostracism|Paris (France)|Stepmothers|Stepsisters|Trains|Uncles",
+    "literary_credits": "Fannie Hurst ",
+    "source_citations": "Box Office 8 Feb 1941||Daily Variety 5 Feb 1941||Film Daily 5 Feb 1941||Hollywood Reporter 9 Oct 1940||Hollywood Reporter 25 Oct 1940||Hollywood Reporter 1 Nov 1940||Hollywood Reporter 7 Nov 1940||Hollywood Reporter 28 Nov 1940||Hollywood Reporter 5 Dec 1940||Hollywood Reporter 8 Jan 1941||Hollywood Reporter 29 Jan 1941||Hollywood Reporter 30 Jan 1941||Hollywood Reporter 5 Feb 1941||Hollywood Reporter 11 Mar 1941||Los Angeles Examiner 3 Oct 1940||Motion Picture Herald Product Digest 8 Mar 1941||New York Times 12 Feb 1941||Variety 12 Feb 1941",
+    "created_at": "2025-06-16 00:25:28",
+    "survival_status": "lost",
+    "viewing_format": "DVD",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Marriage",
+        "facet": "Marital Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "afi_movie_id": "26645",
+    "title": "Cheers for Miss Bishop",
+    "release_year": 1941,
+    "release_date": "21 February 1941",
+    "director": "Tay Garnett|144580",
+    "director_id": "144580",
+    "writer": "Stephen Vincent Benet|142535||Adelaide Heilbron|7388||Sheridan Gibney|139901",
+    "producer": "Richard A. Rowland |130354",
+    "genre": "Drama",
+    "sub_genre": "Historical",
+    "film_type": "Feature",
+    "subjects": "Adoption|Spinsters|Teachers|Aged persons|Banquets|United States--History|Universities|Cousins|Death in childbirth|Unrequited love|The Declaration of Independence|False accusations|Gardeners|Graduations|Grocers|Immigrants|Infidelity|The Little Minister (Novel)|Memory|Midwesterners|Presidents|Romantic rivalry|Seduction|Tests of character",
+    "literary_credits": "Bess Streeter Aldrich ",
+    "source_citations": "Box Office 18 Jan 1941||Daily Variety 13 Jan 1941||Film Daily 14 Jan 1941||Hollywood Reporter 27 Sep 1940||Hollywood Reporter 15 Nov 1940||Hollywood Reporter 13 Jan 1941||Motion Picture Herald 18 Jan 1941||Motion Picture Herald Product Digest 11 Jan 1941||New York Times 2 Feb 1941||New York Times 14 Mar 1941||Variety 15 Jan 1941",
+    "filming_location": "",
+    "created_at": "2025-06-16 00:24:37",
+    "survival_status": "extant",
+    "survival_notes": "Available on Amazon",
+    "viewing_format": "online",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Spinsters",
+        "facet": "Women-Specific",
+        "weight": 2
+      },
+      {
+        "term": "Death and dying",
+        "facet": "Plot Elements",
+        "weight": 1
+      },
+      {
+        "term": "Ministers",
+        "facet": "Professions",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "afi_movie_id": "27231",
+    "title": "Freckles Comes Home",
+    "release_year": 1942,
+    "release_date": "2 January 1942",
+    "director": "Jean Yarbrough|80716",
+    "director_id": "80716",
+    "writer": "Edmond Kelso|44026",
+    "producer": "Lindsley Parsons|99527",
+    "genre": "Comedy-drama",
+    "sub_genre": "with songs",
+    "film_type": "Feature",
+    "subjects": "Automobile accidents|Bank robberies|Gold|Fugitives|Gangsters|Hostages|Impersonation and imposture|Hotels|Land sales|Romance|Mortgages|Swindlers and swindling|United States. Federal Bureau of Investigation",
+    "literary_credits": "Gene Stratton-Porter",
+    "source_citations": "Box Office 11 Apr 1942||Hollywood Reporter 19 Oct 1938||Hollywood Reporter 10 Oct 1941||Hollywood Reporter 7 Nov 1941||Variety 8 Apr 1942",
+    "created_at": "2025-06-16 00:26:16",
+    "survival_status": "extant",
+    "viewing_format": "online",
+    "last_verified": "2025-06-16",
+    "music_credits": "Edward J. Kay | Eddie Cherkose",
+    "controlled_subjects": []
+  },
+  {
+    "id": 37,
+    "afi_movie_id": "27278",
+    "title": "In This Our Life",
+    "release_year": 1942,
+    "release_date": "16 May 1942",
+    "director": "John Huston|86038",
+    "director_id": "86038",
+    "writer": "Howard Koch|587501",
+    "producer": "Hal B. Wallis|65158",
+    "genre": "Melodrama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "African Americans|Lawyers|Automobile accidents|Liars|Automobile chases|Sisters|False accusations|Infidelity|Interior decorators|Lawyers|Manslaughter|Physicians|Suicide|Uncles",
+    "literary_credits": "Ellen Glasgow ",
+    "source_citations": "Box Office 11 Apr 1942||Daily Variety 7 Apr 1942||Film Daily 9 Apr 1942||Hollywood Reporter 27 Feb 1941||Hollywood Reporter 7 Apr 1942||Hollywood Reporter 5 May 1942||Hollywood Reporter 8 Sep 1942||Hollywood Reporter 18 Feb 1943||Motion Picture Herald Product Digest 11 Apr 1942||Los Angeles Examiner 27 Feb 1941||New York Times 9 May 1942||Variety 8 Apr 1942",
+    "created_at": "2025-06-16 00:25:17",
+    "survival_status": "extant",
+    "viewing_format": "DVD",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Lawyers",
+        "facet": "Professions",
+        "weight": 3
+      },
+      {
+        "term": "African Americans",
+        "facet": "Social Issues",
+        "weight": 2
+      },
+      {
+        "term": "Physicians",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Sisters",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Death and dying",
+        "facet": "Plot Elements",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "afi_movie_id": "27361",
+    "title": "Mrs. Wiggs of the Cabbage Patch",
+    "release_year": 1942,
+    "release_date": "1942",
+    "director": "Ralph Murphy|127132",
+    "director_id": "127132",
+    "writer": "Doris Anderson|40568||William Slavens McNutt|157409||Jane Storm|79339",
+    "producer": "Sol C. Siegel|141275",
+    "genre": "Comedy-drama",
+    "sub_genre": "Domestic",
+    "film_type": "Feature",
+    "subjects": "Child welfare|Adoption|Class distinction|Charity|Death and dying|Family relationships|Poverty|Engagements|Horses|Matchmakers|Neighbors|Physicians|Reunions|Spinsters|Thanksgiving Day|Theater|Uncles|Weddings",
+    "literary_credits": "Alice Hegan Rice |Anne Crawford Flexner ",
+    "source_citations": "Box Office 3 Oct 1942||Daily Variety 2 Oct 1942||Film Daily 5 Oct 1942||Hollywood Reporter 10 Nov 1941||Hollywood Reporter 26 Nov 1941||Hollywood Reporter 8 Jan 1942||Hollywood Reporter 29 Jan 1942||Hollywood Reporter 2 Feb 1942||Hollywood Reporter 2 Oct 1942||Motion Picture Herald Product Digest 3 Oct 1942||Variety 7 Oct 1942",
+    "created_at": "2025-06-16 00:24:26",
+    "survival_status": "extant",
+    "survival_notes": "At UCLA",
+    "archive_holdings": "UCLA Film and Television Archive",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Death and dying",
+        "facet": "Plot Elements",
+        "weight": 2
+      },
+      {
+        "term": "Physicians",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Poverty",
+        "facet": "Social Issues",
+        "weight": 2
+      },
+      {
+        "term": "Spinsters",
+        "facet": "Women-Specific",
+        "weight": 2
+      },
+      {
+        "term": "Weddings",
+        "facet": "Marital Relations",
+        "weight": 2
+      },
+      {
+        "term": "Class distinction",
+        "facet": "Social Issues",
+        "weight": 1
+      },
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "afi_movie_id": "26975",
+    "title": "The Vanishing Virginian",
+    "release_year": 1942,
+    "release_date": "February 1942",
+    "director": "Frank Borzage|53124",
+    "director_id": "53124",
+    "writer": "Jan Fortune|78930",
+    "producer": "Edwin Knopf |45548",
+    "genre": "Comedy-drama",
+    "sub_genre": "Domestic|with songs",
+    "film_type": "Feature",
+    "subjects": "Aging|African Americans|Automobiles, Antique|District attorneys|Family life|Bulls|Lynchburg (VA)|Cigarettes|United States--History--Social life and customs|Clergy|Elections|Farms|Funerals|Grandparents|Handkerchiefs|Heart disease|Ink|Jealousy|Lawyers|Racial impersonation|Servants|Singers|Trials|Women's suffrage|Working women",
+    "literary_credits": "Rebecca Yancey Williams",
+    "source_citations": "Box Office 6 Dec 1941||Daily Variety 3 Dec 1941||The Exhibitor 10 Dec 1941||Film Daily 3 Dec 1941||Hollywood Reporter 5 Sep 1941||Hollywood Reporter 17 Oct 1941||Hollywood Reporter 6 Nov 1941||Hollywood Reporter 7 Nov 1941||Hollywood Reporter 3 Dec 1941||Hollywood Reporter 18 Dec 1941||Hollywood Reporter 26 Jan 1942||Motion Picture Daily 3 Dec 1941||Motion Picture Herald Product Digest 6 Dec 1941||New York Times 28 May 1942||Showmen's Trade Reviews 6 Dec 1941||Variety 3 Dec 1941",
+    "created_at": "2025-06-16 00:27:44",
+    "survival_status": "extant",
+    "viewing_format": "DVD",
+    "last_verified": "2025-06-16",
+    "music_credits": "Earl Brent | Henry Thacker Burleigh | Robert Burns | Minnaletha White | Johann Strauss II | Hughie Cannon",
+    "controlled_subjects": [
+      {
+        "term": "African Americans",
+        "facet": "Social Issues",
+        "weight": 2
+      },
+      {
+        "term": "Lawyers",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Racism",
+        "facet": "Social Issues",
+        "weight": 2
+      },
+      {
+        "term": "Servants",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Trials",
+        "facet": "Plot Elements",
+        "weight": 2
+      },
+      {
+        "term": "Working women",
+        "facet": "Women-Specific",
+        "weight": 2
+      },
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 1
+      },
+      {
+        "term": "Ministers",
+        "facet": "Professions",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "afi_movie_id": "580",
+    "title": "My Friend Flicka",
+    "release_year": 1943,
+    "release_date": "23 April 1943",
+    "director": "Harold Schuster|66115",
+    "director_id": "66115",
+    "writer": "Lillie Hayward|99192||Francis Edwards Faragoh|52753",
+    "producer": "William Goetz|155661||Ralph Dietrich|126998",
+    "genre": "Drama",
+    "sub_genre": "Animal|Youth",
+    "film_type": "Feature",
+    "subjects": "Children|Barbed wire|Debt|Fathers and sons|Disease|Horses|Maturation|Insanity|Ranchers|Mothers and sons|Mountain lions|Neighbors|Nursing back to health|Ranchhands|Roundups|Self-sacrifice|Stampedes|Swedish Americans|Wyoming",
+    "literary_credits": "Mary O'Hara ",
+    "source_citations": "Daily Variety 7 Apr 1943||Film Daily 8 Apr 1943||Hollywood Reporter 14 Nov 1941||Hollywood Reporter 24 Dec 1941||Hollywood Reporter 15 Jun 1942||Hollywood Reporter 17 Jul 1942||Hollywood Reporter 24 Jul 1942||Hollywood Reporter 29 Jul 1942||Hollywood Reporter 31 Jul 1942||Hollywood Reporter 3 Aug 1942||Hollywood Reporter 4 Aug 1942||Hollywood Reporter 5 Aug 1942||Hollywood Reporter 6 Aug 1942||Hollywood Reporter 7 Aug 1942||Hollywood Reporter 10 Aug 1942||Hollywood Reporter 13 Aug 1942||Hollywood Reporter 17 Aug 1942||Hollywood Reporter 20 Aug 1942||Hollywood Reporter 21 Aug 1942||Hollywood Reporter 25 Aug 1942||Hollywood Reporter 14 Sep 1942||Hollywood Reporter 18 Sep 1942||Hollywood Reporter 2 Oct 1942||Hollywood Reporter 9 Oct 1942||Hollywood Reporter 30 Oct 1942||Hollywood Reporter 4 Nov 1942||Hollywood Reporter 3 Dec 1942||Hollywood Reporter 26 Mar 1943||Hollywood Reporter 7 Apr 1943||Hollywood Reporter 9 Apr 1943||Hollywood Reporter 1 Jun 1943||Hollywood Reporter 31 Jan 1945||Los Angeles Examiner 14 Nov 1941||Motion Picture Herald 10 Apr 1943||Motion Picture Herald Product Digest 17 Oct 1942||Motion Picture Herald Product Digest 10 Apr 1943||Motion Picture Herald Product Digest 29 May 1943||New York Times 27 May 1943||Variety 7 Apr 1943",
+    "filming_location": "Cedar City Utah United States",
+    "created_at": "2025-06-16 00:27:29",
+    "survival_status": "extant",
+    "viewing_format": "DVD",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Children",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Mothers and sons",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Nurses",
+        "facet": "Professions",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "afi_movie_id": "24635",
+    "title": "A Tree Grows in Brooklyn",
+    "release_year": 1945,
+    "release_date": "February 1945",
+    "director": "Elia Kazan|46252",
+    "director_id": "46252",
+    "writer": "Tess Slesinger|145385||Frank Davis|53289",
+    "producer": "Louis D. Lighton|101360",
+    "genre": "Melodrama",
+    "sub_genre": "Domestic|with songs",
+    "film_type": "Feature",
+    "subjects": "Disillusionment|Adolescence|Family life|Alcoholics|\"Annie Laurie\" (Song)|Fathers and daughters|Childbirth|Grief|Christmas Eve|Idealists|Maturation|Courtship|Death and dying|New York City--Brooklyn|Poverty|Education|Gossip|Graduations|Grandmothers|Infants|Insurance--Agents|Irish Americans|Marriage|Mothers and daughters|Neighbors|Police|Reconciliation|Saloon keepers|Schoolteachers|Scrubwomen|Sisters|Tenement-houses|Trees|Troilus and Cressida (Play)",
+    "literary_credits": "Betty Smith",
+    "source_citations": "Box Office 3 Feb 1945||Daily Variety 24 Jan 1945||Film Daily 24 Jan 1945||Hollywood Citizen-News 2 Mar 1945||Hollywood Reporter 24 Jun 1943||Hollywood Reporter 1 Jul 1943||Hollywood Reporter 5 Oct 1943||Hollywood Reporter 16 Dec 1943||Hollywood Reporter 31 Mar 1944||Hollywood Reporter 17 Apr 1944||Hollywood Reporter 28 Apr 1944||Hollywood Reporter 5 May 1944||Hollywood Reporter 19 May 1944||Hollywood Reporter 28 Jul 1944||Hollywood Reporter 3 Aug 1944||Hollywood Reporter 24 Jan 1945||Hollywood Reporter 7 Feb 1945||Hollywood Reporter 27 Feb 1945||Hollywood Reporter 1 Mar 1945||Hollywood Reporter 5 Mar 1945||Hollywood Reporter 6 Mar 1945||Hollywood Reporter 13 Mar 1945||Hollywood Reporter 20 Mar 1945||Los Angeles Times 2 Mar 1945||Look 6 Feb 1945||Motion Picture Daily 24 Jan 1945||Motion Picture Herald Product Digest 3 Jun 1944||Motion Picture Herald Product Digest 27 Jan 1945||New York Times 1 Mar 1945||New York Times 4 Mar 1945||New York Times 3 Jun 1945||PM (Journal) 14 May 1944||Variety 24 Jan 1945",
+    "created_at": "2025-06-16 00:24:41",
+    "survival_status": "extant",
+    "viewing_format": "DVD",
+    "last_verified": "2025-06-16",
+    "music_credits": "Frederick Oakeley | John Francis Wade | James Ramsey Murray | Isaac Watts | Joseph Handel | Joseph Mohr | Franz Gruber | William Douglas | Lady John Scott",
+    "controlled_subjects": [
+      {
+        "term": "Childbirth",
+        "facet": "Women-Specific",
+        "weight": 2
+      },
+      {
+        "term": "Courtship",
+        "facet": "Marital Relations",
+        "weight": 2
+      },
+      {
+        "term": "Death and dying",
+        "facet": "Plot Elements",
+        "weight": 2
+      },
+      {
+        "term": "Fathers and daughters",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Marriage",
+        "facet": "Marital Relations",
+        "weight": 2
+      },
+      {
+        "term": "Mothers and daughters",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "New York City",
+        "facet": "Settings",
+        "weight": 2
+      },
+      {
+        "term": "Poverty",
+        "facet": "Social Issues",
+        "weight": 2
+      },
+      {
+        "term": "Sisters",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "afi_movie_id": "24427",
+    "title": "The Girl of the Limberlost",
+    "release_year": 1945,
+    "release_date": "11 October 1945",
+    "director": "Melchor Ferrer |110672",
+    "director_id": "110672",
+    "writer": "Erna Lazarus|48493",
+    "producer": "Alexis Thurn-Taxis|10311",
+    "genre": "Drama",
+    "sub_genre": "Rural",
+    "film_type": "Feature",
+    "subjects": "Accidental death|Battered children|Butterflies|Guilt|Mothers and daughters|Childbirth|Graduations|Rural life|Infidelity|Money|Schools|School superintendents and principals|Swamps|Thieves|Violins",
+    "literary_credits": "Gene Stratton-Porter ",
+    "source_citations": "Box Office 8 Sep 1945||Daily Variety 6 Mar 1946||Hollywood Reporter 27 Apr 1944||Hollywood Reporter 15 Jun 1945||Hollywood Reporter 6 Mar 1946||Motion Picture Herald Product Digest 6 Oct 1945||Motion Picture Herald Product Digest 20 Oct 1945||Variety 19 Sep 1945",
+    "created_at": "2025-06-16 00:26:09",
+    "survival_status": "unknown",
+    "controlled_subjects": [
+      {
+        "term": "Childbirth",
+        "facet": "Women-Specific",
+        "weight": 2
+      },
+      {
+        "term": "Mothers and daughters",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Death and dying",
+        "facet": "Plot Elements",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "afi_movie_id": "24826",
+    "title": "Humoresque",
+    "release_year": 1947,
+    "release_date": "25 January 1947",
+    "director": "Jean Negulesco|80519",
+    "director_id": "80519",
+    "writer": "Clifford Odets|33252||Zachary Gold|159012",
+    "producer": "Jack L. Warner|76481||Jerry Wald|82053",
+    "genre": "Melodrama",
+    "sub_genre": "with songs",
+    "film_type": "Feature",
+    "subjects": "Alcoholics|Ambition|Brothers|Art patronage|Concerts|Classical music|Mothers and sons|The Depression, 1929|Violinists|Dismissal (Employment)|Divorce|Fathers and sons|Grocers|Music schools|New York City|Parties|Pianists|Radio programs|Socialites|Suicide",
+    "literary_credits": "Fannie Hurst",
+    "source_citations": "Box Office 26 Dec 1946||Daily Variety 23 Dec 1946||Film Daily 26 Dec 1946||Hollywood Reporter 10 Sep 1945||Hollywood Reporter 14 Dec 1945||Hollywood Reporter 22 Feb 1946||Hollywood Reporter 12 Apr 1946||Hollywood Reporter 23 Dec 1946||Hollywood Reporter 30 Dec 1946||Motion Picture Herald Product Digest 5 Jan 1946||Motion Picture Herald Product Digest 14 Dec 1946||Motion Picture Herald Product Digest 28 Dec 1946||New York Times 26 Dec 1946||Variety 25 Dec 1946",
+    "filming_location": "Laguna Beach California United States",
+    "created_at": "2025-06-16 00:25:29",
+    "survival_status": "extant",
+    "last_verified": "2025-06-16",
+    "music_credits": "Pyotr Ilyich Tchaikovsky | Cole Porter | Ira Gershwin | George Gershwin | Johann Sebastian Bach | Sergei Prokofiev | Edvard Grieg | Johannes Brahms | Dmitri Shostakovich | Édouard Lalo | César Franck | Henryk Wieniawski | Felix Mendelssohn | Pablo Sarasate | Richard Wagner | Georges Bizet | Antonín Dvořák",
+    "controlled_subjects": [
+      {
+        "term": "Brothers",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Divorce",
+        "facet": "Marital Relations",
+        "weight": 2
+      },
+      {
+        "term": "Mothers and sons",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Death and dying",
+        "facet": "Plot Elements",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "afi_movie_id": "25224",
+    "title": "Keeper of the Bees",
+    "release_year": 1947,
+    "release_date": "10 July 1947",
+    "director": "John Sturges|86985",
+    "director_id": "86985",
+    "writer": "Lawrence Edward Watkin|96348||Malcolm Stuart Boylan|104233||Ralph Rose Jr.|127178",
+    "producer": "John Haggott|85869",
+    "genre": "Drama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Divorce|Artists|Beekeepers|False accusations|Disillusionment|Gossip|Heart disease|Orphans|Transformation|Orphanages",
+    "literary_credits": "Gene Stratton-Porter ",
+    "source_citations": "Box Office 5 Jul 1947||Harrison's Reports 16 Aug 1947||Hollywood Reporter 5 Jun 1946||Hollywood Reporter 6 Oct 1947||Independent Film Journal 15 Mar 1947||Motion Picture Herald Product Digest 29 Nov 1947",
+    "created_at": "2025-06-16 00:26:11",
+    "survival_status": "unknown",
+    "survival_notes": "private collection? https://nitrateville.com/viewtopic.php?f=4&t=12955&p=93497&hilit=girl+of+the+limberlost#p93497",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Artists",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Divorce",
+        "facet": "Marital Relations",
+        "weight": 2
+      },
+      {
+        "term": "Orphans",
+        "facet": "Family Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "afi_movie_id": "25380",
+    "title": "That Hagen Girl",
+    "release_year": 1947,
+    "release_date": "1 November 1947",
+    "director": "Peter Godfrey|123956",
+    "director_id": "123956",
+    "writer": "Charles Hoffman|29504",
+    "producer": "Jack L. Warner|76481||Alex Gottlieb|9922",
+    "genre": "Melodrama",
+    "sub_genre": "",
+    "film_type": "Feature",
+    "subjects": "Class distinction|Adoption|Attempted suicide|College students|False accusations|Gossip|Illegitimacy|Fistfights|Insanity|Lawyers|Physicians|Professors|Romance|Romeo and Juliet (Play)|Small town life",
+    "literary_credits": "Edith Roberts ",
+    "source_citations": "American Cinematographer Aug 1947||Box Office 25 Oct 1947||Film Daily 22 Oct 1947||Hollywood Reporter 6 Jun 1947||Hollywood Reporter 14 Jul 1947||Hollywood Reporter 8 Aug 1947||Hollywood Reporter 22 Oct 1947||Motion Picture Herald Product Digest 25 Oct 1947||New York Times 25 Oct 1947||Variety 22 Oct 1947",
+    "created_at": "2025-06-16 00:24:50",
+    "survival_status": "extant",
+    "viewing_format": "DVD",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Lawyers",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Physicians",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Class distinction",
+        "facet": "Social Issues",
+        "weight": 1
+      },
+      {
+        "term": "Death and dying",
+        "facet": "Plot Elements",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "afi_movie_id": "25153",
+    "title": "The Egg and I",
+    "release_year": 1947,
+    "release_date": "May 1947",
+    "director": "Chester Erskine|31116",
+    "director_id": "31116",
+    "writer": "Chester Erskine|31116||Fred F. Finklehoffe|55547",
+    "producer": "Chester Erskine|31116||Fred F. Finklehoffe|55547",
+    "genre": "Comedy",
+    "sub_genre": "Domestic|Rural",
+    "film_type": "Feature",
+    "subjects": "Chickens|City-country contrast|Farms|Contests|Dances|Jealousy|Fairs|Newlyweds|Fires|Rural life|Mothers and daughters|Separation (Marital)|Neighbors|Salesmen|Sheriffs|Veterans",
+    "literary_credits": "Betty MacDonald ",
+    "source_citations": "American Cinematographer May 1947||Box Office 5 Apr 1947||Daily Variety 24 Mar 1947||Film Daily 24 Mar 1947||Hollywood Reporter 21 Aug 1946||Hollywood Reporter 30 Aug 1946||Hollywood Reporter 11 Oct 1946||Hollywood Reporter 3 Jan 1947||Hollywood Reporter 11 Mar 1947||Hollywood Reporter 24 Mar 1947||Hollywood Reporter 7 May 1947||Independent Film Journal 4 Jan 1947||Los Angeles Examiner 13 Mar 1947||Los Angeles Times 23 Feb 1951||Motion Picture Herald Product Digest 29 Mar 1947||New York Times 25 Apr 1947||Variety 26 Mar 1947",
+    "created_at": "2025-06-16 00:24:39",
+    "survival_status": "unknown",
+    "survival_notes": "Survives",
+    "viewing_format": "criterion",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Mothers and daughters",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Marriage",
+        "facet": "Marital Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "afi_movie_id": "25058",
+    "title": "The Yearling",
+    "release_year": 1947,
+    "release_date": "May 1947",
+    "director": "Clarence Brown|32371||Victor Fleming|150912",
+    "director_id": "150912",
+    "writer": "Paul Osborn|122205",
+    "producer": "Sidney Franklin|140587",
+    "genre": "Drama",
+    "sub_genre": "Animal|Historical|Youth",
+    "film_type": "Feature",
+    "subjects": "Deer|Animals|Farm life|Bears|Children|Fathers and sons|Death and dying|Maturation|Mothers and sons|Dogs|Youth|Fistfights|Florida|Grief|Hunting|Reconciliation|Runaways|Snake bites|United States--History--Reconstruction, 1865-1898",
+    "literary_credits": "Marjorie Kinnan Rawlings ",
+    "source_citations": "Box Office 7 Dec 1946||Daily Variety 2 May 1941||Daily Variety 27 Nov 1946||Film Daily 27 Nov 1946||Hollywood Reporter 6 Mar 1941||Hollywood Reporter 9 Apr 1941||Hollywood Reporter 16 Apr 1941||Hollywood Reporter 22 Apr 1941||Hollywood Reporter 1 May 1941||Hollywood Reporter 2 May 1941||Hollywood Reporter 6 May 1941||Hollywood Reporter 6 Jun 1941||Hollywood Reporter 5 Feb 1942||Hollywood Reporter 13 Mar 1942||Hollywood Reporter 30 Mar 1942||Hollywood Reporter 2 Nov 1944||Hollywood Reporter 12 Jan 1945||Hollywood Reporter 31 Jan 1945||Hollywood Reporter 22 Mar 1945||Hollywood Reporter 23 Mar 1945||Hollywood Reporter 11 May 1945||Hollywood Reporter 23 May 1945||Hollywood Reporter 8 Jun 1945||Hollywood Reporter 13 Jul 1945||Hollywood Reporter 3 Aug 1945||Hollywood Reporter 17 Aug 1945||Hollywood Reporter 24 Aug 1945||Hollywood Reporter 19 Sep 1945||Hollywood Reporter 21 Sep 1945||Hollywood Reporter 5 Oct 1945||Hollywood Reporter 16 Oct 1945||Hollywood Reporter 26 Oct 1945||Hollywood Reporter 9 Nov 1945||Hollywood Reporter 12 Nov 1945||Hollywood Reporter 11 Jan 1946||Hollywood Reporter 27 Nov 1946||Hollywood Reporter 18 Dec 1946||Hollywood Reporter 19 Dec 1946||Los Angeles Examiner 1 Dec 1946||Los Angeles Times 6 Dec 1946||Liberty 16 Nov 1946||Motion Picture Herald Product Digest 9 Mar 1946||Motion Picture Herald Product Digest 30 Nov 1946||New York Times 25 May 1941||New York Times 22 Jun 1941||New York Times 15 Mar 1942||New York Times 10 Jun 1945||New York Times 13 Oct 1946||New York Times 24 Jan 1947||St. Louis Globe-Democrat 13 Dec 1946||Variety 27 Nov 1946",
+    "filming_location": "Silver Springs Florida United States||Lake Arrowhead California United States",
+    "created_at": "2025-06-16 00:27:24",
+    "survival_status": "extant",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Children",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Death and dying",
+        "facet": "Plot Elements",
+        "weight": 2
+      },
+      {
+        "term": "Mothers and sons",
+        "facet": "Family Relations",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "afi_movie_id": "25563",
+    "title": "Green Grass of Wyoming",
+    "release_year": 1948,
+    "release_date": "June 1948",
+    "director": "Louis King|101085",
+    "director_id": "101085",
+    "writer": "Martin Berkeley|107907",
+    "producer": "Robert Bassler|131279",
+    "genre": "Drama",
+    "sub_genre": "Animal|Horse race|Teenage",
+    "film_type": "Feature",
+    "subjects": "Adolescents|Animal culture|Family relationships|Alcoholics|Harness racing|Chases|Horses|Horse trainers|Lancaster (OH)|Regeneration|Romance|Neighbors|Nursing back to health|Partnership|Ranchers|Ranchhands|Rivalry|Square dances|Veterinarians|Wolves|Wyoming",
+    "literary_credits": "Mary O'Hara",
+    "source_citations": "Box Office 1 May 1948||Columbus Sunday Dispatch 13 Jul 1947||Daily Variety 21 Apr 1948||Film Daily 21 Apr 1948||Hollywood Reporter 18 Jan 1946||Hollywood Reporter 28 May 1947||Hollywood Reporter 4 Jun 1947||Hollywood Reporter 6 Jun 1947||Hollywood Reporter 27 Jun 1947||Hollywood Reporter 15 Aug 1947||Hollywood Reporter 30 Jan 1948||Hollywood Reporter 21 Apr 1948||Hollywood Reporter 14 Jun 1948||Los Angeles Daily News 29 May 1948||Motion Picture Daily 28 Apr 1948||Motion Picture Herald Product Digest 31 Jan 1948||Motion Picture Herald Product Digest 24 Apr 1948||New York Times 10 Jun 1948||Variety 21 Apr 1948",
+    "filming_location": "Lancaster Ohio United States|Kanab Utah United States",
+    "created_at": "2025-06-16 00:27:33",
+    "survival_status": "extant",
+    "survival_notes": "With Flicka movies",
+    "viewing_format": "DVD",
+    "last_verified": "2025-06-16",
+    "music_credits": "Burl Ives",
+    "controlled_subjects": [
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 1
+      },
+      {
+        "term": "Nurses",
+        "facet": "Professions",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "afi_movie_id": "25582",
+    "title": "I Remember Mama",
+    "release_year": 1948,
+    "release_date": "17 March 1948",
+    "director": "George Stevens|59479",
+    "director_id": "59479",
+    "writer": "DeWitt Bodeen|38081",
+    "producer": "Harriet Parsons|66335||George Stevens|59479",
+    "genre": "Drama",
+    "sub_genre": "Domestic|Historical",
+    "film_type": "Feature",
+    "subjects": "Authors|Adolescents|Family life|Alcoholics|Motherhood|Cats|Death and dying|Norwegian Americans|Engagements|San Francisco (CA)|United States--History--1909-1919|Finance--Personal|Gifts|Handicapped|Hospitals|Intolerance|Jewelry|Lodgers|Marriage|Maturation|Physicians|Ranches|Recipes|Self-sacrifice|Sisters|Spinsters|Timidity|Uncles|Undertakers and undertaking",
+    "literary_credits": "John Van Druten |Kathryn Anderson McLean ",
+    "source_citations": "Box Office 13 Mar 1948||Daily Variety 9 Mar 1948||Film Daily 9 Mar 1948||Hollywood Reporter 3 Jan 1947||Hollywood Reporter 31 Mar 1947||Hollywood Reporter 26 May 1947||Hollywood Reporter 27 May 1947||Hollywood Reporter 17 Oct 1947||Hollywood Reporter 9 Mar 1948||Hollywood Reporter 15 Mar 1948||Los Angeles Times 12 Mar 1948||Life 12 Apr 1948||Motion Picture Herald Product Digest 28 Feb 1948||Motion Picture Herald Product Digest 13 Mar 1948||New York Times 6 Aug 1947||New York Times 26 Oct 1947||New York Times 12 Mar 1948||New York Times 21 Mar 1948||New York Times 11 Apr 1948||San Francisco Chronicle 9 Aug 1947||Variety 10 Mar 1948",
+    "filming_location": "San Francisco California United States|",
+    "created_at": "2025-06-16 00:27:09",
+    "survival_status": "extant",
+    "viewing_format": "DVD",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Death and dying",
+        "facet": "Plot Elements",
+        "weight": 2
+      },
+      {
+        "term": "Marriage",
+        "facet": "Marital Relations",
+        "weight": 2
+      },
+      {
+        "term": "Physicians",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Sisters",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Spinsters",
+        "facet": "Women-Specific",
+        "weight": 2
+      },
+      {
+        "term": "Family relationships",
+        "facet": "Family Relations",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "afi_movie_id": "25638",
+    "title": "Michael O'Halloran",
+    "release_year": 1948,
+    "release_date": "8 August 1948",
+    "director": "John Rawlins|86712",
+    "director_id": "86712",
+    "writer": "Erna Lazarus|48493",
+    "producer": "Julian Lesser|90995||Frank Melford|53784",
+    "genre": "Drama",
+    "sub_genre": "Teenage",
+    "film_type": "Feature",
+    "subjects": "Alcoholics|Accidents|Handicapped|Apartments|Drugstores|Juvenile courts|Hospitals|Mothers and daughters|Newsboys|Judges|Orphans|Pharmacists|Police|Regeneration|Surgeons|Trials|Wheelchairs",
+    "literary_credits": "Gene Stratton-Porter ",
+    "source_citations": "Box Office 19 Jun 1948||Daily Variety 10 Jun 1948||Film Daily 17 Jun 1948||Hollywood Reporter 13 Oct 1947||Hollywood Reporter 26 Mar 1948||Hollywood Reporter 10 Jun 1948||Motion Picture Herald Product Digest 19 Jun 1948||Variety 16 Jun 1948",
+    "created_at": "2025-06-16 00:26:13",
+    "survival_status": "unknown",
+    "survival_notes": "Survives",
+    "archive_holdings": "UCLA Film and Television Archive",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "Mothers and daughters",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Orphans",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Trials",
+        "facet": "Plot Elements",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "afi_movie_id": "25485",
+    "title": "Pinky",
+    "release_year": 1949,
+    "release_date": "November 1949",
+    "director": "Elia Kazan|46252",
+    "director_id": "46252",
+    "writer": "Philip Dunne|124836||Dudley Nichols|41697",
+    "producer": "Darryl F. Zanuck|35873",
+    "genre": "Drama",
+    "sub_genre": "Social",
+    "film_type": "Feature",
+    "subjects": "Attempted rape|African Americans|Grandmothers|Cousins|Miscegenation|Friendship|Judges|Nurses|Gossip|Racism|Transformation|Laundresses|United States--South|Literacy|Ne'er-do-wells|Physicians|Police brutality|Racial impersonation|Storekeepers|Trials|Wills",
+    "literary_credits": "Cid Ricketts Sumner ",
+    "source_citations": "Box Office 8 Oct 1949||The Dallas Morning News 3 Nov 1950||Daily Variety 2 May 1949||Daily Variety 30 Sep 1949||Daily Variety 17 Nov 1949||Daily Variety 21 Nov 1949||Daily Variety 2 Dec 1949||Daily Variety 31 Jan 1952||Daily Variety 11 Mar 1952||Ebony Sep 1949||The Exhibitor 12 Oct 1949||Film Daily 30 Sep 1949||Harrison's Reports 1 Oct 1949||Hollywood Citizen-News 12 Dec 1949||Hollywood Reporter 19 Jan 1949||Hollywood Reporter 11 Mar 1949||Hollywood Reporter 30 Sep 1949||Hollywood Reporter 17 Nov 1949||Hollywood Reporter 18 Nov 1949||Hollywood Reporter 14 Mar 1952||Los Angeles Daily News 23 Mar 1949||Los Angeles Examiner 22 Oct 1949||Los Angeles Times 22 Oct 1949||Los Angeles Times 3 Jun 1952||Motion Picture Daily 30 Sep 1949||Motion Picture Herald 2 Feb 1952||Motion Picture Herald 22 Mar 1952||Motion Picture Herald 7 Jun 1952||Motion Picture Herald Product Digest 1 Oct 1949||New York Times 23 May 1948||New York Times 30 Jan 1949||New York Times 6 Mar 1949||New York Times 1 May 1949||New York Times 29 May 1949||New York Times 30 Sep 1949||New York Times 9 Oct 1949||New York Times 29 Oct 1949||New York Times 6 Nov 1949||New York Times 12 Feb 1950||New York Times 31 Jan 1952||Variety 18 Aug 1948||Variety 5 Oct 1949||Variety 16 Apr 1952||Variety 4 Jun 1952",
+    "created_at": "2025-06-16 00:24:44",
+    "survival_status": "extant",
+    "viewing_format": "DVD",
+    "last_verified": "2025-06-16",
+    "controlled_subjects": [
+      {
+        "term": "African Americans",
+        "facet": "Social Issues",
+        "weight": 2
+      },
+      {
+        "term": "Nurses",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Physicians",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Racism",
+        "facet": "Social Issues",
+        "weight": 2
+      },
+      {
+        "term": "Trials",
+        "facet": "Plot Elements",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "afi_movie_id": "26133",
+    "title": "The Sun Comes Up",
+    "release_year": 1949,
+    "release_date": "February 1949",
+    "director": "Richard Thorpe|130458",
+    "director_id": "130458",
+    "writer": "William Ludwig|155986||Margaret Fitts|105167",
+    "producer": "Robert Sisk|132627",
+    "genre": "Comedy-drama",
+    "sub_genre": "Animal|with songs",
+    "film_type": "Feature",
+    "subjects": "Accidental death|Dogs|Adoption|Grief|Authors|Opera singers|Orphans|Children|Small town life|City-country contrast|Fires|Widows|Friendship|Liars|Orphanages|Physicians|Pneumonia|Rescues|Romance|Snuff boxes and bottles|Storekeepers",
+    "literary_credits": "Marjorie Kinnan Rawlings",
+    "source_citations": "Box Office 8 Jan 1949||Daily Variety 21 Jan 1947||Daily Variety 31 Dec 1948||Film Daily 31 Jan 1949||Hollywood Reporter 12 Feb 1948||Hollywood Reporter 16 Mar 1948||Hollywood Reporter 23 Apr 1948||Hollywood Reporter 25 Jun 1948||Hollywood Reporter 31 Dec 1948||Hollywood Reporter 26 Jan 1949||Motion Picture Herald Product Digest 1 Jan 1949||New York Times 13 May 1949||Variety 5 Jan 1949",
+    "filming_location": "Santa Cruz California United States",
+    "created_at": "2025-06-16 00:27:26",
+    "survival_status": "extant",
+    "survival_notes": "",
+    "viewing_format": "online",
+    "last_verified": "2025-06-16",
+    "music_credits": "Paul Bourget | Anton Rubinstein | William Katz | André Previn | Natalie MacFarren | Adolf Heyduck | Antonín Dvořák | Guiseppe Giacosa | Luigi Illica | Giacomo Puccini | René Alphonse Rabey",
+    "controlled_subjects": [
+      {
+        "term": "Children",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Orphans",
+        "facet": "Family Relations",
+        "weight": 2
+      },
+      {
+        "term": "Physicians",
+        "facet": "Professions",
+        "weight": 2
+      },
+      {
+        "term": "Death and dying",
+        "facet": "Plot Elements",
+        "weight": 1
+      }
+    ]
+  }
+]
