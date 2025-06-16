@@ -118,26 +118,63 @@ class WikipediaWikidataPrePopulator:
             if based_on_match:
                 based_on = based_on_match.group(1).strip()
                 # Clean up wiki markup
+                based_on = re.sub(r'\[\[(.*?)\|(.*?)\]\]', r'\2', based_on)  # Handle piped links
                 based_on = re.sub(r'\[\[(.*?)\]\]', r'\1', based_on)  # Remove wiki links
+                based_on = re.sub(r"''(.*?)''", r'\1', based_on)  # Remove italics
                 based_on = re.sub(r'\{\{.*?\}\}', '', based_on)  # Remove templates
                 based_on = re.sub(r'<.*?>', '', based_on)  # Remove HTML
+                based_on = re.sub(r'\n', ' ', based_on)  # Replace newlines
                 data['based_on_raw'] = based_on.strip()
                 
+                # Try to extract title and author
+                # Common patterns: "novel by Author", "''Title'' by Author"
+                title_author_match = re.search(r'([^by]+?)\s+by\s+(.+)', based_on, re.IGNORECASE)
+                if title_author_match:
+                    potential_title = title_author_match.group(1).strip()
+                    potential_author = title_author_match.group(2).strip()
+                    
+                    # Clean up title
+                    potential_title = re.sub(r'^(novel|story|play|book)\s+', '', potential_title, flags=re.IGNORECASE)
+                    potential_title = potential_title.strip(' "\'')
+                    
+                    if potential_title:
+                        data['source_title'] = potential_title
+                
                 # Try to parse source type
-                if 'novel' in based_on.lower():
+                if re.search(r'\bnovel\b', based_on, re.IGNORECASE):
                     data['source_type'] = 'novel'
-                elif 'short story' in based_on.lower():
+                elif re.search(r'\bshort story\b', based_on, re.IGNORECASE):
                     data['source_type'] = 'short story'
-                elif 'play' in based_on.lower():
+                elif re.search(r'\bplay\b', based_on, re.IGNORECASE):
                     data['source_type'] = 'play'
-                elif 'story' in based_on.lower():
+                elif re.search(r'\bstory\b', based_on, re.IGNORECASE):
                     data['source_type'] = 'short story'
+                elif re.search(r'\bbook\b', based_on, re.IGNORECASE):
+                    data['source_type'] = 'novel'
         
         # Look for preservation/availability info in article
-        if 'lost film' in content.lower():
-            data['survival_status'] = 'lost'
-        elif 'surviving' in content.lower() or 'preserved' in content.lower():
-            data['survival_status'] = 'extant'
+        preservation_section = re.search(r'==\s*(?:Preservation|Availability|Home media)(.*?)(?===|$)', 
+                                       content, re.DOTALL | re.IGNORECASE)
+        
+        if preservation_section:
+            pres_content = preservation_section.group(1)
+            if 'lost film' in pres_content.lower():
+                data['survival_status'] = 'lost'
+            elif any(term in pres_content.lower() for term in ['dvd', 'blu-ray', 'streaming', 'restored']):
+                data['survival_status'] = 'extant'
+        else:
+            # General article search
+            if 'lost film' in content.lower():
+                data['survival_status'] = 'lost'
+            elif 'surviving' in content.lower() or 'preserved' in content.lower():
+                data['survival_status'] = 'extant'
+            # For films after 1950, assume extant unless stated otherwise
+            elif not data.get('survival_status'):
+                year_match = re.search(r'Release date.*?(\d{4})', content)
+                if year_match:
+                    year = int(year_match.group(1))
+                    if year >= 1950:
+                        data['survival_status'] = 'likely extant'
         
         # Extract archive information
         archive_patterns = [
@@ -145,11 +182,14 @@ class WikipediaWikidataPrePopulator:
             r'held by ([^\.]+)',
             r'archived at ([^\.]+)',
             r'copy at ([^\.]+)',
+            r'restored by ([^\.]+)',
             r'Library of Congress',
             r'Academy Film Archive',
             r'UCLA Film [&and]+ Television Archive',
             r'George Eastman Museum',
-            r'Museum of Modern Art'
+            r'Museum of Modern Art',
+            r'BFI National Archive',
+            r'EYE Film Institute'
         ]
         
         archives = []
@@ -158,72 +198,100 @@ class WikipediaWikidataPrePopulator:
             archives.extend(matches)
         
         if archives:
-            data['archive_holdings'] = ', '.join(set(archives))
+            # Clean up archive names
+            cleaned_archives = []
+            for archive in archives:
+                # Remove trailing punctuation and clean up
+                archive = re.sub(r'[,;]+$', '', archive).strip()
+                if len(archive) > 3:  # Avoid very short matches
+                    cleaned_archives.append(archive)
+            
+            if cleaned_archives:
+                data['archive_holdings'] = ', '.join(list(dict.fromkeys(cleaned_archives)))  # Remove duplicates
         
         return data
     
-    def query_wikidata(self, wikidata_id: str) -> Optional[Dict]:
-        """Query Wikidata for structured film information"""
+    def query_wikidata_simple(self, wikidata_id: str) -> Optional[Dict]:
+        """Simpler Wikidata query using the API instead of SPARQL"""
         if not wikidata_id:
             return None
         
-        # SPARQL query for film data
-        query = f"""
-        SELECT ?item ?itemLabel ?basedOn ?basedOnLabel ?publicationDate 
-               ?genre ?genreLabel ?director ?directorLabel
-               ?archiveURL ?distributionFormat ?distributionFormatLabel
-        WHERE {{
-          VALUES ?item {{ wd:{wikidata_id} }}
-          OPTIONAL {{ ?item wdt:P144 ?basedOn. }}  # based on
-          OPTIONAL {{ ?basedOn wdt:P577 ?publicationDate. }}  # publication date
-          OPTIONAL {{ ?item wdt:P136 ?genre. }}  # genre
-          OPTIONAL {{ ?item wdt:P57 ?director. }}  # director
-          OPTIONAL {{ ?item wdt:P1651 ?archiveURL. }}  # archive URL
-          OPTIONAL {{ ?item wdt:P437 ?distributionFormat. }}  # distribution format
-          
-          SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
-        }}
-        """
+        params = {
+            'action': 'wbgetentities',
+            'ids': wikidata_id,
+            'format': 'json',
+            'languages': 'en',
+            'props': 'claims|labels'
+        }
         
         try:
-            response = requests.get(
-                self.wikidata_sparql,
-                params={'query': query, 'format': 'json'},
-                headers=self.headers
-            )
+            response = requests.get(self.wikidata_api, params=params, headers=self.headers)
             data = response.json()
             
-            if data.get('results', {}).get('bindings'):
-                result = data['results']['bindings'][0]
+            if 'entities' in data and wikidata_id in data['entities']:
+                entity = data['entities'][wikidata_id]
+                claims = entity.get('claims', {})
                 
                 wikidata_info = {}
                 
-                # Based on work
-                if 'basedOnLabel' in result:
-                    wikidata_info['source_title'] = result['basedOnLabel']['value']
+                # P144 - based on
+                if 'P144' in claims:
+                    based_on_claim = claims['P144'][0]
+                    if 'datavalue' in based_on_claim.get('mainsnak', {}):
+                        based_on_id = based_on_claim['mainsnak']['datavalue']['value']['id']
+                        # Get the label for this item
+                        based_on_info = self.get_wikidata_label(based_on_id)
+                        if based_on_info:
+                            wikidata_info['source_title'] = based_on_info
+                
+                # P437 - distribution format
+                if 'P437' in claims:
+                    formats = []
+                    for format_claim in claims['P437']:
+                        if 'datavalue' in format_claim.get('mainsnak', {}):
+                            format_id = format_claim['mainsnak']['datavalue']['value']['id']
+                            format_label = self.get_wikidata_label(format_id)
+                            if format_label:
+                                formats.append(format_label)
                     
-                # Publication date of source
-                if 'publicationDate' in result:
-                    pub_date = result['publicationDate']['value']
-                    year_match = re.search(r'(\d{4})', pub_date)
-                    if year_match:
-                        wikidata_info['source_year'] = int(year_match.group(1))
+                    if formats:
+                        wikidata_info['viewing_format'] = ', '.join(formats)
+                        # If has modern formats, likely extant
+                        if any(f.lower() in ['dvd', 'blu-ray', 'streaming'] for f in formats):
+                            wikidata_info['survival_status'] = 'extant'
                 
-                # Archive URL
-                if 'archiveURL' in result:
-                    wikidata_info['archive_url'] = result['archiveURL']['value']
-                
-                # Distribution format (can indicate survival)
-                if 'distributionFormatLabel' in result:
-                    format_label = result['distributionFormatLabel']['value']
-                    wikidata_info['viewing_format'] = format_label
-                    if format_label.lower() in ['dvd', 'blu-ray', 'streaming media']:
-                        wikidata_info['survival_status'] = 'extant'
+                # P1651 - video URL (indicates availability)
+                if 'P1651' in claims:
+                    wikidata_info['archive_url'] = claims['P1651'][0]['mainsnak']['datavalue']['value']
+                    wikidata_info['survival_status'] = 'extant'
                 
                 return wikidata_info
         
         except Exception as e:
             print(f"Error querying Wikidata for {wikidata_id}: {e}")
+        
+        return None
+    
+    def get_wikidata_label(self, item_id: str) -> Optional[str]:
+        """Get the English label for a Wikidata item"""
+        params = {
+            'action': 'wbgetentities',
+            'ids': item_id,
+            'format': 'json',
+            'languages': 'en',
+            'props': 'labels'
+        }
+        
+        try:
+            response = requests.get(self.wikidata_api, params=params, headers=self.headers)
+            data = response.json()
+            
+            if 'entities' in data and item_id in data['entities']:
+                entity = data['entities'][item_id]
+                if 'labels' in entity and 'en' in entity['labels']:
+                    return entity['labels']['en']['value']
+        except:
+            pass
         
         return None
     
@@ -247,19 +315,31 @@ class WikipediaWikidataPrePopulator:
             
             # Query Wikidata if we have ID
             if wiki_data.get('wikidata_id'):
-                wikidata_info = self.query_wikidata(wiki_data['wikidata_id'])
+                wikidata_info = self.query_wikidata_simple(wiki_data['wikidata_id'])
                 if wikidata_info:
-                    results.update(wikidata_info)
+                    # Only update if we don't already have the info
+                    for key, value in wikidata_info.items():
+                        if key not in results or not results[key]:
+                            results[key] = value
                     results['confidence'] = 'high'
                     results['sources'].append('wikidata')
             
             results['sources'].append('wikipedia')
             
             # Try to match with literary credits
-            if 'based_on_raw' in results and literary_credits:
+            if literary_credits:
                 primary_author = literary_credits.split('|')[0].strip()
-                if primary_author.lower() in results['based_on_raw'].lower():
+                # Check if author is mentioned in the based_on text
+                if 'based_on_raw' in results and primary_author.lower() in results['based_on_raw'].lower():
                     results['confidence'] = 'high'
+                # Also check if we found a source title
+                if results.get('source_title'):
+                    results['confidence'] = 'high'
+        
+        # For films from 1950s-1960s, default to likely extant if no status found
+        if not results.get('survival_status') and year >= 1950:
+            results['survival_status'] = 'likely extant'
+            results['survival_notes'] = 'Post-1950 film, preservation likely'
         
         return results
     
@@ -308,7 +388,7 @@ class WikipediaWikidataPrePopulator:
             fieldnames = [
                 'film_id', 'confidence', 'sources', 'source_title', 'source_type', 
                 'source_year', 'based_on_raw', 'survival_status', 'archive_holdings',
-                'viewing_format', 'archive_url'
+                'viewing_format', 'archive_url', 'survival_notes'
             ]
             
             writer = csv.DictWriter(f, fieldnames=fieldnames)
@@ -370,6 +450,7 @@ if __name__ == "__main__":
             print(f"  Source: {result.get('source_title', 'Not found')}")
             print(f"  Type: {result.get('source_type', 'Not found')}")
             print(f"  Status: {result.get('survival_status', 'Not found')}")
+            print(f"  Archives: {result.get('archive_holdings', 'Not found')}")
             print(f"  Confidence: {result.get('confidence')}")
     
     proceed = input("\nProceed with full batch? (y/n): ")
