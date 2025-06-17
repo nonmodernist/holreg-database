@@ -123,6 +123,63 @@
     ]
   },
   {
+    "name": "Harriet Beecher Stowe ",
+    "adaptation_count": 8,
+    "first_adaptation": 1910,
+    "last_adaptation": 1928,
+    "year_span": 18,
+    "films": [
+      {
+        "id": 77,
+        "title": "Uncle Tom's Cabin",
+        "year": 1910,
+        "survival_status": "lost"
+      },
+      {
+        "id": 123,
+        "title": "Uncle Tom's Cabin, Part 1",
+        "year": 1910,
+        "survival_status": null
+      },
+      {
+        "id": 124,
+        "title": "Uncle Tom's Cabin, Part 2",
+        "year": 1910,
+        "survival_status": null
+      },
+      {
+        "id": 125,
+        "title": "Uncle Tom's Cabin, Part 3",
+        "year": 1910,
+        "survival_status": null
+      },
+      {
+        "id": 78,
+        "title": "Uncle Tom's Cabin",
+        "year": 1914,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 79,
+        "title": "Uncle Tom's Cabin",
+        "year": 1918,
+        "survival_status": null
+      },
+      {
+        "id": 80,
+        "title": "The Pearl of Love",
+        "year": 1925,
+        "survival_status": "lost"
+      },
+      {
+        "id": 126,
+        "title": "Uncle Tom's Cabin",
+        "year": 1928,
+        "survival_status": null
+      }
+    ]
+  },
+  {
     "name": "Alice Hegan Rice ",
     "adaptation_count": 6,
     "first_adaptation": 1916,
@@ -252,28 +309,34 @@
     ]
   },
   {
-    "name": "Alice Hegan Rice |Anne Crawford Flexner ",
-    "adaptation_count": 3,
-    "first_adaptation": 1914,
-    "last_adaptation": 1942,
-    "year_span": 28,
+    "name": "Fannie Hurst",
+    "adaptation_count": 4,
+    "first_adaptation": 1947,
+    "last_adaptation": 1961,
+    "year_span": 14,
     "films": [
       {
-        "id": 1,
-        "title": "Mrs. Wiggs of the Cabbage Patch",
-        "year": 1914,
-        "survival_status": "lost"
-      },
-      {
-        "id": 8,
-        "title": "Mrs. Wiggs of the Cabbage Patch",
-        "year": 1934,
+        "id": 44,
+        "title": "Humoresque",
+        "year": 1947,
         "survival_status": "extant"
       },
       {
-        "id": 9,
-        "title": "Mrs. Wiggs of the Cabbage Patch",
-        "year": 1942,
+        "id": 122,
+        "title": "Back Street",
+        "year": 1948,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 45,
+        "title": "Imitation of Life",
+        "year": 1959,
+        "survival_status": "extant"
+      },
+      {
+        "id": 46,
+        "title": "Back Street",
+        "year": 1961,
         "survival_status": "extant"
       }
     ]
@@ -306,29 +369,29 @@
     ]
   },
   {
-    "name": "Fannie Hurst",
+    "name": "Gene Stratton-Porter",
     "adaptation_count": 3,
-    "first_adaptation": 1947,
-    "last_adaptation": 1961,
-    "year_span": 14,
+    "first_adaptation": 1940,
+    "last_adaptation": 1960,
+    "year_span": 20,
     "films": [
       {
-        "id": 44,
-        "title": "Humoresque",
-        "year": 1947,
+        "id": 62,
+        "title": "Her First Romance",
+        "year": 1940,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 68,
+        "title": "Freckles Comes Home",
+        "year": 1942,
         "survival_status": "extant"
       },
       {
-        "id": 45,
-        "title": "Imitation of Life",
-        "year": 1959,
-        "survival_status": "extant"
-      },
-      {
-        "id": 46,
-        "title": "Back Street",
-        "year": 1961,
-        "survival_status": "extant"
+        "id": 67,
+        "title": "Freckles",
+        "year": 1960,
+        "survival_status": "unknown"
       }
     ]
   },
@@ -383,6 +446,27 @@
         "title": "Silent Years",
         "year": 1921,
         "survival_status": "lost"
+      }
+    ]
+  },
+  {
+    "name": "Alice Hegan Rice |Anne Crawford Flexner ",
+    "adaptation_count": 2,
+    "first_adaptation": 1934,
+    "last_adaptation": 1942,
+    "year_span": 8,
+    "films": [
+      {
+        "id": 8,
+        "title": "Mrs. Wiggs of the Cabbage Patch",
+        "year": 1934,
+        "survival_status": "extant"
+      },
+      {
+        "id": 9,
+        "title": "Mrs. Wiggs of the Cabbage Patch",
+        "year": 1942,
+        "survival_status": "extant"
       }
     ]
   },
@@ -450,48 +534,6 @@
     ]
   },
   {
-    "name": "Gene Stratton-Porter",
-    "adaptation_count": 2,
-    "first_adaptation": 1940,
-    "last_adaptation": 1942,
-    "year_span": 2,
-    "films": [
-      {
-        "id": 62,
-        "title": "Her First Romance",
-        "year": 1940,
-        "survival_status": "unknown"
-      },
-      {
-        "id": 68,
-        "title": "Freckles Comes Home",
-        "year": 1942,
-        "survival_status": "extant"
-      }
-    ]
-  },
-  {
-    "name": "George L. Aiken |Harriet Beecher Stowe ",
-    "adaptation_count": 2,
-    "first_adaptation": 1914,
-    "last_adaptation": 1918,
-    "year_span": 4,
-    "films": [
-      {
-        "id": 78,
-        "title": "Uncle Tom's Cabin",
-        "year": 1914,
-        "survival_status": "unknown"
-      },
-      {
-        "id": 79,
-        "title": "Uncle Tom's Cabin",
-        "year": 1918,
-        "survival_status": null
-      }
-    ]
-  },
-  {
     "name": "Grace Miller White ",
     "adaptation_count": 2,
     "first_adaptation": 1917,
@@ -508,27 +550,6 @@
         "id": 72,
         "title": "Judy of Rogue's Harbor",
         "year": 1920,
-        "survival_status": "lost"
-      }
-    ]
-  },
-  {
-    "name": "Harriet Beecher Stowe ",
-    "adaptation_count": 2,
-    "first_adaptation": 1910,
-    "last_adaptation": 1925,
-    "year_span": 15,
-    "films": [
-      {
-        "id": 77,
-        "title": "Uncle Tom's Cabin",
-        "year": 1910,
-        "survival_status": "lost"
-      },
-      {
-        "id": 80,
-        "title": "The Pearl of Love",
-        "year": 1925,
         "survival_status": "lost"
       }
     ]
@@ -613,6 +634,42 @@
         "id": 98,
         "title": "The Iron Woman",
         "year": 1916,
+        "survival_status": "lost"
+      }
+    ]
+  },
+  {
+    "name": "Mary O'Hara ",
+    "adaptation_count": 2,
+    "first_adaptation": 1943,
+    "last_adaptation": 1945,
+    "year_span": 2,
+    "films": [
+      {
+        "id": 105,
+        "title": "My Friend Flicka",
+        "year": 1943,
+        "survival_status": "extant"
+      },
+      {
+        "id": 127,
+        "title": "Thunderhead, Son of Flicka",
+        "year": 1945,
+        "survival_status": null
+      }
+    ]
+  },
+  {
+    "name": "Alice Hegan Rice",
+    "adaptation_count": 1,
+    "first_adaptation": 1914,
+    "last_adaptation": 1914,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 1,
+        "title": "Mrs. Wiggs of the Cabbage Patch",
+        "year": 1914,
         "survival_status": "lost"
       }
     ]
@@ -828,7 +885,7 @@
     ]
   },
   {
-    "name": "Florence Morse Kingsley |Mary E. Wilkins Freeman ",
+    "name": "Florence Morse Kingsley ||Mary E. Wilkins Freeman ",
     "adaptation_count": 1,
     "first_adaptation": 1917,
     "last_adaptation": 1917,
@@ -839,21 +896,6 @@
         "title": "An Alabaster Box",
         "year": 1917,
         "survival_status": "lost"
-      }
-    ]
-  },
-  {
-    "name": "Gene Stratton-Porter | Jack Lambert",
-    "adaptation_count": 1,
-    "first_adaptation": 1960,
-    "last_adaptation": 1960,
-    "year_span": 0,
-    "films": [
-      {
-        "id": 67,
-        "title": "Freckles",
-        "year": 1960,
-        "survival_status": "unknown"
       }
     ]
   },
@@ -903,21 +945,6 @@
     ]
   },
   {
-    "name": "John Van Druten |Kathryn Anderson McLean ",
-    "adaptation_count": 1,
-    "first_adaptation": 1948,
-    "last_adaptation": 1948,
-    "year_span": 0,
-    "films": [
-      {
-        "id": 94,
-        "title": "I Remember Mama",
-        "year": 1948,
-        "survival_status": "extant"
-      }
-    ]
-  },
-  {
     "name": "Kate Douglas Wiggin ",
     "adaptation_count": 1,
     "first_adaptation": 1917,
@@ -944,6 +971,21 @@
         "title": "Nobody's Kid",
         "year": 1921,
         "survival_status": "unknown"
+      }
+    ]
+  },
+  {
+    "name": "Kathryn Anderson McLean ",
+    "adaptation_count": 1,
+    "first_adaptation": 1948,
+    "last_adaptation": 1948,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 94,
+        "title": "I Remember Mama",
+        "year": 1948,
+        "survival_status": "extant"
       }
     ]
   },
@@ -1063,21 +1105,6 @@
         "id": 106,
         "title": "Green Grass of Wyoming",
         "year": 1948,
-        "survival_status": "extant"
-      }
-    ]
-  },
-  {
-    "name": "Mary O'Hara ",
-    "adaptation_count": 1,
-    "first_adaptation": 1943,
-    "last_adaptation": 1943,
-    "year_span": 0,
-    "films": [
-      {
-        "id": 105,
-        "title": "My Friend Flicka",
-        "year": 1943,
         "survival_status": "extant"
       }
     ]
