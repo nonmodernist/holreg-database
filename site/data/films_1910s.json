@@ -7,6 +7,8 @@
     "release_date": "23 May 1910",
     "director": "D. W. Griffith",
     "director_id": "34832",
+    "writer": "",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "Historical",
     "film_type": "Short",
@@ -19,12 +21,23 @@
     "survival_notes": "Available on YouTube",
     "viewing_format": "online",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "D. W. Griffith",
+        "position": 1
+      }
+    ],
+    "writers": [],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Orphans",
         "facet": "Family Relations",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Helen Hunt Jackson"
     ]
   },
   {
@@ -35,6 +48,8 @@
     "release_date": "26 July 1910",
     "director": "Barry O'Neil",
     "director_id": "18189",
+    "writer": "",
+    "producer": "",
     "genre": "Adventure|Melodrama",
     "sub_genre": "African American|Historical",
     "film_type": "Short",
@@ -46,6 +61,14 @@
     "survival_status": "lost",
     "survival_notes": "Lost per AFI Catalog",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Barry O'Neil",
+        "position": 1
+      }
+    ],
+    "writers": [],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "African Americans",
@@ -67,6 +90,9 @@
         "facet": "Social Issues",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Harriet Beecher Stowe"
     ]
   },
   {
@@ -78,6 +104,7 @@
     "director": "Frederick Thomson",
     "director_id": "56008",
     "writer": "Rollin S. Sturgeon",
+    "producer": "",
     "genre": "Adventure|Melodrama",
     "sub_genre": "African American|Historical",
     "film_type": "",
@@ -86,7 +113,23 @@
     "source_citations": "Moving Picture News 13 Aug 1910||Moving Picture News 21 Oct 1916||Moving Picture News 5 Jun 1920||Moving Picture News 21 Oct 1916||Moving Picture World 15 Jan 1910||Moving Picture World 30 Jul 1910||Moving Picture World 6 Aug 1910||VB [#204] 15 Jan 1910||NFAC3 ||Treasures from the Film Archives ||Film Index 30 Jul 1910||Film Index 12 Mar 1910||Film Index 16 Jul 1910||Moving Picture World 19 Feb 1910||Moving Picture World 12 Mar 1910||NYDM 6 Aug 1910",
     "filming_location": "",
     "created_at": "2025-06-17 00:37:16",
-    "controlled_subjects": []
+    "directors": [
+      {
+        "name": "Frederick Thomson",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Rollin S. Sturgeon",
+        "position": 1
+      }
+    ],
+    "producers": [],
+    "controlled_subjects": [],
+    "authors": [
+      "Harriet Beecher Stowe"
+    ]
   },
   {
     "id": 124,
@@ -97,6 +140,7 @@
     "director": "Frederick Thomson",
     "director_id": "56008",
     "writer": "Rollin S. Sturgeon",
+    "producer": "",
     "genre": "Adventure|Melodrama",
     "sub_genre": "African American|Historical",
     "film_type": "",
@@ -105,7 +149,23 @@
     "source_citations": "Moving Picture News 13 Aug 1910||Moving Picture News 21 Oct 1916||Moving Picture News 21 Oct 1916||Moving Picture News 5 Jun 1920||Moving Picture World 30 Jul 1910||Moving Picture World 6 Aug 1910||Moving Picture World 13 Aug 1910||NFAC3 ||Treasures from the Film Archives ||Film Index 16 Jul 1910||Film Index 30 Jul 1910",
     "filming_location": "",
     "created_at": "2025-06-17 00:37:18",
-    "controlled_subjects": []
+    "directors": [
+      {
+        "name": "Frederick Thomson",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Rollin S. Sturgeon",
+        "position": 1
+      }
+    ],
+    "producers": [],
+    "controlled_subjects": [],
+    "authors": [
+      "Harriet Beecher Stowe"
+    ]
   },
   {
     "id": 125,
@@ -116,6 +176,7 @@
     "director": "Frederick Thomson",
     "director_id": "56008",
     "writer": "Rollin S. Sturgeon",
+    "producer": "",
     "genre": "Adventure|Musical",
     "sub_genre": "African American|Historical",
     "film_type": "",
@@ -124,7 +185,23 @@
     "source_citations": "Moving Picture News 13 Aug 1910||Moving Picture News 21 Oct 1916||Moving Picture News 5 Jun 1920||Moving Picture News 21 Oct 1916||Moving Picture World 30 Jul 1910||Moving Picture World 6 Aug 1910||Moving Picture World 13 Aug 1910||Moving Picture World 20 Aug 1910||NFAC3 ||Treasures from the Film Archives ||Film Index 30 Jul 1910||Film Index 16 Jul 1910",
     "filming_location": "",
     "created_at": "2025-06-17 00:37:20",
-    "controlled_subjects": []
+    "directors": [
+      {
+        "name": "Frederick Thomson",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Rollin S. Sturgeon",
+        "position": 1
+      }
+    ],
+    "producers": [],
+    "controlled_subjects": [],
+    "authors": [
+      "Harriet Beecher Stowe"
+    ]
   },
   {
     "id": 120,
@@ -132,10 +209,21 @@
     "release_year": 1913,
     "director": "Richard Ridgely",
     "director_id": "130336",
+    "writer": "",
+    "producer": "",
     "film_type": "Short",
     "created_at": "2025-06-16 15:23:18",
     "survival_status": "unknown",
-    "controlled_subjects": []
+    "directors": [
+      {
+        "name": "Richard Ridgely",
+        "position": 1
+      }
+    ],
+    "writers": [],
+    "producers": [],
+    "controlled_subjects": [],
+    "authors": []
   },
   {
     "id": 121,
@@ -143,10 +231,21 @@
     "release_year": 1913,
     "director": "Ashley Miller",
     "director_id": "16612",
+    "writer": "",
+    "producer": "",
     "film_type": "Short",
     "created_at": "2025-06-16 15:23:18",
     "survival_status": "unknown",
-    "controlled_subjects": []
+    "directors": [
+      {
+        "name": "Ashley Miller",
+        "position": 1
+      }
+    ],
+    "writers": [],
+    "producers": [],
+    "controlled_subjects": [],
+    "authors": []
   },
   {
     "id": 1,
@@ -154,9 +253,10 @@
     "title": "Mrs. Wiggs of the Cabbage Patch",
     "release_year": 1914,
     "release_date": "31 December 1914",
-    "director": "Harold Entwhistle ",
+    "director": "Harold Entwhistle",
     "director_id": "65893",
-    "producer": "George E. Middleton|59833",
+    "writer": "",
+    "producer": "George E. Middleton",
     "genre": "Comedy|Melodrama",
     "sub_genre": "Carnival/Circus",
     "film_type": "Feature",
@@ -168,6 +268,19 @@
     "survival_status": "lost",
     "survival_notes": "Lost per LOC",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Harold Entwhistle",
+        "position": 1
+      }
+    ],
+    "writers": [],
+    "producers": [
+      {
+        "name": "George E. Middleton",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Lawyers",
@@ -189,6 +302,9 @@
         "facet": "Marital Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Alice Hegan Rice"
     ]
   },
   {
@@ -200,7 +316,7 @@
     "director": "Edwin S. Porter",
     "director_id": "45575",
     "writer": "B. P. Schulberg",
-    "producer": "Daniel Frohman|35374",
+    "producer": "Daniel Frohman",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -214,6 +330,24 @@
     "archive_holdings": "UCLA Film and Television Archive",
     "viewing_format": "online",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Edwin S. Porter",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "B. P. Schulberg",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "Daniel Frohman",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Family relationships",
@@ -240,6 +374,10 @@
         "facet": "Professions",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Grace Miller White",
+      "Rupert Hughes"
     ]
   },
   {
@@ -250,7 +388,8 @@
     "release_date": "May 1914",
     "director": "James Kirkwood",
     "director_id": "77863",
-    "writer": "Frank E. Woods|54320||Mary Rider Mechtold",
+    "writer": "Frank E. Woods & Mary Rider Mechtold",
+    "producer": "",
     "genre": "Western",
     "sub_genre": "",
     "film_type": "Feature",
@@ -261,6 +400,23 @@
     "survival_status": "lost",
     "survival_notes": "lost per LOC: https://en.wikisource.org/wiki/7,200_Lost_U.S._Silent_Feature_Films_(1912-29)_(2021-02-04)",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "James Kirkwood",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Frank E. Woods",
+        "position": 1
+      },
+      {
+        "name": "Mary Rider Mechtold",
+        "position": 2
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Marriage",
@@ -272,7 +428,8 @@
         "facet": "Family Relations",
         "weight": 2
       }
-    ]
+    ],
+    "authors": []
   },
   {
     "id": 78,
@@ -282,7 +439,8 @@
     "release_date": "10 August 1914",
     "director": "William Robert Daly",
     "director_id": "157367",
-    "producer": "J. V. Ritchey|74911",
+    "writer": "",
+    "producer": "J. V. Ritchey",
     "genre": "Melodrama",
     "sub_genre": "African American",
     "film_type": "Feature",
@@ -293,6 +451,19 @@
     "survival_status": "unknown",
     "survival_notes": "Survives",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "William Robert Daly",
+        "position": 1
+      }
+    ],
+    "writers": [],
+    "producers": [
+      {
+        "name": "J. V. Ritchey",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "African Americans",
@@ -304,6 +475,9 @@
         "facet": "Social Issues",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Harriet Beecher Stowe"
     ]
   },
   {
@@ -313,10 +487,25 @@
     "director": "J. J. Clark",
     "director_id": "74569",
     "writer": "Gene Gauntier",
+    "producer": "",
     "film_type": "Short",
     "created_at": "2025-06-16 15:23:18",
     "survival_status": "unknown",
-    "controlled_subjects": []
+    "directors": [
+      {
+        "name": "J. J. Clark",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Gene Gauntier",
+        "position": 1
+      }
+    ],
+    "producers": [],
+    "controlled_subjects": [],
+    "authors": []
   },
   {
     "id": 2,
@@ -327,6 +516,7 @@
     "director": "Lynn Reynolds",
     "director_id": "102921",
     "writer": "Lynn Reynolds",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -337,12 +527,28 @@
     "created_at": "2025-06-16 00:24:13",
     "survival_status": "unknown",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Lynn Reynolds",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Lynn Reynolds",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Trials",
         "facet": "Plot Elements",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Alice Hegan Rice"
     ]
   },
   {
@@ -353,6 +559,8 @@
     "release_date": "31 July 1916",
     "director": "J. P. McGowan",
     "director_id": "74760",
+    "writer": "",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "Rural",
     "film_type": "Feature",
@@ -363,12 +571,23 @@
     "created_at": "2025-06-16 00:24:27",
     "survival_status": "unknown",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "J. P. McGowan",
+        "position": 1
+      }
+    ],
+    "writers": [],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Marriage",
         "facet": "Marital Relations",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Alice MacGowan"
     ]
   },
   {
@@ -379,7 +598,8 @@
     "release_date": "February 1916",
     "director": "Donald Crisp",
     "director_id": "40050",
-    "producer": "W. H. Clune|152628",
+    "writer": "",
+    "producer": "W. H. Clune",
     "genre": "Drama",
     "sub_genre": "Historical",
     "film_type": "Feature",
@@ -391,6 +611,19 @@
     "survival_status": "incomplete",
     "survival_notes": "Only reel 5 survives",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Donald Crisp",
+        "position": 1
+      }
+    ],
+    "writers": [],
+    "producers": [
+      {
+        "name": "W. H. Clune",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Murder",
@@ -402,6 +635,9 @@
         "facet": "Social Issues",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Helen Hunt Jackson"
     ]
   },
   {
@@ -413,6 +649,7 @@
     "director": "John W. Noble",
     "director_id": "88014",
     "writer": "John W. Noble",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -424,6 +661,19 @@
     "survival_notes": "Incomplete print at LOC",
     "archive_holdings": "Library of Congress",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "John W. Noble",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "John W. Noble",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Mothers and sons",
@@ -435,6 +685,9 @@
         "facet": "Professions",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Margaret Deland"
     ]
   },
   {
@@ -446,7 +699,7 @@
     "director": "Carl Harbaugh",
     "director_id": "26720",
     "writer": "Wallace C. Clifton",
-    "producer": "Alice Guy Blaché|11047||Herbert Blaché|69924",
+    "producer": "Herbert Blaché & Alice Guy Blaché",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -458,6 +711,28 @@
     "survival_status": "lost",
     "survival_notes": "lost per LOC",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Carl Harbaugh",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Wallace C. Clifton",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "Herbert Blaché",
+        "position": 2
+      },
+      {
+        "name": "Alice Guy Blaché",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Divorce",
@@ -474,6 +749,9 @@
         "facet": "Professions",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Margaret Deland"
     ]
   },
   {
@@ -485,6 +763,7 @@
     "director": "Joseph De Grasse",
     "director_id": "89306",
     "writer": "Ida May Park",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -497,6 +776,19 @@
     "survival_notes": "4 of 5 reels survive, found in Dawson City",
     "viewing_format": "DVD",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Joseph De Grasse",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Ida May Park",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Fathers and daughters",
@@ -513,6 +805,9 @@
         "facet": "Professions",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Harriet Theresa Comstock"
     ]
   },
   {
@@ -524,6 +819,7 @@
     "director": "Harry Davenport",
     "director_id": "66613",
     "writer": "Joseph F. Poland",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "Rural",
     "film_type": "Feature",
@@ -535,12 +831,28 @@
     "survival_status": "lost",
     "survival_notes": "lost per LOC",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Harry Davenport",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Joseph F. Poland",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Divorce",
         "facet": "Marital Relations",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Harriet Theresa Comstock"
     ]
   },
   {
@@ -552,6 +864,7 @@
     "director": "Chester Withey",
     "director_id": "31201",
     "writer": "A. Van Buren   Powell",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -563,12 +876,29 @@
     "survival_status": "lost",
     "survival_notes": "lost per LOC",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Chester Withey",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "A. Van Buren   Powell",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Fathers and daughters",
         "facet": "Family Relations",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Florence Morse Kingsley",
+      "Mary E. Wilkins Freeman"
     ]
   },
   {
@@ -580,6 +910,7 @@
     "director": "Marshall Neilan",
     "director_id": "107701",
     "writer": "Marion Fairfax",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -590,12 +921,28 @@
     "survival_status": "lost",
     "survival_notes": "Lost per AFI Catalog",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Marshall Neilan",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Marion Fairfax",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Children",
         "facet": "Family Relations",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Gene Stratton-Porter"
     ]
   },
   {
@@ -607,6 +954,7 @@
     "director": "Lynn F. Reynolds",
     "director_id": "102950",
     "writer": "Lynn F. Reynolds",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -617,12 +965,28 @@
     "survival_status": "lost",
     "survival_notes": "Lost per LOC",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Lynn F. Reynolds",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Lynn F. Reynolds",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Brothers",
         "facet": "Family Relations",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Alice Hegan Rice"
     ]
   },
   {
@@ -634,6 +998,7 @@
     "director": "Marshall Neilan",
     "director_id": "107701",
     "writer": "Frances Marion",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -647,12 +1012,28 @@
     "archive_holdings": "Mary Pickford Institute",
     "viewing_format": "online",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Marshall Neilan",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Frances Marion",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Spinsters",
         "facet": "Women-Specific",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Kate Douglas Wiggin"
     ]
   },
   {
@@ -664,6 +1045,7 @@
     "director": "John W. Noble",
     "director_id": "88014",
     "writer": "Mary Rider",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -673,13 +1055,27 @@
     "survival_status": "lost",
     "survival_notes": "lost per LOC",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "John W. Noble",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Mary Rider",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Poverty",
         "facet": "Social Issues",
         "weight": 2
       }
-    ]
+    ],
+    "authors": []
   },
   {
     "id": 101,
@@ -690,6 +1086,7 @@
     "director": "Marion Wong",
     "director_id": "228267",
     "writer": "Marion Wong",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -701,13 +1098,27 @@
     "survival_notes": "survives incomplete",
     "viewing_format": "online",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Marion Wong",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Marion Wong",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Family relationships",
         "facet": "Family Relations",
         "weight": 1
       }
-    ]
+    ],
+    "authors": []
   },
   {
     "id": 113,
@@ -717,7 +1128,8 @@
     "release_date": "7 May 1917",
     "director": "Robert Leonard",
     "director_id": "132129",
-    "writer": "Marion Fairfax|106947||Catharine Carr",
+    "writer": "Marion Fairfax & Catharine Carr",
+    "producer": "",
     "genre": "Drama|Fantasy",
     "sub_genre": "",
     "film_type": "Feature",
@@ -729,6 +1141,23 @@
     "survival_status": "lost",
     "survival_notes": "lost per LOC",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Robert Leonard",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Marion Fairfax",
+        "position": 1
+      },
+      {
+        "name": "Catharine Carr",
+        "position": 2
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Children",
@@ -745,6 +1174,9 @@
         "facet": "Professions",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Ruth Sawyer"
     ]
   },
   {
@@ -756,7 +1188,7 @@
     "director": "Charles Miller",
     "director_id": "29762",
     "writer": "Mary Murillo",
-    "producer": "Joseph M. Schenck|89938",
+    "producer": "Joseph M. Schenck",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -767,6 +1199,24 @@
     "created_at": "2025-06-16 00:26:22",
     "survival_status": "lost",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Charles Miller",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Mary Murillo",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "Joseph M. Schenck",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Mothers and sons",
@@ -778,6 +1228,9 @@
         "facet": "Marital Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Grace Miller White"
     ]
   },
   {
@@ -789,6 +1242,7 @@
     "director": "Marshall Neilan",
     "director_id": "107701",
     "writer": "Frances Marion",
+    "producer": "",
     "genre": "Comedy",
     "sub_genre": "",
     "film_type": "Feature",
@@ -801,6 +1255,19 @@
     "survival_notes": "Available online",
     "viewing_format": "online",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Marshall Neilan",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Frances Marion",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Class distinction",
@@ -812,6 +1279,9 @@
         "facet": "Professions",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Belle K. Maniates"
     ]
   },
   {
@@ -822,7 +1292,8 @@
     "release_date": "16 September 1918",
     "director": "Harry L. Franklin",
     "director_id": "67519",
-    "writer": "Jere Looney|81569||June Mathis",
+    "writer": "Jere Looney & June Mathis",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -834,6 +1305,23 @@
     "survival_status": "lost",
     "survival_notes": "lost per LOC",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Harry L. Franklin",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Jere Looney",
+        "position": 1
+      },
+      {
+        "name": "June Mathis",
+        "position": 2
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Mothers and daughters",
@@ -855,6 +1343,9 @@
         "facet": "Marital Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Eleanor Mercein Kelly"
     ]
   },
   {
@@ -866,6 +1357,7 @@
     "director": "George H. Melford",
     "director_id": "59050",
     "writer": "Edith M. Kennedy",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -876,12 +1368,28 @@
     "survival_status": "lost",
     "survival_notes": "Lost per LOC",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "George H. Melford",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Edith M. Kennedy",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Murder",
         "facet": "Plot Elements",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Alice Hegan Rice"
     ]
   },
   {
@@ -893,6 +1401,7 @@
     "director": "Charles Giblyn",
     "director_id": "29387",
     "writer": "Eve Unsell",
+    "producer": "",
     "genre": "Comedy-drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -905,7 +1414,23 @@
     "survival_notes": "In French archive",
     "archive_holdings": "Centre National du Cinéma",
     "last_verified": "2025-06-16",
-    "controlled_subjects": []
+    "directors": [
+      {
+        "name": "Charles Giblyn",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Eve Unsell",
+        "position": 1
+      }
+    ],
+    "producers": [],
+    "controlled_subjects": [],
+    "authors": [
+      "Alice Hegan Rice"
+    ]
   },
   {
     "id": 69,
@@ -916,6 +1441,7 @@
     "director": "Ralph Ince",
     "director_id": "127078",
     "writer": "Mary Murillo",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -927,6 +1453,19 @@
     "survival_status": "lost",
     "survival_notes": "lost per LOC",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Ralph Ince",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Mary Murillo",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Fathers and daughters",
@@ -943,6 +1482,9 @@
         "facet": "Plot Elements",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Gertrude Atherton"
     ]
   },
   {
@@ -953,7 +1495,8 @@
     "release_date": "2 September 1918",
     "director": "Herbert Blaché",
     "director_id": "69924",
-    "writer": "June Mathis|91464||Katharine Kavanaugh|92361||Lois Zellner",
+    "writer": "June Mathis & Katharine Kavanaugh & Lois Zellner",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "Northwest",
     "film_type": "Feature",
@@ -963,13 +1506,35 @@
     "created_at": "2025-06-16 00:27:11",
     "survival_status": "lost",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Herbert Blaché",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "June Mathis",
+        "position": 1
+      },
+      {
+        "name": "Katharine Kavanaugh",
+        "position": 2
+      },
+      {
+        "name": "Lois Zellner",
+        "position": 3
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Marriage",
         "facet": "Marital Relations",
         "weight": 1
       }
-    ]
+    ],
+    "authors": []
   },
   {
     "id": 79,
@@ -980,6 +1545,7 @@
     "director": "J. Searle Dawley",
     "director_id": "74878",
     "writer": "J. Searle Dawley",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "Social",
     "film_type": "Feature",
@@ -988,6 +1554,19 @@
     "source_citations": "ETR 29 Jun 1918||ETR 13 Jul 1918||MPN 13 Jul 1918||MPW 25 May 1918||MPW 20 Jul 1918||Variety 9 Aug 1918||Wid's 7 Jul 1918",
     "filming_location": "New York City New York United States||",
     "created_at": "2025-06-16 00:26:37",
+    "directors": [
+      {
+        "name": "J. Searle Dawley",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "J. Searle Dawley",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Children",
@@ -999,6 +1578,9 @@
         "facet": "Social Issues",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Harriet Beecher Stowe"
     ]
   },
   {
@@ -1010,6 +1592,7 @@
     "director": "J. Stuart Blackton",
     "director_id": "74886",
     "writer": "Stanley Olmstead",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -1020,6 +1603,19 @@
     "created_at": "2025-06-16 00:25:08",
     "survival_status": "unknown",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "J. Stuart Blackton",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Stanley Olmstead",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Artists",
@@ -1036,6 +1632,9 @@
         "facet": "Plot Elements",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Eleanor H. Porter"
     ]
   },
   {
@@ -1047,6 +1646,7 @@
     "director": "Edwin Carewe",
     "director_id": "45387",
     "writer": "Finis Fox",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "Northwest",
     "film_type": "Feature",
@@ -1058,6 +1658,19 @@
     "survival_status": "unknown",
     "survival_notes": "",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Edwin Carewe",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Finis Fox",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Fathers and daughters",
@@ -1069,6 +1682,9 @@
         "facet": "Marital Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Mary E. Wilkins Freeman"
     ]
   },
   {
@@ -1080,6 +1696,7 @@
     "director": "Hugh Ford",
     "director_id": "71684",
     "writer": "Eve Unsell",
+    "producer": "",
     "genre": "Comedy",
     "sub_genre": "Social",
     "film_type": "Feature",
@@ -1091,6 +1708,19 @@
     "survival_notes": "Available on YouTube",
     "viewing_format": "online",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Hugh Ford",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Eve Unsell",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Poverty",
@@ -1107,6 +1737,9 @@
         "facet": "Professions",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Alice Hegan Rice"
     ]
   }
 ]

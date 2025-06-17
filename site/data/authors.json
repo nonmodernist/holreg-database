@@ -210,6 +210,69 @@
     ]
   },
   {
+    "name": "Alice Hegan Rice",
+    "adaptation_count": 9,
+    "first_adaptation": 1914,
+    "last_adaptation": 1942,
+    "year_span": 28,
+    "films": [
+      {
+        "id": 1,
+        "title": "Mrs. Wiggs of the Cabbage Patch",
+        "year": 1914,
+        "survival_status": "lost"
+      },
+      {
+        "id": 2,
+        "title": "A Romance of Billy Goat Hill",
+        "year": 1916,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 3,
+        "title": "Mr. Opp",
+        "year": 1917,
+        "survival_status": "lost"
+      },
+      {
+        "id": 4,
+        "title": "Sandy",
+        "year": 1918,
+        "survival_status": "lost"
+      },
+      {
+        "id": 5,
+        "title": "Sunshine Nan",
+        "year": 1918,
+        "survival_status": "extant"
+      },
+      {
+        "id": 6,
+        "title": "Mrs. Wiggs of the Cabbage Patch",
+        "year": 1919,
+        "survival_status": "extant"
+      },
+      {
+        "id": 7,
+        "title": "Lovey Mary",
+        "year": 1926,
+        "survival_status": "partially lost"
+      },
+      {
+        "id": 8,
+        "title": "Mrs. Wiggs of the Cabbage Patch",
+        "year": 1934,
+        "survival_status": "extant"
+      },
+      {
+        "id": 9,
+        "title": "Mrs. Wiggs of the Cabbage Patch",
+        "year": 1942,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
     "name": "Edna Ferber",
     "adaptation_count": 8,
     "first_adaptation": 1924,
@@ -324,59 +387,8 @@
     ]
   },
   {
-    "name": "Alice Hegan Rice",
-    "adaptation_count": 7,
-    "first_adaptation": 1914,
-    "last_adaptation": 1926,
-    "year_span": 12,
-    "films": [
-      {
-        "id": 1,
-        "title": "Mrs. Wiggs of the Cabbage Patch",
-        "year": 1914,
-        "survival_status": "lost"
-      },
-      {
-        "id": 2,
-        "title": "A Romance of Billy Goat Hill",
-        "year": 1916,
-        "survival_status": "unknown"
-      },
-      {
-        "id": 3,
-        "title": "Mr. Opp",
-        "year": 1917,
-        "survival_status": "lost"
-      },
-      {
-        "id": 4,
-        "title": "Sandy",
-        "year": 1918,
-        "survival_status": "lost"
-      },
-      {
-        "id": 5,
-        "title": "Sunshine Nan",
-        "year": 1918,
-        "survival_status": "extant"
-      },
-      {
-        "id": 6,
-        "title": "Mrs. Wiggs of the Cabbage Patch",
-        "year": 1919,
-        "survival_status": "extant"
-      },
-      {
-        "id": 7,
-        "title": "Lovey Mary",
-        "year": 1926,
-        "survival_status": "partially lost"
-      }
-    ]
-  },
-  {
-    "name": "Grace Miller White | Rupert Hughes",
-    "adaptation_count": 4,
+    "name": "Grace Miller White",
+    "adaptation_count": 6,
     "first_adaptation": 1914,
     "last_adaptation": 1960,
     "year_span": 46,
@@ -386,6 +398,18 @@
         "title": "Tess of the Storm Country",
         "year": 1914,
         "survival_status": "extant"
+      },
+      {
+        "id": 71,
+        "title": "The Secret of the Storm Country",
+        "year": 1917,
+        "survival_status": "lost"
+      },
+      {
+        "id": 72,
+        "title": "Judy of Rogue's Harbor",
+        "year": 1920,
+        "survival_status": "lost"
       },
       {
         "id": 74,
@@ -436,6 +460,66 @@
         "id": 89,
         "title": "Ramona",
         "year": 1936,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Rupert Hughes",
+    "adaptation_count": 4,
+    "first_adaptation": 1914,
+    "last_adaptation": 1960,
+    "year_span": 46,
+    "films": [
+      {
+        "id": 70,
+        "title": "Tess of the Storm Country",
+        "year": 1914,
+        "survival_status": "extant"
+      },
+      {
+        "id": 74,
+        "title": "Tess of the Storm Country",
+        "year": 1922,
+        "survival_status": "extant"
+      },
+      {
+        "id": 75,
+        "title": "Tess of the Storm Country",
+        "year": 1932,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 76,
+        "title": "Tess of the Storm Country",
+        "year": 1960,
+        "survival_status": "unknown"
+      }
+    ]
+  },
+  {
+    "name": "Eleanor H. Porter",
+    "adaptation_count": 3,
+    "first_adaptation": 1919,
+    "last_adaptation": 1960,
+    "year_span": 41,
+    "films": [
+      {
+        "id": 32,
+        "title": "Dawn",
+        "year": 1919,
+        "survival_status": "unknown"
+      },
+      {
+        "id": 33,
+        "title": "Pollyanna",
+        "year": 1920,
+        "survival_status": "extant"
+      },
+      {
+        "id": 35,
+        "title": "Pollyanna",
+        "year": 1960,
         "survival_status": "extant"
       }
     ]
@@ -522,7 +606,7 @@
     ]
   },
   {
-    "name": "Alice Hegan Rice | Anne Crawford Flexner",
+    "name": "Anne Crawford Flexner",
     "adaptation_count": 2,
     "first_adaptation": 1934,
     "last_adaptation": 1942,
@@ -606,48 +690,6 @@
     ]
   },
   {
-    "name": "Eleanor H. Porter",
-    "adaptation_count": 2,
-    "first_adaptation": 1919,
-    "last_adaptation": 1920,
-    "year_span": 1,
-    "films": [
-      {
-        "id": 32,
-        "title": "Dawn",
-        "year": 1919,
-        "survival_status": "unknown"
-      },
-      {
-        "id": 33,
-        "title": "Pollyanna",
-        "year": 1920,
-        "survival_status": "extant"
-      }
-    ]
-  },
-  {
-    "name": "Grace Miller White",
-    "adaptation_count": 2,
-    "first_adaptation": 1917,
-    "last_adaptation": 1920,
-    "year_span": 3,
-    "films": [
-      {
-        "id": 71,
-        "title": "The Secret of the Storm Country",
-        "year": 1917,
-        "survival_status": "lost"
-      },
-      {
-        "id": 72,
-        "title": "Judy of Rogue's Harbor",
-        "year": 1920,
-        "survival_status": "lost"
-      }
-    ]
-  },
-  {
     "name": "Margaret Deland",
     "adaptation_count": 2,
     "first_adaptation": 1916,
@@ -686,6 +728,27 @@
         "title": "The Sun Comes Up",
         "year": 1949,
         "survival_status": "extant"
+      }
+    ]
+  },
+  {
+    "name": "Mary E. Wilkins Freeman",
+    "adaptation_count": 2,
+    "first_adaptation": 1917,
+    "last_adaptation": 1919,
+    "year_span": 2,
+    "films": [
+      {
+        "id": 109,
+        "title": "An Alabaster Box",
+        "year": 1917,
+        "survival_status": "lost"
+      },
+      {
+        "id": 110,
+        "title": "False Evidence",
+        "year": 1919,
+        "survival_status": "unknown"
       }
     ]
   },
@@ -780,6 +843,21 @@
     ]
   },
   {
+    "name": "David Swift",
+    "adaptation_count": 1,
+    "first_adaptation": 1960,
+    "last_adaptation": 1960,
+    "year_span": 0,
+    "films": [
+      {
+        "id": 35,
+        "title": "Pollyanna",
+        "year": 1960,
+        "survival_status": "extant"
+      }
+    ]
+  },
+  {
     "name": "Dorothy M. Johnson",
     "adaptation_count": 1,
     "first_adaptation": 1959,
@@ -825,21 +903,6 @@
     ]
   },
   {
-    "name": "Eleanor H. Porter | David Swift",
-    "adaptation_count": 1,
-    "first_adaptation": 1960,
-    "last_adaptation": 1960,
-    "year_span": 0,
-    "films": [
-      {
-        "id": 35,
-        "title": "Pollyanna",
-        "year": 1960,
-        "survival_status": "extant"
-      }
-    ]
-  },
-  {
     "name": "Eleanor Mercein Kelly",
     "adaptation_count": 1,
     "first_adaptation": 1918,
@@ -870,7 +933,7 @@
     ]
   },
   {
-    "name": "Florence Morse Kingsley | Mary E. Wilkins Freeman",
+    "name": "Florence Morse Kingsley",
     "adaptation_count": 1,
     "first_adaptation": 1917,
     "last_adaptation": 1917,
@@ -986,21 +1049,6 @@
         "title": "Linda",
         "year": 1929,
         "survival_status": "extant"
-      }
-    ]
-  },
-  {
-    "name": "Mary E. Wilkins Freeman",
-    "adaptation_count": 1,
-    "first_adaptation": 1919,
-    "last_adaptation": 1919,
-    "year_span": 0,
-    "films": [
-      {
-        "id": 110,
-        "title": "False Evidence",
-        "year": 1919,
-        "survival_status": "unknown"
       }
     ]
   },

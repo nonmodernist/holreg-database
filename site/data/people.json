@@ -1,0 +1,6118 @@
+[
+  {
+    "person_id": 117,
+    "name": "James Leo Meehan",
+    "films_directed": 7,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1923,
+    "last_credit": 1928,
+    "filmography": {
+      "Director": [
+        {
+          "id": 48,
+          "title": "Michael O'Halloran",
+          "year": 1923,
+          "position": 1
+        },
+        {
+          "id": 49,
+          "title": "A Girl of the Limberlost",
+          "year": 1924,
+          "position": 1
+        },
+        {
+          "id": 50,
+          "title": "The Keeper of the Bees",
+          "year": 1925,
+          "position": 1
+        },
+        {
+          "id": 51,
+          "title": "Laddie",
+          "year": 1926,
+          "position": 1
+        },
+        {
+          "id": 52,
+          "title": "The Harvester",
+          "year": 1927,
+          "position": 1
+        },
+        {
+          "id": 53,
+          "title": "The Magic Garden",
+          "year": 1927,
+          "position": 1
+        },
+        {
+          "id": 54,
+          "title": "Freckles",
+          "year": 1928,
+          "position": 1
+        }
+      ],
+      "Writer": [
+        {
+          "id": 48,
+          "title": "Michael O'Halloran",
+          "year": 1923,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 7
+  },
+  {
+    "person_id": 26,
+    "name": "Frances Marion",
+    "films_directed": 1,
+    "films_written": 5,
+    "films_produced": 0,
+    "first_credit": 1921,
+    "last_credit": 1921,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 90,
+          "title": "Rebecca of Sunnybrook Farm",
+          "year": 1917,
+          "position": 1
+        },
+        {
+          "id": 13,
+          "title": "Amarilly of Clothes-Line Alley",
+          "year": 1918,
+          "position": 1
+        },
+        {
+          "id": 38,
+          "title": "Humoresque",
+          "year": 1920,
+          "position": 1
+        },
+        {
+          "id": 33,
+          "title": "Pollyanna",
+          "year": 1920,
+          "position": 1
+        },
+        {
+          "id": 39,
+          "title": "Just Around the Corner",
+          "year": 1921,
+          "position": 1
+        }
+      ],
+      "Director": [
+        {
+          "id": 39,
+          "title": "Just Around the Corner",
+          "year": 1921,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 5
+  },
+  {
+    "person_id": 120,
+    "name": "Dorothy Yost",
+    "films_directed": 0,
+    "films_written": 6,
+    "films_produced": 0,
+    "first_credit": 1922,
+    "last_credit": 1945,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 111,
+          "title": "Little Miss Smiles",
+          "year": 1922,
+          "position": 2
+        },
+        {
+          "id": 52,
+          "title": "The Harvester",
+          "year": 1927,
+          "position": 1
+        },
+        {
+          "id": 54,
+          "title": "Freckles",
+          "year": 1928,
+          "position": 1
+        },
+        {
+          "id": 56,
+          "title": "Freckles",
+          "year": 1935,
+          "position": 1
+        },
+        {
+          "id": 57,
+          "title": "Laddie",
+          "year": 1935,
+          "position": 2
+        },
+        {
+          "id": 127,
+          "title": "Thunderhead, Son of Flicka",
+          "year": 1945,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 6
+  },
+  {
+    "person_id": 77,
+    "name": "George Stevens",
+    "films_directed": 3,
+    "films_written": 0,
+    "films_produced": 2,
+    "first_credit": 1935,
+    "last_credit": 1956,
+    "filmography": {
+      "Director": [
+        {
+          "id": 57,
+          "title": "Laddie",
+          "year": 1935,
+          "position": 1
+        },
+        {
+          "id": 94,
+          "title": "I Remember Mama",
+          "year": 1948,
+          "position": 1
+        },
+        {
+          "id": 28,
+          "title": "Giant",
+          "year": 1956,
+          "position": 1
+        }
+      ],
+      "Producer": [
+        {
+          "id": 94,
+          "title": "I Remember Mama",
+          "year": 1948,
+          "position": 2
+        },
+        {
+          "id": 28,
+          "title": "Giant",
+          "year": 1956,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 3
+  },
+  {
+    "person_id": 8,
+    "name": "Eve Unsell",
+    "films_directed": 0,
+    "films_written": 3,
+    "films_produced": 0,
+    "first_credit": 1918,
+    "last_credit": 1921,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 5,
+          "title": "Sunshine Nan",
+          "year": 1918,
+          "position": 1
+        },
+        {
+          "id": 6,
+          "title": "Mrs. Wiggs of the Cabbage Patch",
+          "year": 1919,
+          "position": 1
+        },
+        {
+          "id": 84,
+          "title": "Silent Years",
+          "year": 1921,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 3
+  },
+  {
+    "person_id": 24,
+    "name": "Sonya Levien",
+    "films_directed": 0,
+    "films_written": 3,
+    "films_produced": 0,
+    "first_credit": 1925,
+    "last_credit": 1932,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 12,
+          "title": "Salome of the Tenements",
+          "year": 1925,
+          "position": 1
+        },
+        {
+          "id": 91,
+          "title": "Rebecca of Sunnybrook Farm",
+          "year": 1932,
+          "position": 2
+        },
+        {
+          "id": 75,
+          "title": "Tess of the Storm Country",
+          "year": 1932,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 3
+  },
+  {
+    "person_id": 25,
+    "name": "Marshall Neilan",
+    "films_directed": 3,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1917,
+    "last_credit": 1918,
+    "filmography": {
+      "Director": [
+        {
+          "id": 47,
+          "title": "Freckles",
+          "year": 1917,
+          "position": 1
+        },
+        {
+          "id": 90,
+          "title": "Rebecca of Sunnybrook Farm",
+          "year": 1917,
+          "position": 1
+        },
+        {
+          "id": 13,
+          "title": "Amarilly of Clothes-Line Alley",
+          "year": 1918,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 3
+  },
+  {
+    "person_id": 35,
+    "name": "Chester Erskine",
+    "films_directed": 1,
+    "films_written": 1,
+    "films_produced": 1,
+    "first_credit": 1947,
+    "last_credit": 1947,
+    "filmography": {
+      "Director": [
+        {
+          "id": 16,
+          "title": "The Egg and I",
+          "year": 1947,
+          "position": 1
+        }
+      ],
+      "Writer": [
+        {
+          "id": 16,
+          "title": "The Egg and I",
+          "year": 1947,
+          "position": 1
+        }
+      ],
+      "Producer": [
+        {
+          "id": 16,
+          "title": "The Egg and I",
+          "year": 1947,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 49,
+    "name": "Ross Hunter",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 3,
+    "first_credit": 1957,
+    "last_credit": 1961,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 20,
+          "title": "Tammy and the Bachelor",
+          "year": 1957,
+          "position": 1
+        },
+        {
+          "id": 45,
+          "title": "Imitation of Life",
+          "year": 1959,
+          "position": 1
+        },
+        {
+          "id": 46,
+          "title": "Back Street",
+          "year": 1961,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 3
+  },
+  {
+    "person_id": 85,
+    "name": "Oscar Micheaux",
+    "films_directed": 1,
+    "films_written": 1,
+    "films_produced": 1,
+    "first_credit": 1937,
+    "last_credit": 1937,
+    "filmography": {
+      "Director": [
+        {
+          "id": 31,
+          "title": "Underworld",
+          "year": 1937,
+          "position": 1
+        }
+      ],
+      "Writer": [
+        {
+          "id": 31,
+          "title": "Underworld",
+          "year": 1937,
+          "position": 1
+        }
+      ],
+      "Producer": [
+        {
+          "id": 31,
+          "title": "Underworld",
+          "year": 1937,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 99,
+    "name": "Frank Borzage",
+    "films_directed": 3,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1920,
+    "last_credit": 1942,
+    "filmography": {
+      "Director": [
+        {
+          "id": 38,
+          "title": "Humoresque",
+          "year": 1920,
+          "position": 1
+        },
+        {
+          "id": 40,
+          "title": "The Good Provider",
+          "year": 1922,
+          "position": 1
+        },
+        {
+          "id": 112,
+          "title": "The Vanishing Virginian",
+          "year": 1942,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 3
+  },
+  {
+    "person_id": 222,
+    "name": "John W. Noble",
+    "films_directed": 2,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1916,
+    "last_credit": 1917,
+    "filmography": {
+      "Director": [
+        {
+          "id": 97,
+          "title": "The Awakening of Helena Richie",
+          "year": 1916,
+          "position": 1
+        },
+        {
+          "id": 108,
+          "title": "Sunshine Alley",
+          "year": 1917,
+          "position": 1
+        }
+      ],
+      "Writer": [
+        {
+          "id": 97,
+          "title": "The Awakening of Helena Richie",
+          "year": 1916,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 270,
+    "name": "Zora Neale Hurston",
+    "films_directed": 3,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1928,
+    "last_credit": 1940,
+    "filmography": {
+      "Director": [
+        {
+          "id": 116,
+          "title": "Fieldwork Footage",
+          "year": 1928,
+          "position": 1
+        },
+        {
+          "id": 117,
+          "title": "Ethnographic Films",
+          "year": 1929,
+          "position": 1
+        },
+        {
+          "id": 118,
+          "title": "Commandment Keeper Church, Beaufort South Carolina, May 1940",
+          "year": 1940,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 3
+  },
+  {
+    "person_id": 276,
+    "name": "Frederick Thomson",
+    "films_directed": 3,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1910,
+    "last_credit": 1910,
+    "filmography": {
+      "Director": [
+        {
+          "id": 123,
+          "title": "Uncle Tom's Cabin, Part 1",
+          "year": 1910,
+          "position": 1
+        },
+        {
+          "id": 124,
+          "title": "Uncle Tom's Cabin, Part 2",
+          "year": 1910,
+          "position": 1
+        },
+        {
+          "id": 125,
+          "title": "Uncle Tom's Cabin, Part 3",
+          "year": 1910,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 3
+  },
+  {
+    "person_id": 277,
+    "name": "Rollin S. Sturgeon",
+    "films_directed": 0,
+    "films_written": 3,
+    "films_produced": 0,
+    "first_credit": 1910,
+    "last_credit": 1910,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 123,
+          "title": "Uncle Tom's Cabin, Part 1",
+          "year": 1910,
+          "position": 1
+        },
+        {
+          "id": 124,
+          "title": "Uncle Tom's Cabin, Part 2",
+          "year": 1910,
+          "position": 1
+        },
+        {
+          "id": 125,
+          "title": "Uncle Tom's Cabin, Part 3",
+          "year": 1910,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 3
+  },
+  {
+    "person_id": 3,
+    "name": "Lynn Reynolds",
+    "films_directed": 1,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1916,
+    "last_credit": 1916,
+    "filmography": {
+      "Director": [
+        {
+          "id": 2,
+          "title": "A Romance of Billy Goat Hill",
+          "year": 1916,
+          "position": 1
+        }
+      ],
+      "Writer": [
+        {
+          "id": 2,
+          "title": "A Romance of Billy Goat Hill",
+          "year": 1916,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 4,
+    "name": "Lynn F. Reynolds",
+    "films_directed": 1,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1917,
+    "last_credit": 1917,
+    "filmography": {
+      "Director": [
+        {
+          "id": 3,
+          "title": "Mr. Opp",
+          "year": 1917,
+          "position": 1
+        }
+      ],
+      "Writer": [
+        {
+          "id": 3,
+          "title": "Mr. Opp",
+          "year": 1917,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 14,
+    "name": "William Slavens McNutt",
+    "films_directed": 0,
+    "films_written": 2,
+    "films_produced": 0,
+    "first_credit": 1934,
+    "last_credit": 1942,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 8,
+          "title": "Mrs. Wiggs of the Cabbage Patch",
+          "year": 1934,
+          "position": 1
+        },
+        {
+          "id": 9,
+          "title": "Mrs. Wiggs of the Cabbage Patch",
+          "year": 1942,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 15,
+    "name": "Jane Storm",
+    "films_directed": 0,
+    "films_written": 2,
+    "films_produced": 0,
+    "first_credit": 1934,
+    "last_credit": 1942,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 8,
+          "title": "Mrs. Wiggs of the Cabbage Patch",
+          "year": 1934,
+          "position": 2
+        },
+        {
+          "id": 9,
+          "title": "Mrs. Wiggs of the Cabbage Patch",
+          "year": 1942,
+          "position": 3
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 32,
+    "name": "Adelaide Heilbron",
+    "films_directed": 0,
+    "films_written": 2,
+    "films_produced": 0,
+    "first_credit": 1924,
+    "last_credit": 1941,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 23,
+          "title": "So Big",
+          "year": 1924,
+          "position": 1
+        },
+        {
+          "id": 15,
+          "title": "Cheers for Miss Bishop",
+          "year": 1941,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 36,
+    "name": "Fred F. Finklehoffe",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 1,
+    "first_credit": 1947,
+    "last_credit": 1947,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 16,
+          "title": "The Egg and I",
+          "year": 1947,
+          "position": 2
+        }
+      ],
+      "Producer": [
+        {
+          "id": 16,
+          "title": "The Egg and I",
+          "year": 1947,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 37,
+    "name": "Elia Kazan",
+    "films_directed": 2,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1945,
+    "last_credit": 1949,
+    "filmography": {
+      "Director": [
+        {
+          "id": 17,
+          "title": "A Tree Grows in Brooklyn",
+          "year": 1945,
+          "position": 1
+        },
+        {
+          "id": 19,
+          "title": "Pinky",
+          "year": 1949,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 52,
+    "name": "Vincent Sherman",
+    "films_directed": 2,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1959,
+    "last_credit": 1960,
+    "filmography": {
+      "Director": [
+        {
+          "id": 21,
+          "title": "The Hanging Tree",
+          "year": 1959,
+          "position": 3
+        },
+        {
+          "id": 30,
+          "title": "Ice Palace",
+          "year": 1960,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 59,
+    "name": "Jack L. Warner",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 2,
+    "first_credit": 1947,
+    "last_credit": 1947,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 44,
+          "title": "Humoresque",
+          "year": 1947,
+          "position": 1
+        },
+        {
+          "id": 22,
+          "title": "That Hagen Girl",
+          "year": 1947,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 76,
+    "name": "Henry Blanke",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 2,
+    "first_credit": 1953,
+    "last_credit": 1960,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 27,
+          "title": "So Big",
+          "year": 1953,
+          "position": 1
+        },
+        {
+          "id": 30,
+          "title": "Ice Palace",
+          "year": 1960,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 89,
+    "name": "Douglas Sirk",
+    "films_directed": 2,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1952,
+    "last_credit": 1959,
+    "filmography": {
+      "Director": [
+        {
+          "id": 34,
+          "title": "Has Anybody Seen My Gal",
+          "year": 1952,
+          "position": 1
+        },
+        {
+          "id": 45,
+          "title": "Imitation of Life",
+          "year": 1959,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 92,
+    "name": "David Swift",
+    "films_directed": 1,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1960,
+    "last_credit": 1960,
+    "filmography": {
+      "Director": [
+        {
+          "id": 35,
+          "title": "Pollyanna",
+          "year": 1960,
+          "position": 1
+        }
+      ],
+      "Writer": [
+        {
+          "id": 35,
+          "title": "Pollyanna",
+          "year": 1960,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 95,
+    "name": "June Mathis",
+    "films_directed": 0,
+    "films_written": 2,
+    "films_produced": 0,
+    "first_credit": 1918,
+    "last_credit": 1918,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 36,
+          "title": "Kildare of Storm",
+          "year": 1918,
+          "position": 2
+        },
+        {
+          "id": 95,
+          "title": "The Silent Woman",
+          "year": 1918,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 101,
+    "name": "John M. Stahl",
+    "films_directed": 2,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1932,
+    "last_credit": 1934,
+    "filmography": {
+      "Director": [
+        {
+          "id": 41,
+          "title": "Back Street",
+          "year": 1932,
+          "position": 1
+        },
+        {
+          "id": 42,
+          "title": "Imitation of Life",
+          "year": 1934,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 103,
+    "name": "Carl Laemmle Jr.",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 2,
+    "first_credit": 1932,
+    "last_credit": 1934,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 41,
+          "title": "Back Street",
+          "year": 1932,
+          "position": 1
+        },
+        {
+          "id": 42,
+          "title": "Imitation of Life",
+          "year": 1934,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 106,
+    "name": "Bruce Manning",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 1,
+    "first_credit": 1941,
+    "last_credit": 1941,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 43,
+          "title": "Back Street",
+          "year": 1941,
+          "position": 1
+        }
+      ],
+      "Producer": [
+        {
+          "id": 43,
+          "title": "Back Street",
+          "year": 1941,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 112,
+    "name": "Eleanore Griffin",
+    "films_directed": 0,
+    "films_written": 2,
+    "films_produced": 0,
+    "first_credit": 1959,
+    "last_credit": 1961,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 45,
+          "title": "Imitation of Life",
+          "year": 1959,
+          "position": 1
+        },
+        {
+          "id": 46,
+          "title": "Back Street",
+          "year": 1961,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 115,
+    "name": "William Ludwig",
+    "films_directed": 0,
+    "films_written": 2,
+    "films_produced": 0,
+    "first_credit": 1949,
+    "last_credit": 1961,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 103,
+          "title": "The Sun Comes Up",
+          "year": 1949,
+          "position": 1
+        },
+        {
+          "id": 46,
+          "title": "Back Street",
+          "year": 1961,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 116,
+    "name": "Marion Fairfax",
+    "films_directed": 0,
+    "films_written": 2,
+    "films_produced": 0,
+    "first_credit": 1917,
+    "last_credit": 1917,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 47,
+          "title": "Freckles",
+          "year": 1917,
+          "position": 1
+        },
+        {
+          "id": 113,
+          "title": "The Primrose Ring",
+          "year": 1917,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 122,
+    "name": "Christy Cabanne",
+    "films_directed": 2,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1934,
+    "last_credit": 1935,
+    "filmography": {
+      "Director": [
+        {
+          "id": 55,
+          "title": "A Girl of the Limberlost",
+          "year": 1934,
+          "position": 1
+        },
+        {
+          "id": 58,
+          "title": "The Keeper of the Bees",
+          "year": 1935,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 123,
+    "name": "Adele Comandini",
+    "films_directed": 0,
+    "films_written": 2,
+    "films_produced": 0,
+    "first_credit": 1934,
+    "last_credit": 1940,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 55,
+          "title": "A Girl of the Limberlost",
+          "year": 1934,
+          "position": 1
+        },
+        {
+          "id": 62,
+          "title": "Her First Romance",
+          "year": 1940,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 129,
+    "name": "Adele Buffington",
+    "films_directed": 0,
+    "films_written": 2,
+    "films_produced": 0,
+    "first_credit": 1935,
+    "last_credit": 1937,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 58,
+          "title": "The Keeper of the Bees",
+          "year": 1935,
+          "position": 1
+        },
+        {
+          "id": 60,
+          "title": "Michael O'Halloran",
+          "year": 1937,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 148,
+    "name": "Erna Lazarus",
+    "films_directed": 0,
+    "films_written": 2,
+    "films_produced": 0,
+    "first_credit": 1945,
+    "last_credit": 1948,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 64,
+          "title": "The Girl of the Limberlost",
+          "year": 1945,
+          "position": 1
+        },
+        {
+          "id": 66,
+          "title": "Michael O'Halloran",
+          "year": 1948,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 159,
+    "name": "Harry Spalding",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 1,
+    "first_credit": 1960,
+    "last_credit": 1960,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 67,
+          "title": "Freckles",
+          "year": 1960,
+          "position": 1
+        }
+      ],
+      "Producer": [
+        {
+          "id": 67,
+          "title": "Freckles",
+          "year": 1960,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 164,
+    "name": "Mary Murillo",
+    "films_directed": 0,
+    "films_written": 2,
+    "films_produced": 0,
+    "first_credit": 1917,
+    "last_credit": 1918,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 71,
+          "title": "The Secret of the Storm Country",
+          "year": 1917,
+          "position": 1
+        },
+        {
+          "id": 69,
+          "title": "The Panther Woman",
+          "year": 1918,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 177,
+    "name": "Alfred Santell",
+    "films_directed": 2,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1932,
+    "last_credit": 1932,
+    "filmography": {
+      "Director": [
+        {
+          "id": 91,
+          "title": "Rebecca of Sunnybrook Farm",
+          "year": 1932,
+          "position": 1
+        },
+        {
+          "id": 75,
+          "title": "Tess of the Storm Country",
+          "year": 1932,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 178,
+    "name": "S. N. Behrman",
+    "films_directed": 0,
+    "films_written": 2,
+    "films_produced": 0,
+    "first_credit": 1932,
+    "last_credit": 1932,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 91,
+          "title": "Rebecca of Sunnybrook Farm",
+          "year": 1932,
+          "position": 1
+        },
+        {
+          "id": 75,
+          "title": "Tess of the Storm Country",
+          "year": 1932,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 185,
+    "name": "J. Searle Dawley",
+    "films_directed": 1,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1918,
+    "last_credit": 1918,
+    "filmography": {
+      "Director": [
+        {
+          "id": 79,
+          "title": "Uncle Tom's Cabin",
+          "year": 1918,
+          "position": 1
+        }
+      ],
+      "Writer": [
+        {
+          "id": 79,
+          "title": "Uncle Tom's Cabin",
+          "year": 1918,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 195,
+    "name": "Winifred Dunn",
+    "films_directed": 0,
+    "films_written": 2,
+    "films_produced": 0,
+    "first_credit": 1921,
+    "last_credit": 1926,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 84,
+          "title": "Silent Years",
+          "year": 1921,
+          "position": 1
+        },
+        {
+          "id": 114,
+          "title": "Sparrows",
+          "year": 1926,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 202,
+    "name": "Edwin Carewe",
+    "films_directed": 2,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1919,
+    "last_credit": 1928,
+    "filmography": {
+      "Director": [
+        {
+          "id": 110,
+          "title": "False Evidence",
+          "year": 1919,
+          "position": 1
+        },
+        {
+          "id": 88,
+          "title": "Ramona",
+          "year": 1928,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 203,
+    "name": "Finis Fox",
+    "films_directed": 0,
+    "films_written": 2,
+    "films_produced": 0,
+    "first_credit": 1919,
+    "last_credit": 1928,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 110,
+          "title": "False Evidence",
+          "year": 1919,
+          "position": 1
+        },
+        {
+          "id": 88,
+          "title": "Ramona",
+          "year": 1928,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 210,
+    "name": "Howard Hickman",
+    "films_directed": 1,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1921,
+    "last_credit": 1921,
+    "filmography": {
+      "Director": [
+        {
+          "id": 93,
+          "title": "Nobody's Kid",
+          "year": 1921,
+          "position": 1
+        }
+      ],
+      "Writer": [
+        {
+          "id": 93,
+          "title": "Nobody's Kid",
+          "year": 1921,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 214,
+    "name": "Herbert Blaché",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1918,
+    "last_credit": 1918,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 98,
+          "title": "The Iron Woman",
+          "year": 1916,
+          "position": 2
+        }
+      ],
+      "Director": [
+        {
+          "id": 95,
+          "title": "The Silent Woman",
+          "year": 1918,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 226,
+    "name": "Victor Fleming",
+    "films_directed": 2,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1939,
+    "last_credit": 1947,
+    "filmography": {
+      "Director": [
+        {
+          "id": 99,
+          "title": "Gone with the Wind",
+          "year": 1939,
+          "position": 1
+        },
+        {
+          "id": 102,
+          "title": "The Yearling",
+          "year": 1947,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 236,
+    "name": "Marion Wong",
+    "films_directed": 1,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1917,
+    "last_credit": 1917,
+    "filmography": {
+      "Director": [
+        {
+          "id": 101,
+          "title": "The Curse of Quon Gwon",
+          "year": 1917,
+          "position": 1
+        }
+      ],
+      "Writer": [
+        {
+          "id": 101,
+          "title": "The Curse of Quon Gwon",
+          "year": 1917,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 251,
+    "name": "Louis King",
+    "films_directed": 2,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1945,
+    "last_credit": 1948,
+    "filmography": {
+      "Director": [
+        {
+          "id": 127,
+          "title": "Thunderhead, Son of Flicka",
+          "year": 1945,
+          "position": 1
+        },
+        {
+          "id": 106,
+          "title": "Green Grass of Wyoming",
+          "year": 1948,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 253,
+    "name": "Robert Bassler",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 2,
+    "first_credit": 1945,
+    "last_credit": 1948,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 127,
+          "title": "Thunderhead, Son of Flicka",
+          "year": 1945,
+          "position": 1
+        },
+        {
+          "id": 106,
+          "title": "Green Grass of Wyoming",
+          "year": 1948,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 2
+  },
+  {
+    "person_id": 1,
+    "name": "Harold Entwhistle",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1914,
+    "last_credit": 1914,
+    "filmography": {
+      "Director": [
+        {
+          "id": 1,
+          "title": "Mrs. Wiggs of the Cabbage Patch",
+          "year": 1914,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 2,
+    "name": "George E. Middleton",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1914,
+    "last_credit": 1914,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 1,
+          "title": "Mrs. Wiggs of the Cabbage Patch",
+          "year": 1914,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 5,
+    "name": "George H. Melford",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1918,
+    "last_credit": 1918,
+    "filmography": {
+      "Director": [
+        {
+          "id": 4,
+          "title": "Sandy",
+          "year": 1918,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 6,
+    "name": "Edith M. Kennedy",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1918,
+    "last_credit": 1918,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 4,
+          "title": "Sandy",
+          "year": 1918,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 7,
+    "name": "Charles Giblyn",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1918,
+    "last_credit": 1918,
+    "filmography": {
+      "Director": [
+        {
+          "id": 5,
+          "title": "Sunshine Nan",
+          "year": 1918,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 9,
+    "name": "Hugh Ford",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1919,
+    "last_credit": 1919,
+    "filmography": {
+      "Director": [
+        {
+          "id": 6,
+          "title": "Mrs. Wiggs of the Cabbage Patch",
+          "year": 1919,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 10,
+    "name": "King Baggot",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1926,
+    "last_credit": 1926,
+    "filmography": {
+      "Director": [
+        {
+          "id": 7,
+          "title": "Lovey Mary",
+          "year": 1926,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 11,
+    "name": "Agnes Christine Johnston",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1926,
+    "last_credit": 1926,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 7,
+          "title": "Lovey Mary",
+          "year": 1926,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 12,
+    "name": "Charles Maigne",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1926,
+    "last_credit": 1926,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 7,
+          "title": "Lovey Mary",
+          "year": 1926,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 13,
+    "name": "Norman Taurog",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1934,
+    "last_credit": 1934,
+    "filmography": {
+      "Director": [
+        {
+          "id": 8,
+          "title": "Mrs. Wiggs of the Cabbage Patch",
+          "year": 1934,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 16,
+    "name": "Douglas MacLean",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1934,
+    "last_credit": 1934,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 8,
+          "title": "Mrs. Wiggs of the Cabbage Patch",
+          "year": 1934,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 17,
+    "name": "Ralph Murphy",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1942,
+    "last_credit": 1942,
+    "filmography": {
+      "Director": [
+        {
+          "id": 9,
+          "title": "Mrs. Wiggs of the Cabbage Patch",
+          "year": 1942,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 18,
+    "name": "Doris Anderson",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1942,
+    "last_credit": 1942,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 9,
+          "title": "Mrs. Wiggs of the Cabbage Patch",
+          "year": 1942,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 19,
+    "name": "Sol C. Siegel",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1942,
+    "last_credit": 1942,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 9,
+          "title": "Mrs. Wiggs of the Cabbage Patch",
+          "year": 1942,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 20,
+    "name": "J. P. McGowan",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1916,
+    "last_credit": 1916,
+    "filmography": {
+      "Director": [
+        {
+          "id": 10,
+          "title": "Judith of the Cumberlands",
+          "year": 1916,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 21,
+    "name": "E. Mason Hopper",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1922,
+    "last_credit": 1922,
+    "filmography": {
+      "Director": [
+        {
+          "id": 11,
+          "title": "Hungry Hearts",
+          "year": 1922,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 22,
+    "name": "Julien Josephson",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1922,
+    "last_credit": 1922,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 11,
+          "title": "Hungry Hearts",
+          "year": 1922,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 23,
+    "name": "Sidney Olcott",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1925,
+    "last_credit": 1925,
+    "filmography": {
+      "Director": [
+        {
+          "id": 12,
+          "title": "Salome of the Tenements",
+          "year": 1925,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 27,
+    "name": "Richard Thomas",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1930,
+    "last_credit": 1930,
+    "filmography": {
+      "Director": [
+        {
+          "id": 14,
+          "title": "The Woman Who Was Forgotten",
+          "year": 1930,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 28,
+    "name": "Bert Levino",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1930,
+    "last_credit": 1930,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 14,
+          "title": "The Woman Who Was Forgotten",
+          "year": 1930,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 29,
+    "name": "Charles Goetz",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1930,
+    "last_credit": 1930,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 14,
+          "title": "The Woman Who Was Forgotten",
+          "year": 1930,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 30,
+    "name": "Tay Garnett",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1941,
+    "last_credit": 1941,
+    "filmography": {
+      "Director": [
+        {
+          "id": 15,
+          "title": "Cheers for Miss Bishop",
+          "year": 1941,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 31,
+    "name": "Stephen Vincent Benet",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1941,
+    "last_credit": 1941,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 15,
+          "title": "Cheers for Miss Bishop",
+          "year": 1941,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 33,
+    "name": "Sheridan Gibney",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1941,
+    "last_credit": 1941,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 15,
+          "title": "Cheers for Miss Bishop",
+          "year": 1941,
+          "position": 3
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 34,
+    "name": "Richard A. Rowland",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1941,
+    "last_credit": 1941,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 15,
+          "title": "Cheers for Miss Bishop",
+          "year": 1941,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 38,
+    "name": "Tess Slesinger",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1945,
+    "last_credit": 1945,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 17,
+          "title": "A Tree Grows in Brooklyn",
+          "year": 1945,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 39,
+    "name": "Frank Davis",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1945,
+    "last_credit": 1945,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 17,
+          "title": "A Tree Grows in Brooklyn",
+          "year": 1945,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 40,
+    "name": "Louis D. Lighton",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1945,
+    "last_credit": 1945,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 17,
+          "title": "A Tree Grows in Brooklyn",
+          "year": 1945,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 41,
+    "name": "Fred Zinnemann",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1953,
+    "last_credit": 1953,
+    "filmography": {
+      "Director": [
+        {
+          "id": 18,
+          "title": "The Member of the Wedding",
+          "year": 1953,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 42,
+    "name": "Edna Anhalt",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1953,
+    "last_credit": 1953,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 18,
+          "title": "The Member of the Wedding",
+          "year": 1953,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 43,
+    "name": "Edward Anhalt",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1953,
+    "last_credit": 1953,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 18,
+          "title": "The Member of the Wedding",
+          "year": 1953,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 44,
+    "name": "Philip Dunne",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1949,
+    "last_credit": 1949,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 19,
+          "title": "Pinky",
+          "year": 1949,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 45,
+    "name": "Dudley Nichols",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1949,
+    "last_credit": 1949,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 19,
+          "title": "Pinky",
+          "year": 1949,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 46,
+    "name": "Darryl F. Zanuck",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1949,
+    "last_credit": 1949,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 19,
+          "title": "Pinky",
+          "year": 1949,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 47,
+    "name": "Joseph Pevney",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1957,
+    "last_credit": 1957,
+    "filmography": {
+      "Director": [
+        {
+          "id": 20,
+          "title": "Tammy and the Bachelor",
+          "year": 1957,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 48,
+    "name": "Oscar Brodney",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1957,
+    "last_credit": 1957,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 20,
+          "title": "Tammy and the Bachelor",
+          "year": 1957,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 50,
+    "name": "Delmer Daves",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1959,
+    "last_credit": 1959,
+    "filmography": {
+      "Director": [
+        {
+          "id": 21,
+          "title": "The Hanging Tree",
+          "year": 1959,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 51,
+    "name": "Karl Malden",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1959,
+    "last_credit": 1959,
+    "filmography": {
+      "Director": [
+        {
+          "id": 21,
+          "title": "The Hanging Tree",
+          "year": 1959,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 53,
+    "name": "Wendell Mayes",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1959,
+    "last_credit": 1959,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 21,
+          "title": "The Hanging Tree",
+          "year": 1959,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 54,
+    "name": "Halsted Welles",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1959,
+    "last_credit": 1959,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 21,
+          "title": "The Hanging Tree",
+          "year": 1959,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 55,
+    "name": "Martin Jurow",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1959,
+    "last_credit": 1959,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 21,
+          "title": "The Hanging Tree",
+          "year": 1959,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 56,
+    "name": "Richard Shepherd",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1959,
+    "last_credit": 1959,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 21,
+          "title": "The Hanging Tree",
+          "year": 1959,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 57,
+    "name": "Peter Godfrey",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1947,
+    "last_credit": 1947,
+    "filmography": {
+      "Director": [
+        {
+          "id": 22,
+          "title": "That Hagen Girl",
+          "year": 1947,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 58,
+    "name": "Charles Hoffman",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1947,
+    "last_credit": 1947,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 22,
+          "title": "That Hagen Girl",
+          "year": 1947,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 60,
+    "name": "Alex Gottlieb",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1947,
+    "last_credit": 1947,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 22,
+          "title": "That Hagen Girl",
+          "year": 1947,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 61,
+    "name": "Charles Brabin",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1924,
+    "last_credit": 1924,
+    "filmography": {
+      "Director": [
+        {
+          "id": 23,
+          "title": "So Big",
+          "year": 1924,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 62,
+    "name": "Earl Hudson",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1924,
+    "last_credit": 1924,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 23,
+          "title": "So Big",
+          "year": 1924,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 63,
+    "name": "Wesley Ruggles",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1931,
+    "last_credit": 1931,
+    "filmography": {
+      "Director": [
+        {
+          "id": 24,
+          "title": "Cimarron",
+          "year": 1931,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 64,
+    "name": "Howard Estabrook",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1931,
+    "last_credit": 1931,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 24,
+          "title": "Cimarron",
+          "year": 1931,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 65,
+    "name": "William LeBaron",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1931,
+    "last_credit": 1931,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 24,
+          "title": "Cimarron",
+          "year": 1931,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 66,
+    "name": "William A. Wellman",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1932,
+    "last_credit": 1932,
+    "filmography": {
+      "Director": [
+        {
+          "id": 25,
+          "title": "So Big",
+          "year": 1932,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 67,
+    "name": "J. Grubb Alexander",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1932,
+    "last_credit": 1932,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 25,
+          "title": "So Big",
+          "year": 1932,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 68,
+    "name": "Robert Lord",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1932,
+    "last_credit": 1932,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 25,
+          "title": "So Big",
+          "year": 1932,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 69,
+    "name": "Howard Hawks",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1936,
+    "last_credit": 1936,
+    "filmography": {
+      "Director": [
+        {
+          "id": 26,
+          "title": "Come and Get It",
+          "year": 1936,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 70,
+    "name": "William Wyler",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1936,
+    "last_credit": 1936,
+    "filmography": {
+      "Director": [
+        {
+          "id": 26,
+          "title": "Come and Get It",
+          "year": 1936,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 71,
+    "name": "Jane Murfin",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1936,
+    "last_credit": 1936,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 26,
+          "title": "Come and Get It",
+          "year": 1936,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 72,
+    "name": "Jules Furthman",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1936,
+    "last_credit": 1936,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 26,
+          "title": "Come and Get It",
+          "year": 1936,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 73,
+    "name": "Samuel Goldwyn",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1936,
+    "last_credit": 1936,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 26,
+          "title": "Come and Get It",
+          "year": 1936,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 74,
+    "name": "Robert Wise",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1953,
+    "last_credit": 1953,
+    "filmography": {
+      "Director": [
+        {
+          "id": 27,
+          "title": "So Big",
+          "year": 1953,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 75,
+    "name": "John Twist",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1953,
+    "last_credit": 1953,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 27,
+          "title": "So Big",
+          "year": 1953,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 78,
+    "name": "Fred Guiol",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1956,
+    "last_credit": 1956,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 28,
+          "title": "Giant",
+          "year": 1956,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 79,
+    "name": "Ivan Moffat",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1956,
+    "last_credit": 1956,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 28,
+          "title": "Giant",
+          "year": 1956,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 80,
+    "name": "Henry Ginsberg",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1956,
+    "last_credit": 1956,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 28,
+          "title": "Giant",
+          "year": 1956,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 81,
+    "name": "Anthony Mann",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1960,
+    "last_credit": 1960,
+    "filmography": {
+      "Director": [
+        {
+          "id": 29,
+          "title": "Cimarron",
+          "year": 1960,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 82,
+    "name": "Arnold Schulman",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1960,
+    "last_credit": 1960,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 29,
+          "title": "Cimarron",
+          "year": 1960,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 83,
+    "name": "Edmund Grainger",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1960,
+    "last_credit": 1960,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 29,
+          "title": "Cimarron",
+          "year": 1960,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 84,
+    "name": "Harry Kleiner",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1960,
+    "last_credit": 1960,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 30,
+          "title": "Ice Palace",
+          "year": 1960,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 86,
+    "name": "J. Stuart Blackton",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1919,
+    "last_credit": 1919,
+    "filmography": {
+      "Director": [
+        {
+          "id": 32,
+          "title": "Dawn",
+          "year": 1919,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 87,
+    "name": "Stanley Olmstead",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1919,
+    "last_credit": 1919,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 32,
+          "title": "Dawn",
+          "year": 1919,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 88,
+    "name": "Paul Powell",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1920,
+    "last_credit": 1920,
+    "filmography": {
+      "Director": [
+        {
+          "id": 33,
+          "title": "Pollyanna",
+          "year": 1920,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 90,
+    "name": "Joseph Hoffman",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1952,
+    "last_credit": 1952,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 34,
+          "title": "Has Anybody Seen My Gal",
+          "year": 1952,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 91,
+    "name": "Ted Richmond",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1952,
+    "last_credit": 1952,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 34,
+          "title": "Has Anybody Seen My Gal",
+          "year": 1952,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 93,
+    "name": "Harry L. Franklin",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1918,
+    "last_credit": 1918,
+    "filmography": {
+      "Director": [
+        {
+          "id": 36,
+          "title": "Kildare of Storm",
+          "year": 1918,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 94,
+    "name": "Jere Looney",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1918,
+    "last_credit": 1918,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 36,
+          "title": "Kildare of Storm",
+          "year": 1918,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 96,
+    "name": "John Huston",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1942,
+    "last_credit": 1942,
+    "filmography": {
+      "Director": [
+        {
+          "id": 37,
+          "title": "In This Our Life",
+          "year": 1942,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 97,
+    "name": "Howard Koch",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1942,
+    "last_credit": 1942,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 37,
+          "title": "In This Our Life",
+          "year": 1942,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 98,
+    "name": "Hal B. Wallis",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1942,
+    "last_credit": 1942,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 37,
+          "title": "In This Our Life",
+          "year": 1942,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 100,
+    "name": "John Lynch",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1922,
+    "last_credit": 1922,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 40,
+          "title": "The Good Provider",
+          "year": 1922,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 102,
+    "name": "Gladys Lehman",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1932,
+    "last_credit": 1932,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 41,
+          "title": "Back Street",
+          "year": 1932,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 104,
+    "name": "William Hurlbut",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1934,
+    "last_credit": 1934,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 42,
+          "title": "Imitation of Life",
+          "year": 1934,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 105,
+    "name": "Robert Stevenson",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1941,
+    "last_credit": 1941,
+    "filmography": {
+      "Director": [
+        {
+          "id": 43,
+          "title": "Back Street",
+          "year": 1941,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 107,
+    "name": "Felix Jackson",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1941,
+    "last_credit": 1941,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 43,
+          "title": "Back Street",
+          "year": 1941,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 108,
+    "name": "Jean Negulesco",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1947,
+    "last_credit": 1947,
+    "filmography": {
+      "Director": [
+        {
+          "id": 44,
+          "title": "Humoresque",
+          "year": 1947,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 109,
+    "name": "Clifford Odets",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1947,
+    "last_credit": 1947,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 44,
+          "title": "Humoresque",
+          "year": 1947,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 110,
+    "name": "Zachary Gold",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1947,
+    "last_credit": 1947,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 44,
+          "title": "Humoresque",
+          "year": 1947,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 111,
+    "name": "Jerry Wald",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1947,
+    "last_credit": 1947,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 44,
+          "title": "Humoresque",
+          "year": 1947,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 113,
+    "name": "Allan Scott",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1959,
+    "last_credit": 1959,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 45,
+          "title": "Imitation of Life",
+          "year": 1959,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 114,
+    "name": "David Miller",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1961,
+    "last_credit": 1961,
+    "filmography": {
+      "Director": [
+        {
+          "id": 46,
+          "title": "Back Street",
+          "year": 1961,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 118,
+    "name": "Gene Stratton Porter",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1924,
+    "last_credit": 1924,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 49,
+          "title": "A Girl of the Limberlost",
+          "year": 1924,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 119,
+    "name": "Jeanette Porter Meehan",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1926,
+    "last_credit": 1926,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 51,
+          "title": "Laddie",
+          "year": 1926,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 121,
+    "name": "J. Leo Meehan",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1927,
+    "last_credit": 1927,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 53,
+          "title": "The Magic Garden",
+          "year": 1927,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 124,
+    "name": "Edward Killy",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1935,
+    "last_credit": 1935,
+    "filmography": {
+      "Director": [
+        {
+          "id": 56,
+          "title": "Freckles",
+          "year": 1935,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 125,
+    "name": "William Hamilton",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1935,
+    "last_credit": 1935,
+    "filmography": {
+      "Director": [
+        {
+          "id": 56,
+          "title": "Freckles",
+          "year": 1935,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 126,
+    "name": "Mary Mayes",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1935,
+    "last_credit": 1935,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 56,
+          "title": "Freckles",
+          "year": 1935,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 127,
+    "name": "Ray Harris",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1935,
+    "last_credit": 1935,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 57,
+          "title": "Laddie",
+          "year": 1935,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 128,
+    "name": "William Sistrom",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1935,
+    "last_credit": 1935,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 57,
+          "title": "Laddie",
+          "year": 1935,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 130,
+    "name": "Joseph Santley",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1936,
+    "last_credit": 1936,
+    "filmography": {
+      "Director": [
+        {
+          "id": 59,
+          "title": "The Harvester",
+          "year": 1936,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 131,
+    "name": "Gertrude Orr",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1936,
+    "last_credit": 1936,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 59,
+          "title": "The Harvester",
+          "year": 1936,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 132,
+    "name": "Homer Croy",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1936,
+    "last_credit": 1936,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 59,
+          "title": "The Harvester",
+          "year": 1936,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 133,
+    "name": "David Silverstein",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1936,
+    "last_credit": 1936,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 59,
+          "title": "The Harvester",
+          "year": 1936,
+          "position": 3
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 134,
+    "name": "Robert Lee Johnson",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1936,
+    "last_credit": 1936,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 59,
+          "title": "The Harvester",
+          "year": 1936,
+          "position": 4
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 135,
+    "name": "Elizabeth Meehan",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1936,
+    "last_credit": 1936,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 59,
+          "title": "The Harvester",
+          "year": 1936,
+          "position": 5
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 136,
+    "name": "Nat Levine",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1936,
+    "last_credit": 1936,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 59,
+          "title": "The Harvester",
+          "year": 1936,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 137,
+    "name": "Karl Brown",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1937,
+    "last_credit": 1937,
+    "filmography": {
+      "Director": [
+        {
+          "id": 60,
+          "title": "Michael O'Halloran",
+          "year": 1937,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 138,
+    "name": "William Nigh",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1938,
+    "last_credit": 1938,
+    "filmography": {
+      "Director": [
+        {
+          "id": 61,
+          "title": "Romance of the Limberlost",
+          "year": 1938,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 139,
+    "name": "Scott R. Dunlap",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1938,
+    "last_credit": 1938,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 61,
+          "title": "Romance of the Limberlost",
+          "year": 1938,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 140,
+    "name": "Edward Dmytryk",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1940,
+    "last_credit": 1940,
+    "filmography": {
+      "Director": [
+        {
+          "id": 62,
+          "title": "Her First Romance",
+          "year": 1940,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 141,
+    "name": "I. E. Chadwick",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1940,
+    "last_credit": 1940,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 62,
+          "title": "Her First Romance",
+          "year": 1940,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 142,
+    "name": "Jack Hively",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1940,
+    "last_credit": 1940,
+    "filmography": {
+      "Director": [
+        {
+          "id": 63,
+          "title": "Laddie",
+          "year": 1940,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 143,
+    "name": "Bert Granet",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1940,
+    "last_credit": 1940,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 63,
+          "title": "Laddie",
+          "year": 1940,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 144,
+    "name": "Jerry Cady",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1940,
+    "last_credit": 1940,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 63,
+          "title": "Laddie",
+          "year": 1940,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 145,
+    "name": "Cliff Reid",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1940,
+    "last_credit": 1940,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 63,
+          "title": "Laddie",
+          "year": 1940,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 146,
+    "name": "Lee Marcus",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1940,
+    "last_credit": 1940,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 63,
+          "title": "Laddie",
+          "year": 1940,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 147,
+    "name": "Melchor Ferrer",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1945,
+    "last_credit": 1945,
+    "filmography": {
+      "Director": [
+        {
+          "id": 64,
+          "title": "The Girl of the Limberlost",
+          "year": 1945,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 149,
+    "name": "Alexis Thurn-Taxis",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1945,
+    "last_credit": 1945,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 64,
+          "title": "The Girl of the Limberlost",
+          "year": 1945,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 150,
+    "name": "John Sturges",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1947,
+    "last_credit": 1947,
+    "filmography": {
+      "Director": [
+        {
+          "id": 65,
+          "title": "Keeper of the Bees",
+          "year": 1947,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 151,
+    "name": "Lawrence Edward Watkin",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1947,
+    "last_credit": 1947,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 65,
+          "title": "Keeper of the Bees",
+          "year": 1947,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 152,
+    "name": "Malcolm Stuart Boylan",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1947,
+    "last_credit": 1947,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 65,
+          "title": "Keeper of the Bees",
+          "year": 1947,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 153,
+    "name": "Ralph Rose Jr.",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1947,
+    "last_credit": 1947,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 65,
+          "title": "Keeper of the Bees",
+          "year": 1947,
+          "position": 3
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 154,
+    "name": "John Haggott",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1947,
+    "last_credit": 1947,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 65,
+          "title": "Keeper of the Bees",
+          "year": 1947,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 155,
+    "name": "John Rawlins",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1948,
+    "last_credit": 1948,
+    "filmography": {
+      "Director": [
+        {
+          "id": 66,
+          "title": "Michael O'Halloran",
+          "year": 1948,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 156,
+    "name": "Julian Lesser",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1948,
+    "last_credit": 1948,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 66,
+          "title": "Michael O'Halloran",
+          "year": 1948,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 157,
+    "name": "Frank Melford",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1948,
+    "last_credit": 1948,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 66,
+          "title": "Michael O'Halloran",
+          "year": 1948,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 158,
+    "name": "Andrew V. McLaglen",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1960,
+    "last_credit": 1960,
+    "filmography": {
+      "Director": [
+        {
+          "id": 67,
+          "title": "Freckles",
+          "year": 1960,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 160,
+    "name": "Jean Yarbrough",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1942,
+    "last_credit": 1942,
+    "filmography": {
+      "Director": [
+        {
+          "id": 68,
+          "title": "Freckles Comes Home",
+          "year": 1942,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 161,
+    "name": "Edmond Kelso",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1942,
+    "last_credit": 1942,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 68,
+          "title": "Freckles Comes Home",
+          "year": 1942,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 162,
+    "name": "Lindsley Parsons",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1942,
+    "last_credit": 1942,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 68,
+          "title": "Freckles Comes Home",
+          "year": 1942,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 163,
+    "name": "Ralph Ince",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1918,
+    "last_credit": 1918,
+    "filmography": {
+      "Director": [
+        {
+          "id": 69,
+          "title": "The Panther Woman",
+          "year": 1918,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 165,
+    "name": "Edwin S. Porter",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1914,
+    "last_credit": 1914,
+    "filmography": {
+      "Director": [
+        {
+          "id": 70,
+          "title": "Tess of the Storm Country",
+          "year": 1914,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 166,
+    "name": "B. P. Schulberg",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1914,
+    "last_credit": 1914,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 70,
+          "title": "Tess of the Storm Country",
+          "year": 1914,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 167,
+    "name": "Daniel Frohman",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1914,
+    "last_credit": 1914,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 70,
+          "title": "Tess of the Storm Country",
+          "year": 1914,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 168,
+    "name": "Charles Miller",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1917,
+    "last_credit": 1917,
+    "filmography": {
+      "Director": [
+        {
+          "id": 71,
+          "title": "The Secret of the Storm Country",
+          "year": 1917,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 169,
+    "name": "Joseph M. Schenck",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1917,
+    "last_credit": 1917,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 71,
+          "title": "The Secret of the Storm Country",
+          "year": 1917,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 170,
+    "name": "William D. Taylor",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1920,
+    "last_credit": 1920,
+    "filmography": {
+      "Director": [
+        {
+          "id": 72,
+          "title": "Judy of Rogue's Harbor",
+          "year": 1920,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 171,
+    "name": "Clara S. Beranger",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1920,
+    "last_credit": 1920,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 72,
+          "title": "Judy of Rogue's Harbor",
+          "year": 1920,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 172,
+    "name": "Arthur H. Rosson",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1920,
+    "last_credit": 1920,
+    "filmography": {
+      "Director": [
+        {
+          "id": 73,
+          "title": "Polly of the Storm Country",
+          "year": 1920,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 173,
+    "name": "Frank M. Dazey",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1920,
+    "last_credit": 1920,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 73,
+          "title": "Polly of the Storm Country",
+          "year": 1920,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 174,
+    "name": "Grace Miller White",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1920,
+    "last_credit": 1920,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 73,
+          "title": "Polly of the Storm Country",
+          "year": 1920,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 175,
+    "name": "John S. Robertson",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1922,
+    "last_credit": 1922,
+    "filmography": {
+      "Director": [
+        {
+          "id": 74,
+          "title": "Tess of the Storm Country",
+          "year": 1922,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 176,
+    "name": "Elmer Harris",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1922,
+    "last_credit": 1922,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 74,
+          "title": "Tess of the Storm Country",
+          "year": 1922,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 179,
+    "name": "Paul Guilfoyle",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1960,
+    "last_credit": 1960,
+    "filmography": {
+      "Director": [
+        {
+          "id": 76,
+          "title": "Tess of the Storm Country",
+          "year": 1960,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 180,
+    "name": "Charles Lang",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1960,
+    "last_credit": 1960,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 76,
+          "title": "Tess of the Storm Country",
+          "year": 1960,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 181,
+    "name": "Everett Chambers",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1960,
+    "last_credit": 1960,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 76,
+          "title": "Tess of the Storm Country",
+          "year": 1960,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 182,
+    "name": "Barry O'Neil",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1910,
+    "last_credit": 1910,
+    "filmography": {
+      "Director": [
+        {
+          "id": 77,
+          "title": "Uncle Tom's Cabin",
+          "year": 1910,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 183,
+    "name": "William Robert Daly",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1914,
+    "last_credit": 1914,
+    "filmography": {
+      "Director": [
+        {
+          "id": 78,
+          "title": "Uncle Tom's Cabin",
+          "year": 1914,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 184,
+    "name": "J. V. Ritchey",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1914,
+    "last_credit": 1914,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 78,
+          "title": "Uncle Tom's Cabin",
+          "year": 1914,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 186,
+    "name": "Leon E. Dadmun",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1925,
+    "last_credit": 1925,
+    "filmography": {
+      "Director": [
+        {
+          "id": 80,
+          "title": "The Pearl of Love",
+          "year": 1925,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 187,
+    "name": "Del Lord",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1927,
+    "last_credit": 1927,
+    "filmography": {
+      "Director": [
+        {
+          "id": 81,
+          "title": "Topsy and Eva",
+          "year": 1927,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 188,
+    "name": "Lois Weber",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1927,
+    "last_credit": 1927,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 81,
+          "title": "Topsy and Eva",
+          "year": 1927,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 189,
+    "name": "Myron Selznick",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1927,
+    "last_credit": 1927,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 81,
+          "title": "Topsy and Eva",
+          "year": 1927,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 190,
+    "name": "Joseph De Grasse",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1916,
+    "last_credit": 1916,
+    "filmography": {
+      "Director": [
+        {
+          "id": 82,
+          "title": "The Place Beyond the Winds",
+          "year": 1916,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 191,
+    "name": "Ida May Park",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1916,
+    "last_credit": 1916,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 82,
+          "title": "The Place Beyond the Winds",
+          "year": 1916,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 192,
+    "name": "Harry Davenport",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1917,
+    "last_credit": 1917,
+    "filmography": {
+      "Director": [
+        {
+          "id": 83,
+          "title": "A Son of the Hills",
+          "year": 1917,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 193,
+    "name": "Joseph F. Poland",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1917,
+    "last_credit": 1917,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 83,
+          "title": "A Son of the Hills",
+          "year": 1917,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 194,
+    "name": "Louis J. Gasnier",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1921,
+    "last_credit": 1921,
+    "filmography": {
+      "Director": [
+        {
+          "id": 84,
+          "title": "Silent Years",
+          "year": 1921,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 196,
+    "name": "Hobart Henley",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1930,
+    "last_credit": 1930,
+    "filmography": {
+      "Director": [
+        {
+          "id": 85,
+          "title": "Mother's Cry",
+          "year": 1930,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 197,
+    "name": "Lenore J. Coffee",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1930,
+    "last_credit": 1930,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 85,
+          "title": "Mother's Cry",
+          "year": 1930,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 198,
+    "name": "Robert North",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1930,
+    "last_credit": 1930,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 85,
+          "title": "Mother's Cry",
+          "year": 1930,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 199,
+    "name": "D. W. Griffith",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1910,
+    "last_credit": 1910,
+    "filmography": {
+      "Director": [
+        {
+          "id": 86,
+          "title": "Ramona",
+          "year": 1910,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 200,
+    "name": "Donald Crisp",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1916,
+    "last_credit": 1916,
+    "filmography": {
+      "Director": [
+        {
+          "id": 87,
+          "title": "Ramona",
+          "year": 1916,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 201,
+    "name": "W. H. Clune",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1916,
+    "last_credit": 1916,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 87,
+          "title": "Ramona",
+          "year": 1916,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 204,
+    "name": "Henry King",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1936,
+    "last_credit": 1936,
+    "filmography": {
+      "Director": [
+        {
+          "id": 89,
+          "title": "Ramona",
+          "year": 1936,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 205,
+    "name": "Lamar Trotti",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1936,
+    "last_credit": 1936,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 89,
+          "title": "Ramona",
+          "year": 1936,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 206,
+    "name": "Sol M. Wurtzel",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1936,
+    "last_credit": 1936,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 89,
+          "title": "Ramona",
+          "year": 1936,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 207,
+    "name": "Allan Dwan",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1938,
+    "last_credit": 1938,
+    "filmography": {
+      "Director": [
+        {
+          "id": 92,
+          "title": "Rebecca of Sunnybrook Farm",
+          "year": 1938,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 208,
+    "name": "Karl Tunberg",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1938,
+    "last_credit": 1938,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 92,
+          "title": "Rebecca of Sunnybrook Farm",
+          "year": 1938,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 209,
+    "name": "Don Ettlinger",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1938,
+    "last_credit": 1938,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 92,
+          "title": "Rebecca of Sunnybrook Farm",
+          "year": 1938,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 211,
+    "name": "Catherine Carr",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1921,
+    "last_credit": 1921,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 93,
+          "title": "Nobody's Kid",
+          "year": 1921,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 212,
+    "name": "DeWitt Bodeen",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1948,
+    "last_credit": 1948,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 94,
+          "title": "I Remember Mama",
+          "year": 1948,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 213,
+    "name": "Harriet Parsons",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1948,
+    "last_credit": 1948,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 94,
+          "title": "I Remember Mama",
+          "year": 1948,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 215,
+    "name": "Katharine Kavanaugh",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1918,
+    "last_credit": 1918,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 95,
+          "title": "The Silent Woman",
+          "year": 1918,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 216,
+    "name": "Lois Zellner",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1918,
+    "last_credit": 1918,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 95,
+          "title": "The Silent Woman",
+          "year": 1918,
+          "position": 3
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 217,
+    "name": "Robert Parrish",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1955,
+    "last_credit": 1955,
+    "filmography": {
+      "Director": [
+        {
+          "id": 96,
+          "title": "Lucy Gallant",
+          "year": 1955,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 218,
+    "name": "John Lee Mahin",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1955,
+    "last_credit": 1955,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 96,
+          "title": "Lucy Gallant",
+          "year": 1955,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 219,
+    "name": "Winston Miller",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1955,
+    "last_credit": 1955,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 96,
+          "title": "Lucy Gallant",
+          "year": 1955,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 220,
+    "name": "William H. Pine",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1955,
+    "last_credit": 1955,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 96,
+          "title": "Lucy Gallant",
+          "year": 1955,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 221,
+    "name": "William C. Thomas",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1955,
+    "last_credit": 1955,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 96,
+          "title": "Lucy Gallant",
+          "year": 1955,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 223,
+    "name": "Carl Harbaugh",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1916,
+    "last_credit": 1916,
+    "filmography": {
+      "Director": [
+        {
+          "id": 98,
+          "title": "The Iron Woman",
+          "year": 1916,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 224,
+    "name": "Wallace C. Clifton",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1916,
+    "last_credit": 1916,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 98,
+          "title": "The Iron Woman",
+          "year": 1916,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 225,
+    "name": "Alice Guy Blaché",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1916,
+    "last_credit": 1916,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 98,
+          "title": "The Iron Woman",
+          "year": 1916,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 227,
+    "name": "Sidney Howard",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1939,
+    "last_credit": 1939,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 99,
+          "title": "Gone with the Wind",
+          "year": 1939,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 228,
+    "name": "Barbara Keon",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1939,
+    "last_credit": 1939,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 99,
+          "title": "Gone with the Wind",
+          "year": 1939,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 229,
+    "name": "Lydia Schiller",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1939,
+    "last_credit": 1939,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 99,
+          "title": "Gone with the Wind",
+          "year": 1939,
+          "position": 3
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 230,
+    "name": "Connie Earl",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1939,
+    "last_credit": 1939,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 99,
+          "title": "Gone with the Wind",
+          "year": 1939,
+          "position": 4
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 231,
+    "name": "David O. Selznick",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1939,
+    "last_credit": 1939,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 99,
+          "title": "Gone with the Wind",
+          "year": 1939,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 232,
+    "name": "Mrs. Wallace Reid",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1929,
+    "last_credit": 1929,
+    "filmography": {
+      "Director": [
+        {
+          "id": 100,
+          "title": "Linda",
+          "year": 1929,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 233,
+    "name": "Wilfred Noy",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1929,
+    "last_credit": 1929,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 100,
+          "title": "Linda",
+          "year": 1929,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 234,
+    "name": "Maxine Alton",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1929,
+    "last_credit": 1929,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 100,
+          "title": "Linda",
+          "year": 1929,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 235,
+    "name": "Frank O'Connor",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1929,
+    "last_credit": 1929,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 100,
+          "title": "Linda",
+          "year": 1929,
+          "position": 3
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 237,
+    "name": "Clarence Brown",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1947,
+    "last_credit": 1947,
+    "filmography": {
+      "Director": [
+        {
+          "id": 102,
+          "title": "The Yearling",
+          "year": 1947,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 238,
+    "name": "Paul Osborn",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1947,
+    "last_credit": 1947,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 102,
+          "title": "The Yearling",
+          "year": 1947,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 239,
+    "name": "Sidney Franklin",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1947,
+    "last_credit": 1947,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 102,
+          "title": "The Yearling",
+          "year": 1947,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 240,
+    "name": "Richard Thorpe",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1949,
+    "last_credit": 1949,
+    "filmography": {
+      "Director": [
+        {
+          "id": 103,
+          "title": "The Sun Comes Up",
+          "year": 1949,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 241,
+    "name": "Margaret Fitts",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1949,
+    "last_credit": 1949,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 103,
+          "title": "The Sun Comes Up",
+          "year": 1949,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 242,
+    "name": "Robert Sisk",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1949,
+    "last_credit": 1949,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 103,
+          "title": "The Sun Comes Up",
+          "year": 1949,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 243,
+    "name": "Gerald Mayer",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1953,
+    "last_credit": 1953,
+    "filmography": {
+      "Director": [
+        {
+          "id": 104,
+          "title": "Bright Road",
+          "year": 1953,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 244,
+    "name": "Emmet Lavery",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1953,
+    "last_credit": 1953,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 104,
+          "title": "Bright Road",
+          "year": 1953,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 245,
+    "name": "Sol Baer Fielding",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1953,
+    "last_credit": 1953,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 104,
+          "title": "Bright Road",
+          "year": 1953,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 246,
+    "name": "Harold Schuster",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1943,
+    "last_credit": 1943,
+    "filmography": {
+      "Director": [
+        {
+          "id": 105,
+          "title": "My Friend Flicka",
+          "year": 1943,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 247,
+    "name": "Lillie Hayward",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1943,
+    "last_credit": 1943,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 105,
+          "title": "My Friend Flicka",
+          "year": 1943,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 248,
+    "name": "Francis Edwards Faragoh",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1943,
+    "last_credit": 1943,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 105,
+          "title": "My Friend Flicka",
+          "year": 1943,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 249,
+    "name": "William Goetz",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1943,
+    "last_credit": 1943,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 105,
+          "title": "My Friend Flicka",
+          "year": 1943,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 250,
+    "name": "Ralph Dietrich",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1943,
+    "last_credit": 1943,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 105,
+          "title": "My Friend Flicka",
+          "year": 1943,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 252,
+    "name": "Martin Berkeley",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1948,
+    "last_credit": 1948,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 106,
+          "title": "Green Grass of Wyoming",
+          "year": 1948,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 254,
+    "name": "James Kirkwood",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1914,
+    "last_credit": 1914,
+    "filmography": {
+      "Director": [
+        {
+          "id": 107,
+          "title": "The Mountain Rat",
+          "year": 1914,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 255,
+    "name": "Frank E. Woods",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1914,
+    "last_credit": 1914,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 107,
+          "title": "The Mountain Rat",
+          "year": 1914,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 256,
+    "name": "Mary Rider Mechtold",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1914,
+    "last_credit": 1914,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 107,
+          "title": "The Mountain Rat",
+          "year": 1914,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 257,
+    "name": "Mary Rider",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1917,
+    "last_credit": 1917,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 108,
+          "title": "Sunshine Alley",
+          "year": 1917,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 258,
+    "name": "Chester Withey",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1917,
+    "last_credit": 1917,
+    "filmography": {
+      "Director": [
+        {
+          "id": 109,
+          "title": "An Alabaster Box",
+          "year": 1917,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 259,
+    "name": "A. Van Buren   Powell",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1917,
+    "last_credit": 1917,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 109,
+          "title": "An Alabaster Box",
+          "year": 1917,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 260,
+    "name": "Jack Ford",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1922,
+    "last_credit": 1922,
+    "filmography": {
+      "Director": [
+        {
+          "id": 111,
+          "title": "Little Miss Smiles",
+          "year": 1922,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 261,
+    "name": "Jack Strumwasser",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1922,
+    "last_credit": 1922,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 111,
+          "title": "Little Miss Smiles",
+          "year": 1922,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 262,
+    "name": "Jan Fortune",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1942,
+    "last_credit": 1942,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 112,
+          "title": "The Vanishing Virginian",
+          "year": 1942,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 263,
+    "name": "Edwin Knopf",
+    "films_directed": 0,
+    "films_written": 0,
+    "films_produced": 1,
+    "first_credit": 1942,
+    "last_credit": 1942,
+    "filmography": {
+      "Producer": [
+        {
+          "id": 112,
+          "title": "The Vanishing Virginian",
+          "year": 1942,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 264,
+    "name": "Robert Leonard",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1917,
+    "last_credit": 1917,
+    "filmography": {
+      "Director": [
+        {
+          "id": 113,
+          "title": "The Primrose Ring",
+          "year": 1917,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 265,
+    "name": "Catharine Carr",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1917,
+    "last_credit": 1917,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 113,
+          "title": "The Primrose Ring",
+          "year": 1917,
+          "position": 2
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 266,
+    "name": "William Beaudine",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1926,
+    "last_credit": 1926,
+    "filmography": {
+      "Director": [
+        {
+          "id": 114,
+          "title": "Sparrows",
+          "year": 1926,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 267,
+    "name": "C. Gardner Sullivan",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1926,
+    "last_credit": 1926,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 114,
+          "title": "Sparrows",
+          "year": 1926,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 268,
+    "name": "William C. de Mille",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1922,
+    "last_credit": 1922,
+    "filmography": {
+      "Director": [
+        {
+          "id": 115,
+          "title": "Miss Lulu Bett",
+          "year": 1922,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 269,
+    "name": "Clara Beranger",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1922,
+    "last_credit": 1922,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 115,
+          "title": "Miss Lulu Bett",
+          "year": 1922,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 271,
+    "name": "J. J. Clark",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1915,
+    "last_credit": 1915,
+    "filmography": {
+      "Director": [
+        {
+          "id": 119,
+          "title": "Gene of the Northland",
+          "year": 1915,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 272,
+    "name": "Gene Gauntier",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1915,
+    "last_credit": 1915,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 119,
+          "title": "Gene of the Northland",
+          "year": 1915,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 273,
+    "name": "Richard Ridgely",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1913,
+    "last_credit": 1913,
+    "filmography": {
+      "Director": [
+        {
+          "id": 120,
+          "title": "Janet of the Dunes",
+          "year": 1913,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 274,
+    "name": "Ashley Miller",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1913,
+    "last_credit": 1913,
+    "filmography": {
+      "Director": [
+        {
+          "id": 121,
+          "title": "Joyce of the North Woods",
+          "year": 1913,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 275,
+    "name": "Esther Eng",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1948,
+    "last_credit": 1948,
+    "filmography": {
+      "Director": [
+        {
+          "id": 122,
+          "title": "Back Street",
+          "year": 1948,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 278,
+    "name": "Harry A. Pollard",
+    "films_directed": 1,
+    "films_written": 0,
+    "films_produced": 0,
+    "first_credit": 1928,
+    "last_credit": 1928,
+    "filmography": {
+      "Director": [
+        {
+          "id": 126,
+          "title": "Uncle Tom's Cabin",
+          "year": 1928,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 279,
+    "name": "Edward J. Montagne",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1928,
+    "last_credit": 1928,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 126,
+          "title": "Uncle Tom's Cabin",
+          "year": 1928,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  },
+  {
+    "person_id": 280,
+    "name": "Dwight Cummins",
+    "films_directed": 0,
+    "films_written": 1,
+    "films_produced": 0,
+    "first_credit": 1945,
+    "last_credit": 1945,
+    "filmography": {
+      "Writer": [
+        {
+          "id": 127,
+          "title": "Thunderhead, Son of Flicka",
+          "year": 1945,
+          "position": 1
+        }
+      ]
+    },
+    "total_films": 1
+  }
+]

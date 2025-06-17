@@ -20,6 +20,10 @@ class StaticPageGenerator:
         """Generate all static pages"""
         print("Generating static pages...")
         
+        # Create CSS directory
+        css_dir = self.output_dir / 'css'
+        css_dir.mkdir(parents=True, exist_ok=True)
+        
         # Load data
         films = self.load_json('films.json')
         authors = self.load_json('authors.json')
@@ -140,93 +144,8 @@ class StaticPageGenerator:
     {json.dumps(structured_data, indent=2)}
     </script>
     
-    <style>
-        {self.get_common_styles()}
-        
-        .film-header {{
-            background: var(--primary-color);
-            color: white;
-            padding: 3rem 0;
-            margin-bottom: 2rem;
-        }}
-        
-        .film-title {{
-            font-size: 2.5rem;
-            margin-bottom: 1rem;
-        }}
-        
-        .film-meta {{
-            display: flex;
-            gap: 2rem;
-            flex-wrap: wrap;
-            opacity: 0.9;
-        }}
-        
-        .detail-grid {{
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 2rem;
-            margin-bottom: 2rem;
-        }}
-        
-        .detail-card {{
-            background: var(--card-bg);
-            padding: 1.5rem;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-        }}
-        
-        .detail-label {{
-            font-weight: 600;
-            color: var(--secondary-color);
-            margin-bottom: 0.5rem;
-        }}
-        
-        .facet-group {{
-            margin-bottom: 1.5rem;
-        }}
-        
-        .facet-group h3 {{
-            color: var(--accent-color);
-            margin-bottom: 0.5rem;
-        }}
-        
-        .subject-tags {{
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.5rem;
-        }}
-        
-        .subject-tag {{
-            padding: 0.3rem 0.8rem;
-            border-radius: 20px;
-            font-size: 0.85rem;
-        }}
-        
-        .subject-tag.primary {{
-            background: var(--accent-color);
-            color: white;
-        }}
-        
-        .subject-tag.secondary {{
-            background: var(--bg-color);
-            color: var(--secondary-color);
-        }}
-        
-        .breadcrumb {{
-            margin-bottom: 1rem;
-            color: var(--secondary-color);
-        }}
-        
-        .breadcrumb a {{
-            color: var(--accent-color);
-            text-decoration: none;
-        }}
-        
-        .breadcrumb a:hover {{
-            text-decoration: underline;
-        }}
-    </style>
+{self.get_common_styles()}
+
 </head>
 <body>
     <div class="film-header">
@@ -342,121 +261,7 @@ class StaticPageGenerator:
     }}
     </script>
     
-    <style>
-        {self.get_common_styles()}
-        
-        .author-header {{
-            background: var(--primary-color);
-            color: white;
-            padding: 3rem 0;
-            margin-bottom: 2rem;
-        }}
-        
-        .author-name {{
-            font-size: 2.5rem;
-            margin-bottom: 1rem;
-        }}
-        
-        .author-stats {{
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 2rem;
-            margin: 2rem 0;
-        }}
-        
-        .stat {{
-            text-align: center;
-        }}
-        
-        .stat-number {{
-            font-size: 3rem;
-            font-weight: bold;
-            color: var(--accent-color);
-        }}
-        
-        .stat-label {{
-            color: var(--secondary-color);
-            text-transform: uppercase;
-            font-size: 0.85rem;
-            letter-spacing: 1px;
-        }}
-        
-        .films-grid {{
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 1.5rem;
-            margin-top: 2rem;
-        }}
-        
-        .film-card {{
-            background: var(--card-bg);
-            padding: 1.5rem;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-            transition: transform 0.2s;
-        }}
-        
-        .film-card:hover {{
-            transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-        }}
-        
-        .film-card h3 {{
-            margin-bottom: 0.5rem;
-        }}
-        
-        .film-card a {{
-            color: var(--primary-color);
-            text-decoration: none;
-        }}
-        
-        .film-card a:hover {{
-            color: var(--accent-color);
-        }}
-        
-        .timeline-section {{
-            margin: 3rem 0;
-        }}
-        
-        .timeline {{
-            position: relative;
-            padding: 2rem 0;
-        }}
-        
-        .timeline-item {{
-            margin-bottom: 1rem;
-            padding-left: 3rem;
-            position: relative;
-        }}
-        
-        .timeline-item::before {{
-            content: '';
-            position: absolute;
-            left: 0;
-            top: 0.5rem;
-            width: 10px;
-            height: 10px;
-            background: var(--accent-color);
-            border-radius: 50%;
-        }}
-        
-        .survival-status {{
-            font-size: 0.85rem;
-            color: var(--secondary-color);
-        }}
-        
-        .survival-status.surviving {{
-            color: green;
-        }}
-        
-        .survival-status.lost {{
-            color: red;
-        }}
-        
-        .survival-status.partially-surviving {{
-            color: orange;
-        }}
-    </style>
+ {self.get_common_styles()}
 </head>
 <body>
     <div class="author-header">
@@ -540,28 +345,7 @@ class StaticPageGenerator:
     <meta name="description" content="Complete list of Hollywood film adaptations of American women writers' works (1910-1960)">
     <title>All Films - Hollywood Adaptations Database</title>
     
-    <style>
-        {self.get_common_styles()}
-        
-        .page-header {{
-            background: var(--primary-color);
-            color: white;
-            padding: 3rem 0;
-            margin-bottom: 2rem;
-        }}
-        
-        .films-grid {{
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 1.5rem;
-            margin-bottom: 3rem;
-        }}
-        
-        h2 {{
-            color: var(--accent-color);
-            margin: 2rem 0 1rem;
-        }}
-    </style>
+{self.get_common_styles()}
 </head>
 <body>
     <div class="page-header">
@@ -602,42 +386,7 @@ class StaticPageGenerator:
     <meta name="description" content="American women writers whose works were adapted to film (1910-1960)">
     <title>All Authors - Hollywood Adaptations Database</title>
     
-    <style>
-        {self.get_common_styles()}
-        
-        .page-header {{
-            background: var(--primary-color);
-            color: white;
-            padding: 3rem 0;
-            margin-bottom: 2rem;
-        }}
-        
-        .authors-grid {{
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 1.5rem;
-        }}
-        
-        .author-card {{
-            background: var(--card-bg);
-            padding: 1.5rem;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-        }}
-        
-        .author-card h3 {{
-            margin-bottom: 0.5rem;
-        }}
-        
-        .author-card a {{
-            color: var(--primary-color);
-            text-decoration: none;
-        }}
-        
-        .author-card a:hover {{
-            color: var(--accent-color);
-        }}
-    </style>
+ {self.get_common_styles()}
 </head>
 <body>
     <div class="page-header">
@@ -659,84 +408,8 @@ class StaticPageGenerator:
 </html>'''
     
     def get_common_styles(self):
-        """Get common CSS styles"""
-        return '''
-        :root {
-            --primary-color: #1a1a1a;
-            --secondary-color: #666;
-            --accent-color: #d4a574;
-            --bg-color: #fafafa;
-            --card-bg: #fff;
-            --border-color: #e0e0e0;
-        }
-        
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background-color: var(--bg-color);
-            color: var(--primary-color);
-            line-height: 1.6;
-        }
-        
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 20px;
-        }
-        
-        a {
-            color: var(--accent-color);
-        }
-        
-        .btn {
-            display: inline-block;
-            padding: 0.8rem 1.5rem;
-            background: var(--accent-color);
-            color: white;
-            text-decoration: none;
-            border-radius: 4px;
-            margin-top: 2rem;
-            margin-right: 1rem;
-        }
-        
-        .btn:hover {
-            background: var(--primary-color);
-        }
-        
-        .film-card, .author-card {
-            background: var(--card-bg);
-            padding: 1.5rem;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-            transition: transform 0.2s;
-        }
-        
-        .film-card:hover, .author-card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-        }
-        
-        .film-year {
-            display: inline-block;
-            background: var(--accent-color);
-            color: white;
-            padding: 0.2rem 0.6rem;
-            border-radius: 4px;
-            font-size: 0.85rem;
-            margin-bottom: 0.5rem;
-        }
-        
-        .navigation-links {
-            margin-top: 3rem;
-            padding-top: 2rem;
-            border-top: 1px solid var(--border-color);
-        }
-        '''
+        """Get link to common CSS stylesheet"""
+        return '<link rel="stylesheet" href="/css/main.css">'
     
     def get_footer_html(self):
         """Get common footer HTML"""

@@ -8,6 +8,7 @@
     "director": "Frank Borzage",
     "director_id": "53124",
     "writer": "Frances Marion",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -19,6 +20,19 @@
     "survival_notes": "",
     "viewing_format": "online",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Frank Borzage",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Frances Marion",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Children",
@@ -30,6 +44,9 @@
         "facet": "Family Relations",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Fannie Hurst"
     ]
   },
   {
@@ -41,6 +58,7 @@
     "director": "William D. Taylor",
     "director_id": "156887",
     "writer": "Clara S. Beranger",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -50,12 +68,28 @@
     "filming_location": "Los Angeles California United States|Pasadena California United States",
     "created_at": "2025-06-16 00:26:24",
     "survival_status": "lost",
+    "directors": [
+      {
+        "name": "William D. Taylor",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Clara S. Beranger",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Sisters",
         "facet": "Family Relations",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Grace Miller White"
     ]
   },
   {
@@ -66,7 +100,8 @@
     "release_date": "4 April 1920",
     "director": "Arthur H. Rosson",
     "director_id": "16186",
-    "writer": "Frank M. Dazey |54408||Grace Miller White",
+    "writer": "Frank M. Dazey & Grace Miller White",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -75,6 +110,23 @@
     "created_at": "2025-06-16 00:26:26",
     "survival_status": "lost",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Arthur H. Rosson",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Frank M. Dazey",
+        "position": 1
+      },
+      {
+        "name": "Grace Miller White",
+        "position": 2
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Kidnapping",
@@ -91,7 +143,8 @@
         "facet": "Family Relations",
         "weight": 1
       }
-    ]
+    ],
+    "authors": []
   },
   {
     "id": 33,
@@ -102,6 +155,7 @@
     "director": "Paul Powell",
     "director_id": "122247",
     "writer": "Frances Marion",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -114,6 +168,19 @@
     "archive_holdings": "Various archives",
     "viewing_format": "online",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Paul Powell",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Frances Marion",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Orphans",
@@ -125,6 +192,9 @@
         "facet": "Professions",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Eleanor H. Porter"
     ]
   },
   {
@@ -136,6 +206,7 @@
     "director": "Frances Marion",
     "director_id": "52360",
     "writer": "Frances Marion",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -148,6 +219,19 @@
     "survival_notes": "Survives",
     "archive_holdings": "UCLA Film and Television Archive",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Frances Marion",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Frances Marion",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "New York City",
@@ -159,6 +243,9 @@
         "facet": "Family Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Fannie Hurst"
     ]
   },
   {
@@ -169,7 +256,8 @@
     "release_date": "17 April 1921",
     "director": "Howard Hickman",
     "director_id": "71305",
-    "writer": "Howard Hickman|71305||Catherine Carr",
+    "writer": "Howard Hickman & Catherine Carr",
+    "producer": "",
     "genre": "Comedy-drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -181,12 +269,32 @@
     "survival_status": "unknown",
     "survival_notes": "Survives",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Howard Hickman",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Howard Hickman",
+        "position": 1
+      },
+      {
+        "name": "Catherine Carr",
+        "position": 2
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Orphans",
         "facet": "Family Relations",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Kate Langley Bosher"
     ]
   },
   {
@@ -197,7 +305,8 @@
     "release_date": "27 November 1921",
     "director": "Louis J. Gasnier",
     "director_id": "101030",
-    "writer": "Winifred Dunn|157763||Eve Unsell",
+    "writer": "Eve Unsell & Winifred Dunn",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -209,12 +318,32 @@
     "survival_status": "lost",
     "survival_notes": "lost per LOC",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Louis J. Gasnier",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Eve Unsell",
+        "position": 2
+      },
+      {
+        "name": "Winifred Dunn",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Sisters",
         "facet": "Family Relations",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Harriet Theresa Comstock"
     ]
   },
   {
@@ -226,6 +355,7 @@
     "director": "E. Mason Hopper",
     "director_id": "42274",
     "writer": "Julien Josephson",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -238,12 +368,28 @@
     "survival_notes": "",
     "viewing_format": "DVD",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "E. Mason Hopper",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Julien Josephson",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Lawyers",
         "facet": "Professions",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Anzia Yezierska"
     ]
   },
   {
@@ -254,7 +400,8 @@
     "release_date": "15 January 1922",
     "director": "Jack Ford",
     "director_id": "85693",
-    "writer": "Jack Strumwasser|76285||Dorothy Yost",
+    "writer": "Dorothy Yost & Jack Strumwasser",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "Domestic",
     "film_type": "Feature",
@@ -265,6 +412,23 @@
     "created_at": "2025-06-16 00:27:42",
     "survival_status": "lost",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Jack Ford",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Dorothy Yost",
+        "position": 2
+      },
+      {
+        "name": "Jack Strumwasser",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Physicians",
@@ -276,6 +440,9 @@
         "facet": "Family Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Myra Kelly"
     ]
   },
   {
@@ -287,6 +454,7 @@
     "director": "William C. de Mille",
     "director_id": "156814",
     "writer": "Clara Beranger",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -297,6 +465,19 @@
     "created_at": "2025-06-16 00:27:50",
     "survival_status": "unknown",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "William C. de Mille",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Clara Beranger",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Brothers",
@@ -313,6 +494,9 @@
         "facet": "Marital Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Zona Gale"
     ]
   },
   {
@@ -324,6 +508,7 @@
     "director": "John S. Robertson",
     "director_id": "76140",
     "writer": "Elmer Harris",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -336,6 +521,19 @@
     "survival_notes": "Mary Pickford version",
     "viewing_format": "online",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "John S. Robertson",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Elmer Harris",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Murder",
@@ -352,6 +550,10 @@
         "facet": "Family Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Grace Miller White",
+      "Rupert Hughes"
     ]
   },
   {
@@ -363,6 +565,7 @@
     "director": "Frank Borzage",
     "director_id": "53124",
     "writer": "John Lynch",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "Society",
     "film_type": "Feature",
@@ -372,7 +575,23 @@
     "created_at": "2025-06-16 00:25:22",
     "survival_status": "unknown",
     "last_verified": "2025-06-16",
-    "controlled_subjects": []
+    "directors": [
+      {
+        "name": "Frank Borzage",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "John Lynch",
+        "position": 1
+      }
+    ],
+    "producers": [],
+    "controlled_subjects": [],
+    "authors": [
+      "Fannie Hurst"
+    ]
   },
   {
     "id": 48,
@@ -383,6 +602,7 @@
     "director": "James Leo Meehan",
     "director_id": "78659",
     "writer": "James Leo Meehan",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -394,6 +614,19 @@
     "survival_status": "lost",
     "survival_notes": "",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "James Leo Meehan",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "James Leo Meehan",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Lawyers",
@@ -410,6 +643,9 @@
         "facet": "Social Issues",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Gene Stratton-Porter"
     ]
   },
   {
@@ -421,6 +657,7 @@
     "director": "James Leo Meehan",
     "director_id": "78659",
     "writer": "Gene Stratton Porter",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -430,7 +667,23 @@
     "survival_status": "lost",
     "survival_notes": "",
     "last_verified": "2025-06-16",
-    "controlled_subjects": []
+    "directors": [
+      {
+        "name": "James Leo Meehan",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Gene Stratton Porter",
+        "position": 1
+      }
+    ],
+    "producers": [],
+    "controlled_subjects": [],
+    "authors": [
+      "Gene Stratton-Porter"
+    ]
   },
   {
     "id": 23,
@@ -440,7 +693,8 @@
     "release_date": "28 December 1924",
     "director": "Charles Brabin",
     "director_id": "29072",
-    "writer": "Adelaide Heilbron|7388||Earl Hudson",
+    "writer": "Adelaide Heilbron & Earl Hudson",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -450,12 +704,32 @@
     "created_at": "2025-06-16 00:24:52",
     "survival_status": "lost",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Charles Brabin",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Adelaide Heilbron",
+        "position": 1
+      },
+      {
+        "name": "Earl Hudson",
+        "position": 2
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Farmers",
         "facet": "Professions",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Edna Ferber"
     ]
   },
   {
@@ -467,6 +741,7 @@
     "director": "Sidney Olcott",
     "director_id": "140654",
     "writer": "Sonya Levien",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -477,7 +752,23 @@
     "created_at": "2025-06-16 00:24:31",
     "survival_status": "lost",
     "last_verified": "2025-06-16",
-    "controlled_subjects": []
+    "directors": [
+      {
+        "name": "Sidney Olcott",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Sonya Levien",
+        "position": 1
+      }
+    ],
+    "producers": [],
+    "controlled_subjects": [],
+    "authors": [
+      "Anzia Yezierska"
+    ]
   },
   {
     "id": 50,
@@ -488,6 +779,7 @@
     "director": "James Leo Meehan",
     "director_id": "78659",
     "writer": "",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -498,12 +790,23 @@
     "created_at": "2025-06-16 00:25:44",
     "survival_status": "lost",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "James Leo Meehan",
+        "position": 1
+      }
+    ],
+    "writers": [],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Marriage",
         "facet": "Marital Relations",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Gene Stratton-Porter"
     ]
   },
   {
@@ -514,6 +817,8 @@
     "release_date": "December 1925",
     "director": "Leon E. Dadmun",
     "director_id": "97600",
+    "writer": "",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -523,7 +828,18 @@
     "created_at": "2025-06-16 00:26:39",
     "survival_status": "lost",
     "last_verified": "2025-06-16",
-    "controlled_subjects": []
+    "directors": [
+      {
+        "name": "Leon E. Dadmun",
+        "position": 1
+      }
+    ],
+    "writers": [],
+    "producers": [],
+    "controlled_subjects": [],
+    "authors": [
+      "Harriet Beecher Stowe"
+    ]
   },
   {
     "id": 51,
@@ -534,6 +850,7 @@
     "director": "James Leo Meehan",
     "director_id": "78659",
     "writer": "Jeanette Porter Meehan",
+    "producer": "",
     "genre": "Romance",
     "sub_genre": "",
     "film_type": "Feature",
@@ -544,6 +861,19 @@
     "survival_status": "lost",
     "survival_notes": "",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "James Leo Meehan",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Jeanette Porter Meehan",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Children",
@@ -560,6 +890,9 @@
         "facet": "Family Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Gene Stratton-Porter"
     ]
   },
   {
@@ -570,7 +903,8 @@
     "release_date": "31 May 1926",
     "director": "King Baggot",
     "director_id": "94156",
-    "writer": "Agnes Christine Johnston|7852||Charles Maigne",
+    "writer": "Agnes Christine Johnston & Charles Maigne",
+    "producer": "",
     "genre": "Comedy-drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -580,6 +914,23 @@
     "created_at": "2025-06-16 00:24:22",
     "survival_status": "partially lost",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "King Baggot",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Agnes Christine Johnston",
+        "position": 1
+      },
+      {
+        "name": "Charles Maigne",
+        "position": 2
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Children",
@@ -596,6 +947,9 @@
         "facet": "Family Relations",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Alice Hegan Rice"
     ]
   },
   {
@@ -606,7 +960,8 @@
     "release_date": "19 September 1926",
     "director": "William Beaudine",
     "director_id": "155156",
-    "writer": "C. Gardner Sullivan|25538||Winifred Dunn",
+    "writer": "Winifred Dunn & C. Gardner Sullivan",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -617,6 +972,23 @@
     "survival_status": "extant",
     "viewing_format": "DVD",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "William Beaudine",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Winifred Dunn",
+        "position": 2
+      },
+      {
+        "name": "C. Gardner Sullivan",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Children",
@@ -633,7 +1005,8 @@
         "facet": "Family Relations",
         "weight": 2
       }
-    ]
+    ],
+    "authors": []
   },
   {
     "id": 52,
@@ -644,6 +1017,7 @@
     "director": "James Leo Meehan",
     "director_id": "78659",
     "writer": "Dorothy Yost",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "Domestic",
     "film_type": "Feature",
@@ -654,6 +1028,19 @@
     "survival_status": "lost",
     "survival_notes": "",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "James Leo Meehan",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Dorothy Yost",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Marriage",
@@ -670,6 +1057,9 @@
         "facet": "Professions",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Gene Stratton-Porter"
     ]
   },
   {
@@ -681,6 +1071,7 @@
     "director": "James Leo Meehan",
     "director_id": "78659",
     "writer": "J. Leo Meehan",
+    "producer": "",
     "genre": "Romance",
     "sub_genre": "",
     "film_type": "Feature",
@@ -691,12 +1082,28 @@
     "survival_status": "lost",
     "survival_notes": "",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "James Leo Meehan",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "J. Leo Meehan",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Death and dying",
         "facet": "Plot Elements",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Gene Stratton-Porter"
     ]
   },
   {
@@ -708,7 +1115,7 @@
     "director": "Del Lord",
     "director_id": "37450",
     "writer": "Lois Weber",
-    "producer": "Myron Selznick|115534",
+    "producer": "Myron Selznick",
     "genre": "Melodrama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -720,6 +1127,24 @@
     "survival_status": "unknown",
     "survival_notes": "Survives",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Del Lord",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Lois Weber",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "Myron Selznick",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "African Americans",
@@ -741,6 +1166,9 @@
         "facet": "Family Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Catherine Chisholm Cushing"
     ]
   },
   {
@@ -748,12 +1176,23 @@
     "title": "Fieldwork Footage",
     "release_year": 1928,
     "director": "Zora Neale Hurston",
+    "writer": "",
+    "producer": "",
     "genre": "Documentary",
     "film_type": "Short",
     "created_at": "2025-06-16 15:23:18",
     "survival_status": "extant",
     "viewing_format": "DVD",
-    "controlled_subjects": []
+    "directors": [
+      {
+        "name": "Zora Neale Hurston",
+        "position": 1
+      }
+    ],
+    "writers": [],
+    "producers": [],
+    "controlled_subjects": [],
+    "authors": []
   },
   {
     "id": 54,
@@ -764,6 +1203,7 @@
     "director": "James Leo Meehan",
     "director_id": "78659",
     "writer": "Dorothy Yost",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "Northwest",
     "film_type": "Feature",
@@ -775,12 +1215,28 @@
     "survival_status": "lost",
     "survival_notes": "",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "James Leo Meehan",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Dorothy Yost",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Orphans",
         "facet": "Family Relations",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Gene Stratton-Porter"
     ]
   },
   {
@@ -792,6 +1248,7 @@
     "director": "Edwin Carewe",
     "director_id": "45387",
     "writer": "Finis Fox",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "Historical",
     "film_type": "Feature",
@@ -803,12 +1260,28 @@
     "survival_status": "extant",
     "last_verified": "2025-06-16",
     "music_credits": "L. Wolfe Gilbert | Mabel Wayne",
+    "directors": [
+      {
+        "name": "Edwin Carewe",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Finis Fox",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Murder",
         "facet": "Plot Elements",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Helen Hunt Jackson"
     ]
   },
   {
@@ -820,6 +1293,7 @@
     "director": "Harry A. Pollard",
     "director_id": "67404",
     "writer": "Edward J. Montagne",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -827,19 +1301,46 @@
     "literary_credits": "Harriet Beecher Stowe",
     "source_citations": "Film Daily 13 Nov 1927||Exhibitors Herald and Moving Picture World 12 Nov 1927||New York Times 5 Nov 1927||Variety 9 Nov 1927||Variety 10 Sep 1952||Variety 10 Dec 1958||Motion Picture Herald Product Digest 18 Apr 1959||Daily Variety 10 Dec 1958||Film Daily 2 Jan 1927||Afro-American [Baltimore, MD] 29 Dec 1928",
     "created_at": "2025-06-17 00:37:22",
-    "controlled_subjects": []
+    "directors": [
+      {
+        "name": "Harry A. Pollard",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Edward J. Montagne",
+        "position": 1
+      }
+    ],
+    "producers": [],
+    "controlled_subjects": [],
+    "authors": [
+      "Harriet Beecher Stowe"
+    ]
   },
   {
     "id": 117,
     "title": "Ethnographic Films",
     "release_year": 1929,
     "director": "Zora Neale Hurston",
+    "writer": "",
+    "producer": "",
     "genre": "Documentary",
     "film_type": "Short",
     "created_at": "2025-06-16 15:23:18",
     "survival_status": "extant",
     "viewing_format": "DVD",
-    "controlled_subjects": []
+    "directors": [
+      {
+        "name": "Zora Neale Hurston",
+        "position": 1
+      }
+    ],
+    "writers": [],
+    "producers": [],
+    "controlled_subjects": [],
+    "authors": []
   },
   {
     "id": 100,
@@ -849,7 +1350,8 @@
     "release_date": "1929",
     "director": "Mrs. Wallace Reid",
     "director_id": "40862",
-    "writer": "Wilfred Noy|154759||Maxine Alton|110349||Frank O'Connor",
+    "writer": "Wilfred Noy & Maxine Alton & Frank O'Connor",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -863,6 +1365,27 @@
     "viewing_format": "online",
     "last_verified": "2025-06-16",
     "music_credits": "Harry Tobias | Charles Tobias | Al Sherman",
+    "directors": [
+      {
+        "name": "Mrs. Wallace Reid",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Wilfred Noy",
+        "position": 1
+      },
+      {
+        "name": "Maxine Alton",
+        "position": 2
+      },
+      {
+        "name": "Frank O'Connor",
+        "position": 3
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Marriage",
@@ -874,6 +1397,9 @@
         "facet": "Professions",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Margaret Prescott Montague"
     ]
   }
 ]

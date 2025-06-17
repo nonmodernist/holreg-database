@@ -8,7 +8,7 @@
     "director": "Anthony Mann",
     "director_id": "14336",
     "writer": "Arnold Schulman",
-    "producer": "Edmund Grainger|44075",
+    "producer": "Edmund Grainger",
     "genre": "Western",
     "sub_genre": "",
     "film_type": "Feature",
@@ -20,6 +20,24 @@
     "survival_status": "extant",
     "last_verified": "2025-06-16",
     "music_credits": "Paul Webster | Franz Waxman",
+    "directors": [
+      {
+        "name": "Anthony Mann",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Arnold Schulman",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "Edmund Grainger",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Childbirth",
@@ -41,6 +59,9 @@
         "facet": "Family Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Edna Ferber"
     ]
   },
   {
@@ -52,7 +73,7 @@
     "director": "Andrew V. McLaglen",
     "director_id": "188991",
     "writer": "Harry Spalding",
-    "producer": "Harry Spalding|67233",
+    "producer": "Harry Spalding",
     "genre": "Adventure",
     "sub_genre": "Rural|Youth",
     "film_type": "Feature",
@@ -65,6 +86,24 @@
     "survival_notes": "Survives",
     "last_verified": "2025-06-16",
     "music_credits": "Henry Vars | By Dunham",
+    "directors": [
+      {
+        "name": "Andrew V. McLaglen",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Harry Spalding",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "Harry Spalding",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Fathers and daughters",
@@ -76,6 +115,9 @@
         "facet": "Family Relations",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Gene Stratton-Porter"
     ]
   },
   {
@@ -87,7 +129,7 @@
     "director": "Vincent Sherman",
     "director_id": "151411",
     "writer": "Harry Kleiner",
-    "producer": "Henry Blanke|69124",
+    "producer": "Henry Blanke",
     "genre": "Drama",
     "sub_genre": "Historical",
     "film_type": "Feature",
@@ -99,6 +141,24 @@
     "survival_status": "extant",
     "survival_notes": "at ucla; dvd may be out of print",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Vincent Sherman",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Harry Kleiner",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "Henry Blanke",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Childbirth",
@@ -130,6 +190,9 @@
         "facet": "Marital Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Edna Ferber"
     ]
   },
   {
@@ -141,6 +204,7 @@
     "director": "David Swift",
     "director_id": "36870",
     "writer": "David Swift",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "Domestic|with songs|Youth",
     "film_type": "Feature",
@@ -154,6 +218,19 @@
     "viewing_format": "DVD",
     "last_verified": "2025-06-16",
     "music_credits": "Samuel Augustus Ward | Katherine Lee Bates | Gil George | Paul Smith",
+    "directors": [
+      {
+        "name": "David Swift",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "David Swift",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Children",
@@ -170,6 +247,10 @@
         "facet": "Professions",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Eleanor H. Porter",
+      "David Swift"
     ]
   },
   {
@@ -181,7 +262,7 @@
     "director": "Paul Guilfoyle",
     "director_id": "121897",
     "writer": "Charles Lang",
-    "producer": "Everett Chambers|50227",
+    "producer": "Everett Chambers",
     "genre": "Drama",
     "sub_genre": "Rural",
     "film_type": "Feature",
@@ -193,6 +274,24 @@
     "survival_status": "unknown",
     "survival_notes": "Survives",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Paul Guilfoyle",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Charles Lang",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "Everett Chambers",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Farmers",
@@ -209,6 +308,10 @@
         "facet": "Family Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Grace Miller White",
+      "Rupert Hughes"
     ]
   },
   {
@@ -219,8 +322,8 @@
     "release_date": "11 October 1961",
     "director": "David Miller",
     "director_id": "36651",
-    "writer": "Eleanore Griffin|46127||William Ludwig",
-    "producer": "Ross Hunter|135474",
+    "writer": "Eleanore Griffin & William Ludwig",
+    "producer": "Ross Hunter",
     "genre": "Romance",
     "sub_genre": "",
     "film_type": "Feature",
@@ -233,6 +336,28 @@
     "viewing_format": "DVD",
     "last_verified": "2025-06-16",
     "music_credits": "Ken Darby | Frank Skinner",
+    "directors": [
+      {
+        "name": "David Miller",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Eleanore Griffin",
+        "position": 1
+      },
+      {
+        "name": "William Ludwig",
+        "position": 2
+      }
+    ],
+    "producers": [
+      {
+        "name": "Ross Hunter",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Children",
@@ -259,6 +384,9 @@
         "facet": "Family Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Fannie Hurst"
     ]
   }
 ]

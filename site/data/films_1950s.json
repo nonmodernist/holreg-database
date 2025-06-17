@@ -8,7 +8,7 @@
     "director": "Douglas Sirk",
     "director_id": "41472",
     "writer": "Joseph Hoffman",
-    "producer": "Ted Richmond|144850",
+    "producer": "Ted Richmond",
     "genre": "Comedy",
     "sub_genre": "Domestic|Historical|with songs",
     "film_type": "Feature",
@@ -18,6 +18,24 @@
     "survival_status": "unknown",
     "last_verified": "2025-06-16",
     "music_credits": "Joe Young | Sam Lewis | Ray Henderson | Harry DeCosta | Joseph Mohr | Franz Gruber | Wendell Hall | Maceo Pinkard | Jack Smith | Roy Turk | Harry Wood",
+    "directors": [
+      {
+        "name": "Douglas Sirk",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Joseph Hoffman",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "Ted Richmond",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Artists",
@@ -44,7 +62,8 @@
         "facet": "Family Relations",
         "weight": 1
       }
-    ]
+    ],
+    "authors": []
   },
   {
     "id": 104,
@@ -55,7 +74,7 @@
     "director": "Gerald Mayer",
     "director_id": "60530",
     "writer": "Emmet Lavery",
-    "producer": "Sol Baer Fielding|141273",
+    "producer": "Sol Baer Fielding",
     "genre": "Drama",
     "sub_genre": "African American|Youth",
     "film_type": "Feature",
@@ -68,6 +87,24 @@
     "viewing_format": "DVD",
     "last_verified": "2025-06-16",
     "music_credits": "Harry Belafonte | Millard Thomas",
+    "directors": [
+      {
+        "name": "Gerald Mayer",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Emmet Lavery",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "Sol Baer Fielding",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "African Americans",
@@ -89,6 +126,9 @@
         "facet": "Social Issues",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Mary Elizabeth Vroman"
     ]
   },
   {
@@ -100,7 +140,7 @@
     "director": "Robert Wise",
     "director_id": "132871",
     "writer": "John Twist",
-    "producer": "Henry Blanke|69124",
+    "producer": "Henry Blanke",
     "genre": "Drama",
     "sub_genre": "Historical|Rural",
     "film_type": "Feature",
@@ -112,6 +152,24 @@
     "survival_status": "unknown",
     "survival_notes": "Survives",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Robert Wise",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "John Twist",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "Henry Blanke",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Artists",
@@ -138,6 +196,9 @@
         "facet": "Marital Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Edna Ferber"
     ]
   },
   {
@@ -148,7 +209,8 @@
     "release_date": "March 1953",
     "director": "Fred Zinnemann",
     "director_id": "55504",
-    "writer": "Edna Anhalt|44143||Edward Anhalt",
+    "writer": "Edna Anhalt & Edward Anhalt",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "Domestic|Teenage",
     "film_type": "Feature",
@@ -162,6 +224,23 @@
     "viewing_format": "DVD",
     "last_verified": "2025-06-16",
     "music_credits": "C. D. Martin | Charles H. Gabriel | Oliver Rea | Robert Whitehead | Stanley Martineau",
+    "directors": [
+      {
+        "name": "Fred Zinnemann",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Edna Anhalt",
+        "position": 1
+      },
+      {
+        "name": "Edward Anhalt",
+        "position": 2
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "African Americans",
@@ -198,6 +277,9 @@
         "facet": "Marital Relations",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Carson McCullers"
     ]
   },
   {
@@ -208,8 +290,8 @@
     "release_date": "December 1955",
     "director": "Robert Parrish",
     "director_id": "132398",
-    "writer": "John Lee Mahin|87712||Winston Miller",
-    "producer": "William H. Pine|157053||William C. Thomas|156842",
+    "writer": "John Lee Mahin & Winston Miller",
+    "producer": "William H. Pine & William C. Thomas",
     "genre": "Romance",
     "sub_genre": "",
     "film_type": "Feature",
@@ -223,12 +305,41 @@
     "viewing_format": "online",
     "last_verified": "2025-06-16",
     "music_credits": "Jay Livingston | Ray Evans",
+    "directors": [
+      {
+        "name": "Robert Parrish",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "John Lee Mahin",
+        "position": 1
+      },
+      {
+        "name": "Winston Miller",
+        "position": 2
+      }
+    ],
+    "producers": [
+      {
+        "name": "William H. Pine",
+        "position": 1
+      },
+      {
+        "name": "William C. Thomas",
+        "position": 2
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "African Americans",
         "facet": "Social Issues",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Margaret Cousins"
     ]
   },
   {
@@ -239,8 +350,8 @@
     "release_date": "24 November 1956",
     "director": "George Stevens",
     "director_id": "59479",
-    "writer": "Fred Guiol|54999||Ivan Moffat",
-    "producer": "George Stevens|59479||Henry Ginsberg|69260",
+    "writer": "Fred Guiol & Ivan Moffat",
+    "producer": "George Stevens & Henry Ginsberg",
     "genre": "Drama",
     "sub_genre": "Historical|with songs",
     "film_type": "Feature",
@@ -254,6 +365,32 @@
     "viewing_format": "DVD",
     "last_verified": "2025-06-16",
     "music_credits": "Paul Webster | Dimitri Tiomkin",
+    "directors": [
+      {
+        "name": "George Stevens",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Fred Guiol",
+        "position": 1
+      },
+      {
+        "name": "Ivan Moffat",
+        "position": 2
+      }
+    ],
+    "producers": [
+      {
+        "name": "George Stevens",
+        "position": 1
+      },
+      {
+        "name": "Henry Ginsberg",
+        "position": 2
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Childbirth",
@@ -290,6 +427,9 @@
         "facet": "Marital Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Edna Ferber"
     ]
   },
   {
@@ -301,7 +441,7 @@
     "director": "Joseph Pevney",
     "director_id": "89611",
     "writer": "Oscar Brodney",
-    "producer": "Ross Hunter|135474",
+    "producer": "Ross Hunter",
     "genre": "Romance",
     "sub_genre": "Rural",
     "film_type": "Feature",
@@ -315,6 +455,24 @@
     "viewing_format": "DVD",
     "last_verified": "2025-06-16",
     "music_credits": "Jay Livingston | Ray Evans",
+    "directors": [
+      {
+        "name": "Joseph Pevney",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Oscar Brodney",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "Ross Hunter",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Class distinction",
@@ -326,6 +484,9 @@
         "facet": "Family Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Cid Ricketts Sumner"
     ]
   },
   {
@@ -336,8 +497,8 @@
     "release_date": "April 1959",
     "director": "Douglas Sirk",
     "director_id": "41472",
-    "writer": "Eleanore Griffin|46127||Allan Scott",
-    "producer": "Ross Hunter|135474",
+    "writer": "Eleanore Griffin & Allan Scott",
+    "producer": "Ross Hunter",
     "genre": "Melodrama",
     "sub_genre": "with songs",
     "film_type": "Feature",
@@ -351,6 +512,28 @@
     "viewing_format": "DVD",
     "last_verified": "2025-06-16",
     "music_credits": "Paul Webster | Frederick Herbert | Arnold Hughes | Sammy Fain | Earl Grant | Mahalia Jackson",
+    "directors": [
+      {
+        "name": "Douglas Sirk",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Eleanore Griffin",
+        "position": 1
+      },
+      {
+        "name": "Allan Scott",
+        "position": 2
+      }
+    ],
+    "producers": [
+      {
+        "name": "Ross Hunter",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "African Americans",
@@ -372,6 +555,9 @@
         "facet": "Social Issues",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Fannie Hurst"
     ]
   },
   {
@@ -380,10 +566,10 @@
     "title": "The Hanging Tree",
     "release_year": 1959,
     "release_date": "February 1959",
-    "director": "Delmer Daves||Karl Malden||Vincent Sherman",
+    "director": "Delmer Daves & Karl Malden & Vincent Sherman",
     "director_id": "37525",
-    "writer": "Wendell Mayes|154360||Halsted Welles",
-    "producer": "Martin Jurow|107994||Richard Shepherd|130388",
+    "writer": "Wendell Mayes & Halsted Welles",
+    "producer": "Martin Jurow & Richard Shepherd",
     "genre": "Western",
     "sub_genre": "",
     "film_type": "Feature",
@@ -396,6 +582,40 @@
     "viewing_format": "DVD",
     "last_verified": "2025-06-16",
     "music_credits": "Jerry Livingston | Mack David | Marty Robbins",
+    "directors": [
+      {
+        "name": "Delmer Daves",
+        "position": 1
+      },
+      {
+        "name": "Karl Malden",
+        "position": 2
+      },
+      {
+        "name": "Vincent Sherman",
+        "position": 3
+      }
+    ],
+    "writers": [
+      {
+        "name": "Wendell Mayes",
+        "position": 1
+      },
+      {
+        "name": "Halsted Welles",
+        "position": 2
+      }
+    ],
+    "producers": [
+      {
+        "name": "Martin Jurow",
+        "position": 1
+      },
+      {
+        "name": "Richard Shepherd",
+        "position": 2
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Physicians",
@@ -407,6 +627,9 @@
         "facet": "Professions",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Dorothy M. Johnson"
     ]
   }
 ]

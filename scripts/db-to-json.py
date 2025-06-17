@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Export Hollywood Adaptations database to JSON for static site generation
-Creates structured JSON files optimized for web consumption
+Updated to handle normalized database structure with junction tables
 """
 
 import sqlite3
@@ -24,8 +24,20 @@ class DatabaseToJsonExporter:
         
         print("Starting export process...")
         
-        # Export main datasets
-        self.export_films(conn)
+        # Check if we have normalized tables
+        cursor = conn.cursor()
+        cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='people'")
+        has_normalized = cursor.fetchone() is not None
+        
+        if has_normalized:
+            print("Detected normalized database structure")
+            self.export_films_normalized(conn)
+            self.export_people(conn)
+        else:
+            print("Using original database structure")
+            self.export_films(conn)
+        
+        # These remain the same
         self.export_authors(conn)
         self.export_controlled_vocabulary(conn)
         self.export_themes_analysis(conn)
@@ -35,11 +47,126 @@ class DatabaseToJsonExporter:
         conn.close()
         print(f"\nExport complete! Files saved to {self.output_dir}")
     
-    def export_films(self, conn):
-        """Export films with all related data"""
+    def export_films_normalized(self, conn):
+        """Export films with normalized crew data"""
         cursor = conn.cursor()
         
-        # First get all films
+        # Get all films with their normalized credits
+        cursor.execute("""
+            SELECT 
+                f.*,
+                -- Get directors as JSON array
+                (SELECT json_group_array(
+                    json_object('name', p.name, 'position', fd.position)
+                )
+                FROM film_directors fd
+                JOIN people p ON fd.person_id = p.person_id
+                WHERE fd.film_id = f.id
+                ORDER BY fd.position) as directors_json,
+                
+                -- Get writers as JSON array
+                (SELECT json_group_array(
+                    json_object('name', p.name, 'position', fw.position)
+                )
+                FROM film_writers fw
+                JOIN people p ON fw.person_id = p.person_id
+                WHERE fw.film_id = f.id
+                ORDER BY fw.position) as writers_json,
+                
+                -- Get producers as JSON array
+                (SELECT json_group_array(
+                    json_object('name', p.name, 'position', fp.position)
+                )
+                FROM film_producers fp
+                JOIN people p ON fp.person_id = p.person_id
+                WHERE fp.film_id = f.id
+                ORDER BY fp.position) as producers_json
+            FROM films f
+            ORDER BY f.release_year, f.title
+        """)
+        
+        films = []
+        for row in cursor:
+            film = dict(row)
+            
+            # Parse JSON fields
+            if film['directors_json']:
+                directors_data = json.loads(film['directors_json'])
+                # Provide both formats for flexibility
+                film['directors'] = directors_data
+                film['director'] = ' & '.join([d['name'] for d in directors_data])
+            else:
+                film['directors'] = []
+                film['director'] = film.get('director')  # Fallback to original field
+            
+            if film['writers_json']:
+                writers_data = json.loads(film['writers_json'])
+                film['writers'] = writers_data
+                film['writer'] = ' & '.join([w['name'] for w in writers_data])
+            else:
+                film['writers'] = []
+                film['writer'] = film.get('writer')
+            
+            if film['producers_json']:
+                producers_data = json.loads(film['producers_json'])
+                film['producers'] = producers_data
+                film['producer'] = ' & '.join([p['name'] for p in producers_data])
+            else:
+                film['producers'] = []
+                film['producer'] = film.get('producer')
+            
+            # Remove the JSON fields
+            film.pop('directors_json', None)
+            film.pop('writers_json', None)
+            film.pop('producers_json', None)
+            
+            # Get controlled subjects
+            subject_cursor = conn.cursor()
+            subject_cursor.execute("""
+                SELECT 
+                    ct.term,
+                    ct.facet,
+                    fsc.relevance_weight as weight
+                FROM film_subjects_controlled fsc
+                JOIN controlled_terms ct ON fsc.term_id = ct.term_id
+                WHERE fsc.film_id = ?
+                ORDER BY fsc.relevance_weight DESC, ct.term
+            """, (film['id'],))
+            
+            film['controlled_subjects'] = [
+                {'term': s['term'], 'facet': s['facet'], 'weight': s['weight']}
+                for s in subject_cursor
+            ]
+            
+            # Handle multiple authors if they exist
+            if film.get('literary_credits') and '|' in film['literary_credits']:
+                film['authors'] = [a.strip() for a in film['literary_credits'].split('|')]
+            else:
+                film['authors'] = [film['literary_credits']] if film.get('literary_credits') else []
+            
+            # Clean up None values
+            film = {k: v for k, v in film.items() if v is not None}
+            
+            films.append(film)
+        
+        # Save full dataset
+        self._save_json(films, 'films.json')
+        
+        # Also create smaller files by decade
+        by_decade = defaultdict(list)
+        for film in films:
+            decade = (film['release_year'] // 10) * 10
+            by_decade[decade].append(film)
+        
+        for decade, decade_films in by_decade.items():
+            self._save_json(decade_films, f'films_{decade}s.json')
+        
+        print(f"Exported {len(films)} films (normalized structure)")
+    
+    def export_films(self, conn):
+        """Export films with original structure (fallback)"""
+        cursor = conn.cursor()
+        
         cursor.execute("""
             SELECT * FROM films
             ORDER BY release_year, title
@@ -49,7 +176,7 @@ class DatabaseToJsonExporter:
         for row in cursor:
             film = dict(row)
             
-            # Get controlled subjects for this film
+            # Get controlled subjects
             subject_cursor = conn.cursor()
             subject_cursor.execute("""
                 SELECT 
@@ -72,10 +199,8 @@ class DatabaseToJsonExporter:
             
             films.append(film)
         
-        # Save full dataset
         self._save_json(films, 'films.json')
         
-        # Also create smaller files by decade for performance
         by_decade = defaultdict(list)
         for film in films:
             decade = (film['release_year'] // 10) * 10
@@ -86,35 +211,175 @@ class DatabaseToJsonExporter:
         
         print(f"Exported {len(films)} films")
     
+    def export_people(self, conn):
+        """Export people data (directors, writers, producers)"""
+        cursor = conn.cursor()
+        
+        # Check if people table exists
+        cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='people'")
+        if not cursor.fetchone():
+            print("Skipping people export (table not found)")
+            return
+        
+        cursor.execute("""
+            SELECT 
+                p.person_id,
+                p.name,
+                COUNT(DISTINCT fd.film_id) as films_directed,
+                COUNT(DISTINCT fw.film_id) as films_written,
+                COUNT(DISTINCT fp.film_id) as films_produced,
+                MIN(COALESCE(fd_films.min_year, COALESCE(fw_films.min_year, fp_films.min_year))) as first_credit,
+                MAX(COALESCE(fd_films.max_year, COALESCE(fw_films.max_year, fp_films.max_year))) as last_credit
+            FROM people p
+            LEFT JOIN film_directors fd ON p.person_id = fd.person_id
+            LEFT JOIN film_writers fw ON p.person_id = fw.person_id
+            LEFT JOIN film_producers fp ON p.person_id = fp.person_id
+            LEFT JOIN (
+                SELECT fd.person_id, MIN(f.release_year) as min_year, MAX(f.release_year) as max_year
+                FROM film_directors fd
+                JOIN films f ON fd.film_id = f.id
+                GROUP BY fd.person_id
+            ) fd_films ON p.person_id = fd_films.person_id
+            LEFT JOIN (
+                SELECT fw.person_id, MIN(f.release_year) as min_year, MAX(f.release_year) as max_year
+                FROM film_writers fw
+                JOIN films f ON fw.film_id = f.id
+                GROUP BY fw.person_id
+            ) fw_films ON p.person_id = fw_films.person_id
+            LEFT JOIN (
+                SELECT fp.person_id, MIN(f.release_year) as min_year, MAX(f.release_year) as max_year
+                FROM film_producers fp
+                JOIN films f ON fp.film_id = f.id
+                GROUP BY fp.person_id
+            ) fp_films ON p.person_id = fp_films.person_id
+            GROUP BY p.person_id
+            HAVING (films_directed + films_written + films_produced) > 0
+            ORDER BY (films_directed + films_written + films_produced) DESC
+        """)
+        
+        people = []
+        for row in cursor:
+            person = dict(row)
+            
+            # Get filmography
+            film_cursor = conn.cursor()
+            film_cursor.execute("""
+                SELECT 
+                    f.id,
+                    f.title,
+                    f.release_year,
+                    'Director' as role,
+                    fd.position
+                FROM film_directors fd
+                JOIN films f ON fd.film_id = f.id
+                WHERE fd.person_id = ?
+                
+                UNION ALL
+                
+                SELECT 
+                    f.id,
+                    f.title,
+                    f.release_year,
+                    'Writer' as role,
+                    fw.position
+                FROM film_writers fw
+                JOIN films f ON fw.film_id = f.id
+                WHERE fw.person_id = ?
+                
+                UNION ALL
+                
+                SELECT 
+                    f.id,
+                    f.title,
+                    f.release_year,
+                    'Producer' as role,
+                    fp.position
+                FROM film_producers fp
+                JOIN films f ON fp.film_id = f.id
+                WHERE fp.person_id = ?
+                
+                ORDER BY release_year, title
+            """, (person['person_id'], person['person_id'], person['person_id']))
+            
+            filmography = defaultdict(list)
+            for film in film_cursor:
+                filmography[film['role']].append({
+                    'id': film['id'],
+                    'title': film['title'],
+                    'year': film['release_year'],
+                    'position': film['position']
+                })
+            
+            person['filmography'] = dict(filmography)
+            person['total_films'] = len(set(
+                f['id'] for role_films in filmography.values() 
+                for f in role_films
+            ))
+            
+            people.append(person)
+        
+        self._save_json(people, 'people.json')
+        print(f"Exported {len(people)} people")
+    
     def export_authors(self, conn):
         """Export author data with their adaptations"""
         cursor = conn.cursor()
         
-        # Get unique authors with counts
-        cursor.execute("""
-            SELECT 
-                literary_credits as author,
-                COUNT(*) as adaptation_count,
-                MIN(release_year) as first_adaptation,
-                MAX(release_year) as last_adaptation
-            FROM films
-            WHERE literary_credits IS NOT NULL AND literary_credits != ''
-            GROUP BY literary_credits
-            ORDER BY adaptation_count DESC, author
-        """)
+        # Check if we have normalized authors table
+        cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='authors'")
+        has_authors_table = cursor.fetchone() is not None
+        
+        if has_authors_table:
+            # Use normalized structure
+            cursor.execute("""
+                SELECT 
+                    a.author_id,
+                    a.name as author,
+                    COUNT(DISTINCT fa.film_id) as adaptation_count,
+                    MIN(f.release_year) as first_adaptation,
+                    MAX(f.release_year) as last_adaptation
+                FROM authors a
+                JOIN film_authors fa ON a.author_id = fa.author_id
+                JOIN films f ON fa.film_id = f.id
+                GROUP BY a.author_id
+                ORDER BY adaptation_count DESC, a.name
+            """)
+        else:
+            # Use original structure
+            cursor.execute("""
+                SELECT 
+                    literary_credits as author,
+                    COUNT(*) as adaptation_count,
+                    MIN(release_year) as first_adaptation,
+                    MAX(release_year) as last_adaptation
+                FROM films
+                WHERE literary_credits IS NOT NULL AND literary_credits != ''
+                GROUP BY literary_credits
+                ORDER BY adaptation_count DESC, author
+            """)
         
         authors = []
         for row in cursor:
             author = row['author']
             
             # Get all films for this author
-            films_cursor = conn.cursor()
-            films_cursor.execute("""
-                SELECT id, title, release_year, survival_status
-                FROM films
-                WHERE literary_credits = ?
-                ORDER BY release_year
-            """, (author,))
+            if has_authors_table:
+                films_cursor = conn.cursor()
+                films_cursor.execute("""
+                    SELECT f.id, f.title, f.release_year, f.survival_status
+                    FROM films f
+                    JOIN film_authors fa ON f.id = fa.film_id
+                    WHERE fa.author_id = ?
+                    ORDER BY f.release_year
+                """, (row['author_id'],))
+            else:
+                films_cursor = conn.cursor()
+                films_cursor.execute("""
+                    SELECT id, title, release_year, survival_status
+                    FROM films
+                    WHERE literary_credits = ?
+                    ORDER BY release_year
+                """, (author,))
             
             films = [
                 {
@@ -143,21 +408,11 @@ class DatabaseToJsonExporter:
         """Export controlled vocabulary structure"""
         cursor = conn.cursor()
         
-        # First check what columns exist in controlled_terms
-        cursor.execute("PRAGMA table_info(controlled_terms)")
-        columns = [col[1] for col in cursor.fetchall()]
-        
-        # Build query based on available columns
-        select_fields = ['ct.facet', 'ct.term']
-        if 'broader_term' in columns:
-            select_fields.append('ct.broader_term')
-        if 'scope_note' in columns:
-            select_fields.append('ct.scope_note')
-        
         # Get vocabulary organized by facet
-        cursor.execute(f"""
+        cursor.execute("""
             SELECT 
-                {', '.join(select_fields)},
+                ct.facet,
+                ct.term,
                 COUNT(DISTINCT fsc.film_id) as usage_count
             FROM controlled_terms ct
             LEFT JOIN film_subjects_controlled fsc ON ct.term_id = fsc.term_id
@@ -172,16 +427,8 @@ class DatabaseToJsonExporter:
                 'term': row_dict['term'],
                 'usage_count': row_dict['usage_count']
             }
-            
-            # Add optional fields if they exist
-            if 'broader_term' in row_dict:
-                term_data['broader_term'] = row_dict.get('broader_term')
-            if 'scope_note' in row_dict:
-                term_data['scope_note'] = row_dict.get('scope_note')
-                
             vocabulary[row_dict['facet']].append(term_data)
         
-        # Convert to list format for JSON
         vocab_list = []
         for facet, terms in vocabulary.items():
             vocab_list.append({
@@ -274,38 +521,72 @@ class DatabaseToJsonExporter:
         """Create a search index for client-side searching"""
         cursor = conn.cursor()
         
-        cursor.execute("""
-            SELECT 
-                f.id,
-                f.title,
-                f.release_year,
-                f.literary_credits,
-                f.director,
-                f.subjects,
-                GROUP_CONCAT(ct.term) as controlled_terms
-            FROM films f
-            LEFT JOIN film_subjects_controlled fsc ON f.id = fsc.film_id
-            LEFT JOIN controlled_terms ct ON fsc.term_id = ct.term_id
-            GROUP BY f.id
-        """)
+        # Check if we have normalized structure
+        cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='people'")
+        has_normalized = cursor.fetchone() is not None
+        
+        if has_normalized:
+            cursor.execute("""
+                SELECT 
+                    f.id,
+                    f.title,
+                    f.release_year,
+                    f.literary_credits,
+                    (SELECT GROUP_CONCAT(p.name, ' ')
+                     FROM film_directors fd
+                     JOIN people p ON fd.person_id = p.person_id
+                     WHERE fd.film_id = f.id) as directors,
+                    (SELECT GROUP_CONCAT(p.name, ' ')
+                     FROM film_writers fw
+                     JOIN people p ON fw.person_id = p.person_id
+                     WHERE fw.film_id = f.id) as writers,
+                    f.subjects,
+                    GROUP_CONCAT(ct.term, ' ') as controlled_terms
+                FROM films f
+                LEFT JOIN film_subjects_controlled fsc ON f.id = fsc.film_id
+                LEFT JOIN controlled_terms ct ON fsc.term_id = ct.term_id
+                GROUP BY f.id
+            """)
+        else:
+            cursor.execute("""
+                SELECT 
+                    f.id,
+                    f.title,
+                    f.release_year,
+                    f.literary_credits,
+                    f.director,
+                    f.writer,
+                    f.subjects,
+                    GROUP_CONCAT(ct.term, ' ') as controlled_terms
+                FROM films f
+                LEFT JOIN film_subjects_controlled fsc ON f.id = fsc.film_id
+                LEFT JOIN controlled_terms ct ON fsc.term_id = ct.term_id
+                GROUP BY f.id
+            """)
         
         search_index = []
         for row in cursor:
+            # Convert Row to dict to use .get()
+            row_dict = dict(row)
+            
             # Create searchable text
-            searchable = ' '.join(filter(None, [
-                row['title'],
-                str(row['release_year']),
-                row['literary_credits'],
-                row['director'],
-                row['subjects'],
-                row['controlled_terms']
-            ])).lower()
+            searchable_parts = [
+                row_dict['title'],
+                str(row_dict['release_year']),
+                row_dict['literary_credits'],
+                row_dict.get('directors') or row_dict.get('director'),
+                row_dict.get('writers') or row_dict.get('writer'),
+                row_dict['subjects'],
+                row_dict['controlled_terms']
+            ]
+            
+            searchable = ' '.join(filter(None, searchable_parts)).lower()
             
             search_index.append({
-                'id': row['id'],
-                'title': row['title'],
-                'year': row['release_year'],
-                'author': row['literary_credits'],
+                'id': row_dict['id'],
+                'title': row_dict['title'],
+                'year': row_dict['release_year'],
+                'author': row_dict['literary_credits'],
                 'searchable': searchable
             })
         
@@ -329,6 +610,14 @@ class DatabaseToJsonExporter:
         cursor.execute("SELECT COUNT(*) FROM controlled_terms")
         total_terms = cursor.fetchone()[0]
         
+        # Check for people table
+        cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='people'")
+        if cursor.fetchone():
+            cursor.execute("SELECT COUNT(*) FROM people")
+            total_people = cursor.fetchone()[0]
+        else:
+            total_people = None
+        
         metadata = {
             'title': 'Hollywood Adaptations of American Women Writers',
             'subtitle': 'Film Adaptations Database (1910-1960)',
@@ -344,6 +633,9 @@ class DatabaseToJsonExporter:
             },
             'last_updated': datetime.now().strftime('%B %d, %Y')
         }
+        
+        if total_people:
+            metadata['statistics']['total_people'] = total_people
         
         self._save_json(metadata, 'metadata.json')
         print("Exported site metadata")

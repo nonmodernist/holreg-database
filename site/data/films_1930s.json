@@ -8,7 +8,7 @@
     "director": "Hobart Henley",
     "director_id": "70829",
     "writer": "Lenore J. Coffee",
-    "producer": "Robert North|132360",
+    "producer": "Robert North",
     "genre": "Drama",
     "sub_genre": "Domestic",
     "film_type": "Feature",
@@ -19,6 +19,24 @@
     "created_at": "2025-06-16 00:26:53",
     "survival_status": "unknown",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Hobart Henley",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Lenore J. Coffee",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "Robert North",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Murder",
@@ -30,6 +48,9 @@
         "facet": "Family Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Helen Grace Carlisle"
     ]
   },
   {
@@ -41,7 +62,7 @@
     "director": "Richard Thomas",
     "director_id": "130453",
     "writer": "Bert Levino",
-    "producer": "Charles Goetz |30336",
+    "producer": "Charles Goetz",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -51,7 +72,28 @@
     "created_at": "2025-06-16 00:24:35",
     "survival_status": "unknown",
     "last_verified": "2025-06-16",
-    "controlled_subjects": []
+    "directors": [
+      {
+        "name": "Richard Thomas",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Bert Levino",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "Charles Goetz",
+        "position": 1
+      }
+    ],
+    "controlled_subjects": [],
+    "authors": [
+      "Bess Streeter Aldrich"
+    ]
   },
   {
     "id": 24,
@@ -62,7 +104,7 @@
     "director": "Wesley Ruggles",
     "director_id": "154535",
     "writer": "Howard Estabrook",
-    "producer": "William LeBaron|155953",
+    "producer": "William LeBaron",
     "genre": "Drama",
     "sub_genre": "Historical",
     "film_type": "Feature",
@@ -75,6 +117,24 @@
     "survival_notes": "",
     "viewing_format": "DVD",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Wesley Ruggles",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Howard Estabrook",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "William LeBaron",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "African Americans",
@@ -111,6 +171,9 @@
         "facet": "Family Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Edna Ferber"
     ]
   },
   {
@@ -122,7 +185,7 @@
     "director": "John M. Stahl",
     "director_id": "87744",
     "writer": "Gladys Lehman",
-    "producer": "Carl Laemmle Jr.|26765",
+    "producer": "Carl Laemmle Jr.",
     "genre": "Melodrama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -134,6 +197,24 @@
     "survival_notes": "Available online",
     "viewing_format": "online",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "John M. Stahl",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Gladys Lehman",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "Carl Laemmle Jr.",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Death and dying",
@@ -155,6 +236,9 @@
         "facet": "Marital Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Fannie Hurst"
     ]
   },
   {
@@ -165,7 +249,8 @@
     "release_date": "3 July 1932",
     "director": "Alfred Santell",
     "director_id": "10579",
-    "writer": "S. N. Behrman|137351||Sonya Levien",
+    "writer": "Sonya Levien & S. N. Behrman",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "Rural",
     "film_type": "Feature",
@@ -178,6 +263,23 @@
     "archive_holdings": "UCLA Film and Television Archive",
     "last_verified": "2025-06-16",
     "music_credits": "James F. Hanley | Charlotte Thompson",
+    "directors": [
+      {
+        "name": "Alfred Santell",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Sonya Levien",
+        "position": 2
+      },
+      {
+        "name": "S. N. Behrman",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Childbirth",
@@ -194,6 +296,9 @@
         "facet": "Marital Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Kate Douglas Wiggin"
     ]
   },
   {
@@ -204,7 +309,8 @@
     "release_date": "30 April 1932",
     "director": "William A. Wellman",
     "director_id": "156757",
-    "writer": "J. Grubb Alexander|74505||Robert Lord",
+    "writer": "J. Grubb Alexander & Robert Lord",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "Historical|Rural",
     "film_type": "Feature",
@@ -215,6 +321,23 @@
     "survival_status": "unknown",
     "survival_notes": "Survives",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "William A. Wellman",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "J. Grubb Alexander",
+        "position": 1
+      },
+      {
+        "name": "Robert Lord",
+        "position": 2
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Artists",
@@ -246,6 +369,9 @@
         "facet": "Professions",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Edna Ferber"
     ]
   },
   {
@@ -256,7 +382,8 @@
     "release_date": "20 November 1932",
     "director": "Alfred Santell",
     "director_id": "10579",
-    "writer": "S. N. Behrman|137351||Sonya Levien",
+    "writer": "Sonya Levien & S. N. Behrman",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -268,6 +395,23 @@
     "survival_notes": "Survives",
     "last_verified": "2025-06-16",
     "music_credits": "Will Jason | Val Burton",
+    "directors": [
+      {
+        "name": "Alfred Santell",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Sonya Levien",
+        "position": 2
+      },
+      {
+        "name": "S. N. Behrman",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Fathers and daughters",
@@ -284,6 +428,10 @@
         "facet": "Plot Elements",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Grace Miller White",
+      "Rupert Hughes"
     ]
   },
   {
@@ -295,6 +443,7 @@
     "director": "Christy Cabanne",
     "director_id": "31877",
     "writer": "Adele Comandini",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "Rural",
     "film_type": "Feature",
@@ -306,6 +455,19 @@
     "survival_status": "extant",
     "viewing_format": "online",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Christy Cabanne",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Adele Comandini",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Childbirth",
@@ -327,6 +489,9 @@
         "facet": "Plot Elements",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Gene Stratton-Porter"
     ]
   },
   {
@@ -338,7 +503,7 @@
     "director": "John M. Stahl",
     "director_id": "87744",
     "writer": "William Hurlbut",
-    "producer": "Carl Laemmle Jr.|26765",
+    "producer": "Carl Laemmle Jr.",
     "genre": "Melodrama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -350,6 +515,24 @@
     "survival_notes": "Criterion Collection",
     "viewing_format": "DVD",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "John M. Stahl",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "William Hurlbut",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "Carl Laemmle Jr.",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Mothers and daughters",
@@ -366,6 +549,9 @@
         "facet": "Plot Elements",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Fannie Hurst"
     ]
   },
   {
@@ -376,8 +562,8 @@
     "release_date": "19 October 1934",
     "director": "Norman Taurog",
     "director_id": "118608",
-    "writer": "William Slavens McNutt|157409||Jane Storm",
-    "producer": "Douglas MacLean|41431",
+    "writer": "William Slavens McNutt & Jane Storm",
+    "producer": "Douglas MacLean",
     "genre": "Melodrama",
     "sub_genre": "Domestic",
     "film_type": "Feature",
@@ -388,6 +574,28 @@
     "created_at": "2025-06-16 00:24:24",
     "survival_status": "extant",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Norman Taurog",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "William Slavens McNutt",
+        "position": 1
+      },
+      {
+        "name": "Jane Storm",
+        "position": 2
+      }
+    ],
+    "producers": [
+      {
+        "name": "Douglas MacLean",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Children",
@@ -419,6 +627,10 @@
         "facet": "Marital Relations",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Alice Hegan Rice",
+      "Anne Crawford Flexner"
     ]
   },
   {
@@ -427,9 +639,10 @@
     "title": "Freckles",
     "release_year": 1935,
     "release_date": "4 October 1935",
-    "director": "Edward Killy||William Hamilton",
+    "director": "Edward Killy & William Hamilton",
     "director_id": "155729",
-    "writer": "Dorothy Yost|41198||Mary Mayes",
+    "writer": "Dorothy Yost & Mary Mayes",
+    "producer": "",
     "genre": "Drama",
     "sub_genre": "Gangster   |Rural|Youth",
     "film_type": "Feature",
@@ -440,6 +653,27 @@
     "survival_status": "unknown",
     "survival_notes": "Survives",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Edward Killy",
+        "position": 1
+      },
+      {
+        "name": "William Hamilton",
+        "position": 2
+      }
+    ],
+    "writers": [
+      {
+        "name": "Dorothy Yost",
+        "position": 1
+      },
+      {
+        "name": "Mary Mayes",
+        "position": 2
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Orphans",
@@ -456,6 +690,9 @@
         "facet": "Family Relations",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Gene Stratton-Porter"
     ]
   },
   {
@@ -466,8 +703,8 @@
     "release_date": "5 April 1935",
     "director": "George Stevens",
     "director_id": "59479",
-    "writer": "Ray Harris|127789||Dorothy Yost",
-    "producer": "William Sistrom|156417",
+    "writer": "Dorothy Yost & Ray Harris",
+    "producer": "William Sistrom",
     "genre": "Comedy-drama",
     "sub_genre": "Domestic|Historical|Rural",
     "film_type": "Feature",
@@ -478,6 +715,28 @@
     "created_at": "2025-06-16 00:25:56",
     "survival_status": "unknown",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "George Stevens",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Dorothy Yost",
+        "position": 2
+      },
+      {
+        "name": "Ray Harris",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "William Sistrom",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Children",
@@ -509,6 +768,9 @@
         "facet": "Marital Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Gene Stratton-Porter"
     ]
   },
   {
@@ -520,6 +782,7 @@
     "director": "Christy Cabanne",
     "director_id": "31877",
     "writer": "Adele Buffington",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "Rural",
     "film_type": "Feature",
@@ -531,6 +794,19 @@
     "survival_status": "extant",
     "viewing_format": "online",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Christy Cabanne",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Adele Buffington",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Mothers and daughters",
@@ -562,6 +838,9 @@
         "facet": "Marital Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Gene Stratton-Porter"
     ]
   },
   {
@@ -570,10 +849,10 @@
     "title": "Come and Get It",
     "release_year": 1936,
     "release_date": "6 November 1936",
-    "director": "Howard Hawks||William Wyler",
+    "director": "Howard Hawks & William Wyler",
     "director_id": "156648",
-    "writer": "Jane Murfin|79295||Jules Furthman",
-    "producer": "Samuel Goldwyn|138284",
+    "writer": "Jane Murfin & Jules Furthman",
+    "producer": "Samuel Goldwyn",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -585,6 +864,32 @@
     "survival_status": "extant",
     "last_verified": "2025-06-16",
     "music_credits": "George R. Poulton | W. W. Fosdick",
+    "directors": [
+      {
+        "name": "Howard Hawks",
+        "position": 1
+      },
+      {
+        "name": "William Wyler",
+        "position": 2
+      }
+    ],
+    "writers": [
+      {
+        "name": "Jane Murfin",
+        "position": 1
+      },
+      {
+        "name": "Jules Furthman",
+        "position": 2
+      }
+    ],
+    "producers": [
+      {
+        "name": "Samuel Goldwyn",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Marriage",
@@ -596,6 +901,9 @@
         "facet": "Family Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Edna Ferber"
     ]
   },
   {
@@ -607,7 +915,7 @@
     "director": "Henry King",
     "director_id": "69358",
     "writer": "Lamar Trotti",
-    "producer": "Sol M. Wurtzel|141280",
+    "producer": "Sol M. Wurtzel",
     "genre": "Drama",
     "sub_genre": "Historical",
     "film_type": "Feature",
@@ -619,6 +927,24 @@
     "survival_status": "extant",
     "last_verified": "2025-06-16",
     "music_credits": "Mabel Wayne | L. Wolfe Gilbert | William Kernell",
+    "directors": [
+      {
+        "name": "Henry King",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Lamar Trotti",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "Sol M. Wurtzel",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Marriage",
@@ -645,6 +971,9 @@
         "facet": "Professions",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Helen Hunt Jackson"
     ]
   },
   {
@@ -655,8 +984,8 @@
     "release_date": "5 May 1936",
     "director": "Joseph Santley",
     "director_id": "89655",
-    "writer": "Gertrude Orr|61035||Homer Croy|70916||David Silverstein|36835||Robert Lee Johnson|133244||Elizabeth Meehan",
-    "producer": "Nat Levine|116233",
+    "writer": "Gertrude Orr & Homer Croy & David Silverstein & Robert Lee Johnson & Elizabeth Meehan",
+    "producer": "Nat Levine",
     "genre": "Comedy-drama",
     "sub_genre": "Rural",
     "film_type": "Feature",
@@ -668,6 +997,40 @@
     "survival_notes": "Survives",
     "archive_holdings": "UCLA Film and Television Archive",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Joseph Santley",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Gertrude Orr",
+        "position": 1
+      },
+      {
+        "name": "Homer Croy",
+        "position": 2
+      },
+      {
+        "name": "David Silverstein",
+        "position": 3
+      },
+      {
+        "name": "Robert Lee Johnson",
+        "position": 4
+      },
+      {
+        "name": "Elizabeth Meehan",
+        "position": 5
+      }
+    ],
+    "producers": [
+      {
+        "name": "Nat Levine",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Farmers",
@@ -684,6 +1047,9 @@
         "facet": "Marital Relations",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Gene Stratton-Porter"
     ]
   },
   {
@@ -695,6 +1061,7 @@
     "director": "Karl Brown",
     "director_id": "92053",
     "writer": "Adele Buffington",
+    "producer": "",
     "genre": "Melodrama",
     "sub_genre": "Domestic",
     "film_type": "Feature",
@@ -706,6 +1073,19 @@
     "survival_notes": "at UCLA? private collection, missing a reel, shown at Cinefest 2006",
     "archive_holdings": "UCLA Film and Television Archive",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Karl Brown",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Adele Buffington",
+        "position": 1
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Children",
@@ -727,6 +1107,9 @@
         "facet": "Plot Elements",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Gene Stratton-Porter"
     ]
   },
   {
@@ -738,7 +1121,7 @@
     "director": "Oscar Micheaux",
     "director_id": "119611",
     "writer": "Oscar Micheaux",
-    "producer": "Oscar Micheaux|119611",
+    "producer": "Oscar Micheaux",
     "genre": "Drama",
     "sub_genre": "African American|Crime",
     "film_type": "Feature",
@@ -750,6 +1133,24 @@
     "viewing_format": "online",
     "last_verified": "2025-06-16",
     "music_credits": "Harry Woods | Irving Mills | Duke Ellington",
+    "directors": [
+      {
+        "name": "Oscar Micheaux",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Oscar Micheaux",
+        "position": 1
+      }
+    ],
+    "producers": [
+      {
+        "name": "Oscar Micheaux",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "African Americans",
@@ -766,6 +1167,9 @@
         "facet": "Plot Elements",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Edna Mae Baker"
     ]
   },
   {
@@ -776,7 +1180,8 @@
     "release_date": "18 March 1938",
     "director": "Allan Dwan",
     "director_id": "11207",
-    "writer": "Karl Tunberg|92154||Don Ettlinger",
+    "writer": "Karl Tunberg & Don Ettlinger",
+    "producer": "",
     "genre": "Musical comedy",
     "sub_genre": "Youth",
     "film_type": "Feature",
@@ -787,6 +1192,23 @@
     "survival_status": "extant",
     "last_verified": "2025-06-16",
     "music_credits": "Ted Koehler | Ray Henderson | Sidney Clare | Richard A. Whiting | Jack Yellen | Samuel Pokrass | Sidney D. Mitchell | Lew Pollack | Harry Revel | Mack Gordon | Raymond Scott Quintet",
+    "directors": [
+      {
+        "name": "Allan Dwan",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Karl Tunberg",
+        "position": 1
+      },
+      {
+        "name": "Don Ettlinger",
+        "position": 2
+      }
+    ],
+    "producers": [],
     "controlled_subjects": [
       {
         "term": "Children",
@@ -803,6 +1225,9 @@
         "facet": "Professions",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Kate Douglas Wiggin"
     ]
   },
   {
@@ -813,7 +1238,8 @@
     "release_date": "22 June 1938",
     "director": "William Nigh",
     "director_id": "156157",
-    "producer": "Scott R. Dunlap|139054",
+    "writer": "",
+    "producer": "Scott R. Dunlap",
     "genre": "Drama",
     "sub_genre": "",
     "film_type": "Feature",
@@ -824,6 +1250,19 @@
     "survival_status": "extant",
     "viewing_format": "online",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "William Nigh",
+        "position": 1
+      }
+    ],
+    "writers": [],
+    "producers": [
+      {
+        "name": "Scott R. Dunlap",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "Lawyers",
@@ -845,6 +1284,9 @@
         "facet": "Social Issues",
         "weight": 1
       }
+    ],
+    "authors": [
+      "Gene Stratton-Porter"
     ]
   },
   {
@@ -855,8 +1297,8 @@
     "release_date": "December 1939",
     "director": "Victor Fleming",
     "director_id": "150912",
-    "writer": "Sidney Howard|140606||Barbara Keon|17722||Lydia Schiller|102711||Connie Earl",
-    "producer": "David O. Selznick|37056",
+    "writer": "Sidney Howard & Barbara Keon & Lydia Schiller & Connie Earl",
+    "producer": "David O. Selznick",
     "genre": "Romance",
     "sub_genre": "Civil War",
     "film_type": "Feature",
@@ -870,6 +1312,36 @@
     "archive_holdings": "Library of Congress",
     "viewing_format": "DVD",
     "last_verified": "2025-06-16",
+    "directors": [
+      {
+        "name": "Victor Fleming",
+        "position": 1
+      }
+    ],
+    "writers": [
+      {
+        "name": "Sidney Howard",
+        "position": 1
+      },
+      {
+        "name": "Barbara Keon",
+        "position": 2
+      },
+      {
+        "name": "Lydia Schiller",
+        "position": 3
+      },
+      {
+        "name": "Connie Earl",
+        "position": 4
+      }
+    ],
+    "producers": [
+      {
+        "name": "David O. Selznick",
+        "position": 1
+      }
+    ],
     "controlled_subjects": [
       {
         "term": "African Americans",
@@ -906,6 +1378,9 @@
         "facet": "Social Issues",
         "weight": 2
       }
+    ],
+    "authors": [
+      "Margaret Mitchell"
     ]
   }
 ]

@@ -4,18 +4,15 @@
     "terms": [
       {
         "term": "Ambition",
-        "usage_count": 0,
-        "scope_note": "Drive for success/power"
+        "usage_count": 0
       },
       {
         "term": "Jealousy",
-        "usage_count": 0,
-        "scope_note": "Jealousy as motivation"
+        "usage_count": 0
       },
       {
         "term": "Revenge",
-        "usage_count": 0,
-        "scope_note": "Vengeance as motivation"
+        "usage_count": 0
       }
     ],
     "term_count": 3,
@@ -26,108 +23,87 @@
     "terms": [
       {
         "term": "Adoption",
-        "usage_count": 0,
-        "scope_note": "Legal or informal adoption as plot element"
+        "usage_count": 0
       },
       {
         "term": "Aunts",
-        "usage_count": 0,
-        "scope_note": "Aunt relationships"
+        "usage_count": 0
       },
       {
         "term": "Brothers",
-        "usage_count": 3,
-        "scope_note": "Relationships between brothers"
+        "usage_count": 3
       },
       {
         "term": "Brothers and sisters",
-        "usage_count": 0,
-        "scope_note": "Sibling relationships"
+        "usage_count": 0
       },
       {
         "term": "Children",
-        "usage_count": 23,
-        "scope_note": "Young people as characters or themes"
+        "usage_count": 23
       },
       {
         "term": "Cousins",
-        "usage_count": 0,
-        "scope_note": "Cousin relationships"
+        "usage_count": 0
       },
       {
         "term": "Family life",
-        "usage_count": 0,
-        "scope_note": "Domestic family situations"
+        "usage_count": 0
       },
       {
         "term": "Family relationships",
-        "usage_count": 27,
-        "scope_note": "General family dynamics"
+        "usage_count": 27
       },
       {
         "term": "Fatherhood",
-        "usage_count": 0,
-        "scope_note": "Paternal themes, becoming a father, paternal identity"
+        "usage_count": 0
       },
       {
         "term": "Fathers and daughters",
-        "usage_count": 12,
-        "scope_note": "Primary plot relationships between fathers and daughters"
+        "usage_count": 12
       },
       {
         "term": "Fathers and sons",
-        "usage_count": 0,
-        "scope_note": "Primary plot relationships between fathers and sons"
+        "usage_count": 0
       },
       {
         "term": "Grandfathers",
-        "usage_count": 0,
-        "scope_note": "Grandfather relationships"
+        "usage_count": 0
       },
       {
         "term": "Grandmothers",
-        "usage_count": 0,
-        "scope_note": "Grandmother relationships"
+        "usage_count": 0
       },
       {
         "term": "Motherhood",
-        "usage_count": 0,
-        "scope_note": "Maternal themes, becoming a mother, maternal identity"
+        "usage_count": 0
       },
       {
         "term": "Mothers and daughters",
-        "usage_count": 10,
-        "scope_note": "Primary plot relationships between mothers and daughters"
+        "usage_count": 10
       },
       {
         "term": "Mothers and sons",
-        "usage_count": 10,
-        "scope_note": "Primary plot relationships between mothers and sons"
+        "usage_count": 10
       },
       {
         "term": "Orphans",
-        "usage_count": 16,
-        "scope_note": "Characters without living parents, central to plot"
+        "usage_count": 16
       },
       {
         "term": "Sisters",
-        "usage_count": 6,
-        "scope_note": "Relationships between sisters"
+        "usage_count": 6
       },
       {
         "term": "Stepfathers",
-        "usage_count": 0,
-        "scope_note": "Stepfather relationships"
+        "usage_count": 0
       },
       {
         "term": "Stepmothers",
-        "usage_count": 0,
-        "scope_note": "Stepmother relationships"
+        "usage_count": 0
       },
       {
         "term": "Uncles",
-        "usage_count": 0,
-        "scope_note": "Uncle relationships"
+        "usage_count": 0
       }
     ],
     "term_count": 21,
@@ -138,13 +114,11 @@
     "terms": [
       {
         "term": "Alcoholism",
-        "usage_count": 0,
-        "scope_note": "Alcohol addiction"
+        "usage_count": 0
       },
       {
         "term": "Mental illness",
-        "usage_count": 0,
-        "scope_note": "Psychiatric conditions"
+        "usage_count": 0
       }
     ],
     "term_count": 2,
@@ -155,23 +129,19 @@
     "terms": [
       {
         "term": "Great Depression",
-        "usage_count": 0,
-        "scope_note": "1929-1939 economic crisis"
+        "usage_count": 0
       },
       {
         "term": "Roaring Twenties",
-        "usage_count": 0,
-        "scope_note": "1920s era"
+        "usage_count": 0
       },
       {
         "term": "World War I",
-        "usage_count": 0,
-        "scope_note": "1914-1918 and aftermath"
+        "usage_count": 0
       },
       {
         "term": "World War II",
-        "usage_count": 0,
-        "scope_note": "1939-1945 and home front"
+        "usage_count": 0
       }
     ],
     "term_count": 4,
@@ -182,53 +152,43 @@
     "terms": [
       {
         "term": "Bigamy",
-        "usage_count": 0,
-        "scope_note": "Being married to multiple people"
+        "usage_count": 0
       },
       {
         "term": "Courtship",
-        "usage_count": 5,
-        "scope_note": "Romantic pursuit"
+        "usage_count": 5
       },
       {
         "term": "Divorce",
-        "usage_count": 6,
-        "scope_note": "Marital dissolution"
+        "usage_count": 6
       },
       {
         "term": "Engagements",
-        "usage_count": 0,
-        "scope_note": "Betrothal, engagement period"
+        "usage_count": 0
       },
       {
         "term": "Infidelity",
-        "usage_count": 0,
-        "scope_note": "Marital unfaithfulness"
+        "usage_count": 0
       },
       {
         "term": "Marriage",
-        "usage_count": 29,
-        "scope_note": "Marriage as institution or event"
+        "usage_count": 29
       },
       {
         "term": "Romance",
-        "usage_count": 0,
-        "scope_note": "Romantic relationships"
+        "usage_count": 0
       },
       {
         "term": "Weddings",
-        "usage_count": 5,
-        "scope_note": "Wedding ceremonies"
+        "usage_count": 5
       },
       {
         "term": "Widowers",
-        "usage_count": 0,
-        "scope_note": "Men whose wives have died"
+        "usage_count": 0
       },
       {
         "term": "Widows",
-        "usage_count": 0,
-        "scope_note": "Women whose husbands have died"
+        "usage_count": 0
       }
     ],
     "term_count": 10,
@@ -239,73 +199,59 @@
     "terms": [
       {
         "term": "Automobile accidents",
-        "usage_count": 0,
-        "scope_note": "Car crashes"
+        "usage_count": 0
       },
       {
         "term": "Blackmail",
-        "usage_count": 0,
-        "scope_note": "Extortion through threats"
+        "usage_count": 0
       },
       {
         "term": "Death and dying",
-        "usage_count": 23,
-        "scope_note": "Death as theme"
+        "usage_count": 23
       },
       {
         "term": "Deception",
-        "usage_count": 0,
-        "scope_note": "Lies, tricks, false identities"
+        "usage_count": 0
       },
       {
         "term": "Escapes",
-        "usage_count": 0,
-        "scope_note": "Escape scenarios"
+        "usage_count": 0
       },
       {
         "term": "False accusations",
-        "usage_count": 0,
-        "scope_note": "Wrongful blame"
+        "usage_count": 0
       },
       {
         "term": "Fires",
-        "usage_count": 0,
-        "scope_note": "Fire as plot element"
+        "usage_count": 0
       },
       {
         "term": "Inheritance",
-        "usage_count": 0,
-        "scope_note": "Inheritance disputes or windfalls"
+        "usage_count": 0
       },
       {
         "term": "Kidnapping",
-        "usage_count": 2,
-        "scope_note": "Abduction"
+        "usage_count": 2
       },
       {
         "term": "Murder",
-        "usage_count": 13,
-        "scope_note": "Homicide as plot element"
+        "usage_count": 13
       },
       {
         "term": "Rescues",
-        "usage_count": 0,
-        "scope_note": "Rescue scenarios"
+        "usage_count": 0
       },
       {
         "term": "Secrets",
-        "usage_count": 0,
-        "scope_note": "Hidden information driving plot"
+        "usage_count": 0
       },
       {
         "term": "Self-sacrifice",
-        "usage_count": 0,
-        "scope_note": "Sacrificing for others"
+        "usage_count": 0
       },
       {
         "term": "Trials",
-        "usage_count": 7,
-        "scope_note": "Legal proceedings"
+        "usage_count": 7
       }
     ],
     "term_count": 14,
@@ -316,48 +262,39 @@
     "terms": [
       {
         "term": "Artists",
-        "usage_count": 5,
-        "scope_note": "Painters, sculptors, etc."
+        "usage_count": 5
       },
       {
         "term": "Farmers",
-        "usage_count": 7,
-        "scope_note": "Agricultural workers"
+        "usage_count": 7
       },
       {
         "term": "Lawyers",
-        "usage_count": 13,
-        "scope_note": "Legal professionals as significant characters"
+        "usage_count": 13
       },
       {
         "term": "Ministers",
-        "usage_count": 5,
-        "scope_note": "Religious clergy"
+        "usage_count": 5
       },
       {
         "term": "Nurses",
-        "usage_count": 12,
-        "scope_note": "Medical nurses"
+        "usage_count": 12
       },
       {
         "term": "Physicians",
-        "usage_count": 25,
-        "scope_note": "Medical doctors as significant characters"
+        "usage_count": 25
       },
       {
         "term": "Schoolteachers",
-        "usage_count": 0,
-        "scope_note": "Teachers as significant characters"
+        "usage_count": 0
       },
       {
         "term": "Servants",
-        "usage_count": 6,
-        "scope_note": "Domestic workers"
+        "usage_count": 6
       },
       {
         "term": "Writers",
-        "usage_count": 0,
-        "scope_note": "Authors, journalists"
+        "usage_count": 0
       }
     ],
     "term_count": 9,
@@ -368,38 +305,31 @@
     "terms": [
       {
         "term": "Boarding houses",
-        "usage_count": 0,
-        "scope_note": "Boarding house settings"
+        "usage_count": 0
       },
       {
         "term": "Farms",
-        "usage_count": 0,
-        "scope_note": "Agricultural settings"
+        "usage_count": 0
       },
       {
         "term": "New York City",
-        "usage_count": 3,
-        "scope_note": "NYC as setting"
+        "usage_count": 3
       },
       {
         "term": "Plantations",
-        "usage_count": 0,
-        "scope_note": "Southern plantation settings"
+        "usage_count": 0
       },
       {
         "term": "Rural life",
-        "usage_count": 0,
-        "scope_note": "Rural/country settings"
+        "usage_count": 0
       },
       {
         "term": "Small town life",
-        "usage_count": 0,
-        "scope_note": "Rural or small town settings"
+        "usage_count": 0
       },
       {
         "term": "Urban life",
-        "usage_count": 0,
-        "scope_note": "City settings"
+        "usage_count": 0
       }
     ],
     "term_count": 7,
@@ -410,33 +340,27 @@
     "terms": [
       {
         "term": "African Americans",
-        "usage_count": 13,
-        "scope_note": "African American characters or themes"
+        "usage_count": 13
       },
       {
         "term": "Class distinction",
-        "usage_count": 10,
-        "scope_note": "Class differences as plot element"
+        "usage_count": 10
       },
       {
         "term": "Poverty",
-        "usage_count": 10,
-        "scope_note": "Economic hardship as theme"
+        "usage_count": 10
       },
       {
         "term": "Prejudice",
-        "usage_count": 0,
-        "scope_note": "Bias and discrimination"
+        "usage_count": 0
       },
       {
         "term": "Racism",
-        "usage_count": 10,
-        "scope_note": "Racial prejudice as theme"
+        "usage_count": 10
       },
       {
         "term": "Slavery",
-        "usage_count": 5,
-        "scope_note": "Enslavement of people"
+        "usage_count": 5
       }
     ],
     "term_count": 6,
@@ -447,43 +371,35 @@
     "terms": [
       {
         "term": "Actresses",
-        "usage_count": 0,
-        "scope_note": "Female stage/film performers"
+        "usage_count": 0
       },
       {
         "term": "Childbirth",
-        "usage_count": 8,
-        "scope_note": "Giving birth, labor"
+        "usage_count": 8
       },
       {
         "term": "Chorus girls",
-        "usage_count": 0,
-        "scope_note": "Female stage performers"
+        "usage_count": 0
       },
       {
         "term": "Spinsters",
-        "usage_count": 6,
-        "scope_note": "Unmarried women (period term)"
+        "usage_count": 6
       },
       {
         "term": "Women in business",
-        "usage_count": 0,
-        "scope_note": "Female entrepreneurs/business owners"
+        "usage_count": 0
       },
       {
         "term": "Women lawyers",
-        "usage_count": 0,
-        "scope_note": "Female attorneys"
+        "usage_count": 0
       },
       {
         "term": "Women physicians",
-        "usage_count": 0,
-        "scope_note": "Female doctors"
+        "usage_count": 0
       },
       {
         "term": "Working women",
-        "usage_count": 1,
-        "scope_note": "Women in workforce"
+        "usage_count": 1
       }
     ],
     "term_count": 8,
